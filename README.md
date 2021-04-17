@@ -11,7 +11,7 @@ Adding a new language is just a matter of copying one of the existing ones, chan
 
 The language file format is simple JSON, plus interpolated tokens.
 
-Each entry has an `identifier` which uniquely identifies that translation entry, and `translation` text which is what will be displayed when that identifier is referenced by KCNav.
+Each entry has an `identifier` which uniquely identifies that translation entry, and `translation` text which is what will be displayed when that identifier is referenced by TsunKit.
 
 e.g.
 ```JSON
@@ -23,14 +23,14 @@ e.g.
 
 ### Value references
 
-KCNav may, in some cases, provide values to be rendered as part of translated text. These are referenced in translation entries by tokens in `{{curly braces}}`.
+TsunKit may, in some cases, provide values to be rendered as part of translated text. These are referenced in translation entries by tokens in `{{curly braces}}`.
 
 e.g.
 ```JSON
     "classicLine": "There are {{count}} lights!"
 ```
 
-The entry above might be rendered as `"There are 4 lights!"` after passing through the translation engine, assuming that `count` is a valid token and the value provided is `4`.
+The entry above might be rendered as `"There are 4 lights!"` after passing through the translation engine, assuming that `count` is a valid token and the value provided by TsunKit is `4`.
 
 These tokens are specific to the individual entries; You may only use the ones that are already there, and cannot insert tokens from other entries and expect them to Just Work.
 
@@ -45,11 +45,11 @@ This can be confusing to explain, so it's best to use an example:
     "termWhat": "World",
     "placeholderText": "Hello, [[termWhat]]!"
 ```
-In the above example, an entry named `termWhat` is defined, containing the text `World`. This is a translation entry that wouldn't be referenced directly by KCNav -- instead, it's intended to be referenced only by other translation entries!
+In the above example, an entry named `termWhat` is defined, containing the text `World`. This is a translation entry that wouldn't be referenced directly by TsunKit -- instead, it's intended to be referenced only by other translation entries!
 
 There is another translation entry, named `placeholderText`, which contains a *reference* to `termWhat`.
 
-When rendered by KCNav, the `placeholderText` entry would display as `Hello, World!`.
+When rendered by TsunKit, the `placeholderText` entry would display as `Hello, World!`.
 
 You could reference `termWhat` in other entries as well, and if you ever changed the value of `termWhat`, all other entries that reference it would be updated automatically.
 
