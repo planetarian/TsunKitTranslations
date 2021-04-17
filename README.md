@@ -1,14 +1,14 @@
 # TsunKitTranslations
 Locale/translation files for TsunKit/KCNav.
 
-Submissions to this repo will be reviewed and pulled into the TsunKit preview instance at http://kcbeta.piro.moe/
+## Submission
+Adding a new language is just a matter of copying one of the existing ones, changing the directory name, and modifying the JSON file with the new translations.
+
+Additions to the translation files may be submitted through the standard fork/PR process. Alternatively, If you aren't familiar enough with git to go through the normal process, feel free to submit your proposed changes via the `Issues` page.
 
 PRs are welcome for both new language additions and improvements to existing language files.
 
-Adding a new language is just a matter of copying one of the existing ones, changing the directory name, and modifying the JSON file with the new translations.
-
-## Submission
-Additions to the translation files may be submitted through the standard fork/PR process. Alternatively, If you aren't familiar enough with git to go through the normal process, feel free to submit your proposed changes via the `Issues` page.
+Submissions to this repo will be reviewed and pulled into the TsunKit preview instance at http://kcbeta.piro.moe/
 
 ## Format
 The language file format is simple JSON, plus interpolated tokens.
