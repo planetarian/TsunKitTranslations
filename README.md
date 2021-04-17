@@ -11,7 +11,7 @@ PRs are welcome for both new language additions and improvements to existing lan
 Submissions to this repo will be reviewed and pulled into the TsunKit preview instance at http://kcbeta.piro.moe/
 
 ## Format
-The language file format is simple JSON, plus interpolated tokens.
+The language file format is simple JSON, plus interpolated tokens. JSON translation files should be saved with Unicode encoding.
 
 Each entry has an `identifier` which uniquely identifies that translation entry, and `translation` text which is what will be displayed when that identifier is referenced by TsunKit.
 
