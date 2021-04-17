@@ -30,7 +30,7 @@ e.g.
     "classicLine": "There are {{count}} lights!"
 ```
 
-The entry above might be rendered as `"There are 4 lights!"` after passing through the translation engine, assuming that `{{count}}` is a valid token and the value provided is `4`.
+The entry above might be rendered as `"There are 4 lights!"` after passing through the translation engine, assuming that `count` is a valid token and the value provided is `4`.
 
 These tokens are specific to the individual entries; You may only use the ones that are already there, and cannot insert tokens from other entries and expect them to Just Work.
 
