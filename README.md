@@ -7,8 +7,10 @@ PRs are welcome for both new language additions and improvements to existing lan
 
 Adding a new language is just a matter of copying one of the existing ones, changing the directory name, and modifying the JSON file with the new translations.
 
-## Format
+## Submission
+Additions to the translation files may be submitted through the standard fork/PR process. Alternatively, If you aren't familiar enough with git to go through the normal process, feel free to submit your proposed changes via the `Issues` page.
 
+## Format
 The language file format is simple JSON, plus interpolated tokens.
 
 Each entry has an `identifier` which uniquely identifies that translation entry, and `translation` text which is what will be displayed when that identifier is referenced by TsunKit.
