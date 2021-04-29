@@ -68,7 +68,7 @@
   "filterPhaseTip": "(イベントのみ) 指定したHP/TPゲージ範囲でのデータを表示する",
   "filterMapHPLabel": "[[termMapHP]]:",
   "filterMapHPTip": "(イベントのみ) 指定したHP/TPゲージ値範囲でのデータを表示する",
-  "filterEdgesLabel": "[[termEdge]]s:",
+  "filterEdgesLabel": "[[termEdge]]:",
   "filterEdgesTip": "Show runs with a certain number of unlocked node-to-node connections.",
   "filterStartLabel": "スタート:",
   "filterEndLabel": "終点:",
