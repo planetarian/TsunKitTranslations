@@ -10,6 +10,20 @@ PRs are welcome for both new language additions and improvements to existing lan
 
 Submissions to this repo will be reviewed and pulled into the TsunKit preview instance at http://kcbeta.piro.moe/
 
+### Directory naming
+language directories should be named based on the locale string for the target language.
+
+To find your current system locale string, in Chromium-based browsers:
+1) Press`F12` or `Ctrl+Shift+I` to open your browser's developer tools
+2) Go to the `Console` tab
+3) Enter `navigator.language` into the console input and press `Enter`.
+
+or, from Windows 10 PowerShell, run `Get-WinSystemLocale` and look under the `Name` column.
+
+The locale string has a format like `en-US`, the first part being the primary locale and the second being the sub-locale.
+
+For new language additions, the folder can be named based on either the primary locale alone (e.g. `en`) or the whole thing (e.g. `en-US`), depending on whether different translation sets for different sub-locales are desired.
+
 ## Format
 The language file format is simple JSON, plus interpolated tokens. JSON translation files should be saved with Unicode encoding.
 
