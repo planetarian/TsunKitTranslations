@@ -226,7 +226,7 @@
   "panelTopShipsTabName": "トップ艦娘",
   "panelLOSTabName": "[[termELOS]]",
   "panelBonusesTabName": "特効ボーナス",
-  "panelEnemiesTabName": "深海艦隊",
+  "panelEnemiesTabName": "敵編成",
   "panelDropsTabName": "[[termDrops]]",
   "panelDupesTabName": "[[termDupes]]",
   "panelFriendFleetsTabName": "友軍艦隊",
@@ -247,8 +247,8 @@
   "panelStatsRadars5LOSLabel": "水上電探",
   "panelStatsRadarShipsLabel": "電探装備艦",
   "panelStatsRadarShips5LOSLabel": "水上電探装備艦",
-  "panelStatsMainFSRadarLabel": "[[termMain]]電探",
-  "panelStatsEscortFSRadarLabel": "[[termEscort]]電探",
+  "panelStatsMainFSRadarLabel": "第一旗艦電探",
+  "panelStatsEscortFSRadarLabel": "第二旗艦電探",
 
   "panelCompsFilterSectionLabel": "絞り込む条件:",
   "panelCompsFilterFleetTypeLabel": "{{check}} 艦隊タイプ",
@@ -262,7 +262,7 @@
 
   "panelFleetsRetreatsWarning": "注意：「撤退も含む」を無しにする場合は、艦隊の最終状態しか表示されてません",
   "panelFleetsEntryEventDataText": "{{difficulty}} [[termPhase]] {{phase}}, {{curHP}}/{{maxHP}}, ",
-  "panelFleetsEntryLOSDataText": "[[termELOS]]: {{los}} ( {{ships}} 隻が {{radars}} {{type}} を搭載 )",
+  "panelFleetsEntryLOSDataText": "[[termELOS]]: {{los}} ({{ships}} 隻が {{radars}} {{type}} を搭載)",
   "panelFleetsEntryFleetInfoText": "{{speed}} {{type}}, ",
   "panelFleetsEntryFleetMainText": "[[termMain]]:",
   "panelFleetsEntryFleetEscortText": "| [[termEscort]]:",
