@@ -1,4 +1,4 @@
-﻿{
+{
   "_commentTerms": "You can set arbitrary reusable 'terms', then reference them later with [[double brackets]] and they will automatically be replaced during rendering.",
   "_commentTokens": "Any identifiers within {{curly braces}} are predefined tokens which KCNav will replace with a value or element during render.",
   "_commentSpace": "To remove all text from a particular translation, use a space. Leaving the field completely empty will cause it to render the default value instead.",
