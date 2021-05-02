@@ -1,4 +1,4 @@
-﻿{
+{
   "_commentTerms": "You can set arbitrary reusable 'terms', then reference them later with [[double brackets]] and they will automatically be replaced during rendering.",
   "_commentTokens": "Any identifiers within {{curly braces}} are predefined tokens which KCNav will replace with a value or element during render.",
   "_commentSpace": "To remove all text from a particular translation, use a space. Leaving the field completely empty will cause it to render the default value instead.",
@@ -35,9 +35,11 @@
   "ribbonHelpTabName": "ヘルプ",
 
   "ribbonMapSectionName": "[[termMap]]",
+
   "ribbonGaugePhaseSectionName": "ゲージ",
   "ribbonGeneralSectionName": "汎用",
   "ribbonLayersSectionName": "表示",
+   
   "ribbonCompsSectionName": "編成",
   "ribbonShipClassesSectionName": "艦種",
   "ribbonAdmiralSectionName": "提督",
@@ -80,7 +82,7 @@
   "filterFCFUsageLabel": "有",
   "filterFCFUsageTip": "艦隊司令部施設を使用して、退避艦を含むデータ",
   "filterNoFCFUsageLabel": "無",
-  "filterNoFCFUsageTip": "艦隊司令部施設を装備しているが、まだ退避艦が出ないデータ",
+  "filterNoFCFUsageTip": "艦隊司令部施設 未使用データを表示 (装備有無によらず)",
 
   "displayMapBackgroundLabel": "背景画像",
   "displayMapBackgroundTip": "マップ背景の地図画像を表示する",
@@ -164,7 +166,7 @@
   "filterRadarShipCountLabel": "搭載艦:",
   "filterRadarShipCountTip": "指定した電探装備艦数のデータを絞り込む",
   "filterRadarTypeLabel": "電探タイプ:",
-  "filterRadarTypeTip": "絞り込み対象とする電探タイプを設定",
+  "filterRadarTypeTip": "絞り込みでカウント対象にする電探タイプを設定",
   "radarTypeAny": "[[termAny]]",
   "radarType5LOS": "水上電探(索敵+5以上)",
   "radarTermSurface": "水上電探",
@@ -202,7 +204,7 @@
   "nodeTypeResource": "アイテム獲得",
   "nodeTypeAirResource": "航空偵察",
   "nodeTypeTransport": "揚陸地点",
-  "nodeTypeAirRaid": "空襲戦",
+  "nodeTypeAirRaid": "空襲",
   "nodeTypeAirBattle": "航空戦",
   "nodeTypeAmbush": "レーダー射撃",
   "nodeTypeNightBattle": "夜戦",
@@ -255,12 +257,11 @@
   "panelCompsFilterMainFSLabel": "{{check}} 第一旗艦",
   "panelCompsFilterEscortFSLabel": "{{check}} 第二旗艦",
   "panelCompsFCFWarning": "注意：以下の編成は艦隊司令部施設の使用を反映してません",
-
   "panelCompsMainFleetLabel": "({{type}}) [[termMain]]:",
   "panelCompsEscortFleetLabel": "[[termEscort]]:",
   "panelCompsFilterByCompLabel": "絞り込む",
 
-  "panelFleetsRetreatsWarning": "注意：「撤退も含む」を無しにする場合は、艦隊の最終状態しか表示されてません",
+  "panelFleetsRetreatsWarning": "注意: '撤退含む'を無効にしている場合、 艦隊の最終状態のみが表示されます",
   "panelFleetsEntryEventDataText": "{{difficulty}} [[termPhase]] {{phase}}, {{curHP}}/{{maxHP}}, ",
   "panelFleetsEntryLOSDataText": "[[termELOS]]: {{los}} ({{ships}} 隻が {{radars}} {{type}} を搭載)",
   "panelFleetsEntryFleetInfoText": "{{speed}} {{type}}, ",
@@ -333,14 +334,16 @@
   "mapMenuLOSLabel": "[[termELOS]]",
   "mapMenuIncomingLabel": "このマスまでのルートを調べる",
   "mapMenuOutgoingLabel": "このマスからのルートを調べる",
+
   "mapMenuFilterToNodeLabel": "[[panelFilterToNodeLabel]]",
   "mapMenuRemoveNodeFilterLabel": "[[panelRemoveNodeFilterLabel]]",
   "mapMenuFilterToEdgeLabel": "[[panelFilterToEdgeLabel]]",
   "mapMenuRemoveEdgeFilterLabel": "[[panelRemoveEdgeFilterLabel]]",
-  "mapMenuFilterToLockedLabel": "この[[termEdge]までの範囲に絞る",
-  "mapMenuFilterToUnlockedLabel": "この[[termEdge]からの範囲に絞る",
-  "mapMenuResetLockedLabel": "範囲上限を解除",
-  "mapMenuResetUnlockedLabel": "範囲下限を解除",
+
+  "mapMenuFilterToLockedLabel": "未開放で絞り込み",
+  "mapMenuFilterToUnlockedLabel": "開放済みで絞り込み",
+  "mapMenuResetLockedLabel": "未開放での絞り込みを解除",
+  "mapMenuResetUnlockedLabel": "開放済みでの絞り込みを解除",
 
   "loadingMessageText": "検索中、しばらくお待ちください…",
   "loadingMessageTip": "Now loading...",
