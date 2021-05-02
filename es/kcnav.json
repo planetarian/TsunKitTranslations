@@ -16,7 +16,7 @@
   "termRuns": "Salidas",
   "termCount": "Conteo",
   "termRate": "Ratio",
-  "termDrops": "Caídas",
+  "termDrops": "Recompensas",
   "termDupes": "Duplicados",
   "termDetails": "Detalles",
   "termEdge": "Límite",
@@ -348,7 +348,7 @@
   "footerTsunDBCreditText": "Impulsado por {{tsundb}}",
   "footerContactText": "¿Algún problema? Contacta con Chami en {{twitter}} o el {{kcdiscord}}",
   "footerTwitterLinkText": "Twitter",
-  "footerDiscordLinkText": "English KC Discord",
+  "footerDiscordLinkText": "Discord de KC en inglés",
   "footerSupportText": "Apoya KCNav en {{link}}",
   "footerSupportLinkText": "Ko-Fi"
 }
