@@ -278,8 +278,10 @@
   "panelBonusesShipHeader": "[[termShip]]",
   "panelBonusesClassHeader": "[[termClass]]",
   "panelBonusesCountHeader": "[[termCount]]",
-  "panelBonusesMinHeader": "Min",
-  "panelBonusesMaxHeader": "Max",
+  "panelBonusesMinHighModHeader": "Min Mod (High)",
+  "panelBonusesMinHighModTip": "Minimum observed value for possible bonus damage modifier, assuming high armor rolls",
+  "panelBonusesMaxLowModHeader": "Max Mod (Low)",
+  "panelBonusesMaxLowModTip": "Maximum observed value for possible bonus damage modifier, assuming low armor rolls",
   "panelBonusesWarning": "Recuerde: No se deje engañar por numeros 'Max' muy grandes. Bonuses de equipamiento y debilidades de los enemigos pueden causar falsos positivos.",
 
   "panelEnemiesFormationHeader": "Formacion",
