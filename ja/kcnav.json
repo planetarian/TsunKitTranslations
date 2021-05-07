@@ -314,6 +314,7 @@
   "panelBonusesMaxLowModHeader": "Max Mod (Low)",
   "panelBonusesMaxLowModTip": "Maximum observed value for possible bonus damage modifier, assuming low armor rolls",
   "panelBonusesWarning": "注意: 大きな「最大倍率」に惑わされないでください。\n装備特効や装甲破砕ギミックによって誤検出されることがあります。",
+  "panelBonusesCopyLabel": "クリップボードへのコピー",
 
   "panelEnemiesFormationHeader": "陣形",
   "panelEnemiesFleetHeader": "編成",

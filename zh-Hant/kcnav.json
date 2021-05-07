@@ -310,6 +310,7 @@
   "panelBonusesMaxLowModHeader": "Max Mod (Low)",
   "panelBonusesMaxLowModTip": "Maximum observed value for possible bonus damage modifier, assuming low armor rolls",
   "panelBonusesWarning": "Remember: Don't get baited by large 'Max' numbers. Equipment bonuses and enemy weaknesses may cause false positives.",
+  "panelBonusesCopyLabel": "Copy data to clipboard",
 
   "panelEnemiesFormationHeader": "Form",
   "panelEnemiesFleetHeader": "Fleet",

@@ -309,6 +309,7 @@
   "panelBonusesMaxLowModHeader": "Max Mod (Low)",
   "panelBonusesMaxLowModTip": "Maximum observed value for possible bonus damage modifier, assuming low armor rolls",
   "panelBonusesWarning": "Recuerde: No se deje engañar por numeros 'Max' muy grandes. Bonuses de equipamiento y debilidades de los enemigos pueden causar falsos positivos.",
+  "panelBonusesCopyLabel": "Copy data to clipboard",
 
   "panelEnemiesFormationHeader": "Formacion",
   "panelEnemiesFleetHeader": "Flota",
