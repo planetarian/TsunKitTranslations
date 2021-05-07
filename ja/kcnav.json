@@ -323,6 +323,7 @@
   "panelEnemiesAirPowerHeader": "[[termAirAD]] / [[termAirAP]] / [[termAirAS]] / [[termAirASPlus]]",
   "panelEnemiesAirPowerTip": "クリックで航空戦時/基地航空隊攻撃時の値に切り替えられます。\n（基地航空隊攻撃時は敵の水上偵察機も制空権争いに参加するため）",
   "panelEnemiesAirPowerLbasLabel": "(航空隊)",
+  "panelEnemiesAirPowerUncertainEquipsWarning": "These numbers may be inaccurate, as complete data is not yet available for the following equipment: {{items}}",
   "panelEnemiesCountHeader": "[[termRuns]]",
   "panelEnemiesDetailsLabel": "[[termDetails]]",
 

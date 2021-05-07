@@ -317,6 +317,7 @@
   "panelEnemiesAirPowerHeader": "[[termAirAD]] / [[termAirAP]] / [[termAirAS]] / [[termAirASPlus]]",
   "panelEnemiesAirPowerTip": "Click para alternar valores Normal/Apoyo aereo",
   "panelEnemiesAirPowerLbasLabel": "(Apoyo aereo)",
+  "panelEnemiesAirPowerUncertainEquipsWarning": "These numbers may be inaccurate, as complete data is not yet available for the following equipment: {{items}}",
   "panelEnemiesCountHeader": "[[termCount]]",
   "panelEnemiesDetailsLabel": "[[termDetails]]",
 

@@ -318,6 +318,7 @@
   "panelEnemiesAirPowerHeader": "[[termAirAD]] / [[termAirAP]] / [[termAirAS]] / [[termAirASPlus]]",
   "panelEnemiesAirPowerTip": "Click to toggle Normal/LBAS values",
   "panelEnemiesAirPowerLbasLabel": "(LBAS)",
+  "panelEnemiesAirPowerUncertainEquipsWarning": "These numbers may be inaccurate, as complete data is not yet available for the following equipment: {{items}}",
   "panelEnemiesCountHeader": "[[termCount]]",
   "panelEnemiesDetailsLabel": "[[termDetails]]",
 
