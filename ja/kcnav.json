@@ -294,7 +294,7 @@
   "panelFleetsEntryLOSDataText": "[[termELOS]]: {{los}} ({{ships}} 隻が {{radars}} {{type}} を装備)",
   "panelFleetsEntryFleetInfoText": "艦隊の速力：{{speed}}, 編成タイプ：{{type}}, ",
   "panelFleetsEntryFleetMainText": "[[termMain]]:",
-  "panelFleetsEntryFleetEscortText": "| [[termEscort]]:",
+  "panelFleetsEntryFleetEscortText": "[[termEscort]]:",
   "panelFleetsEntryLevelClassText": "Lv.{{level}} {{class}}",
 
   "panelTopShipsMainFleetLabel": "[[termMain]]",

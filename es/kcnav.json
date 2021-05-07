@@ -285,10 +285,10 @@
 
   "panelFleetsRetreatsWarning": "ATENCIÓN: Solo la flota final se muestra mientras 'Incluir retiradas' esté desactivado.",
   "panelFleetsEntryEventDataText": "{{difficulty}} [[termPhase]] {{phase}}, {{curHP}}/{{maxHP}}, ",
-  "panelFleetsEntryLOSDataText": "LdV: {{los}} ( {{radars}} {{type}} radar(es) en barcos {{ships}})",
+  "panelFleetsEntryLOSDataText": "LdV: {{los}} ({{radars}} {{type}} radar(es) en barcos {{ships}})",
   "panelFleetsEntryFleetInfoText": "{{speed}} {{type}}, ",
   "panelFleetsEntryFleetMainText": "[[termMain]]:",
-  "panelFleetsEntryFleetEscortText": "| [[termEscort]]:",
+  "panelFleetsEntryFleetEscortText": "[[termEscort]]:",
   "panelFleetsEntryLevelClassText": "Nv.{{level}} {{class}}",
 
   "panelTopShipsMainFleetLabel": "Flota principal",
