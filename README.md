@@ -25,7 +25,7 @@ The locale string has a format like `en-US`, the first part being the primary lo
 For new language additions, the folder can be named based on either the primary locale alone (e.g. `en`) or the whole thing (e.g. `en-US`), depending on whether different translation sets for different sub-locales are desired.
 
 ## Format
-The language file format is simple JSON, plus interpolated tokens. JSON translation files should be saved with Unicode encoding.
+The language file format is simple JSON, plus interpolated tokens. JSON translation files should be saved with Unicode encoding, *without* byte-order marks (BOM).
 
 Each entry has an `identifier` which uniquely identifies that translation entry, and `translation` text which is what will be displayed when that identifier is referenced by TsunKit.
 
@@ -38,7 +38,6 @@ e.g.
 ```
 
 ### Value references
-
 TsunKit may, in some cases, provide values to be rendered as part of translated text. These are referenced in translation entries by tokens in `{{curly braces}}`.
 
 e.g.
@@ -53,7 +52,6 @@ These tokens are specific to the individual entries; You may only use the ones t
 You can, however, format the translation around them in any way you wish, and in the case of entries with multiple token references, you may change the order in which they appear.
 
 ### Term references
-
 Sometimes, it can be useful to define a 'term' in one location, and then reference it elsewhere. This allows you to do things like changing the word used for something in multiple places at once, with only a single change.
 
 This can be confusing to explain, so it's best to use an example:
@@ -70,6 +68,9 @@ When rendered by TsunKit, the `placeholderText` entry would display as `Hello, W
 You could reference `termWhat` in other entries as well, and if you ever changed the value of `termWhat`, all other entries that reference it would be updated automatically.
 
 TsunKit's English translation files have a set of predefined entries intended to be used in this fashion, marked with the `term` prefix. These entries are not directly referenced from TsunKit itself, and they can be removed in other language files if they are no longer needed. New term entries may also be freely added if desired.
+
+## Locale-specific styles
+If specific style adjustments are required for ideal presentation in a given locale/language, these changes can be placed in a CSS file alongside the JSON translation file (e.g. `kcnav.json` and `kcnav.css`). Proposed CSS changes will be reviewed to ensure they aren't something that would be better served as an update to the global CSS instead.
 
 
 
