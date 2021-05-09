@@ -25,6 +25,7 @@
     "termAirAP": "AP",
     "termAirAS": "AS",
     "termAirASPlus": "AS+",
+    "termUnknown": "Tidak Diketahui",
   
     "ribbonMapTabName": "[[termMap]]",
     "ribbonCompsTabName": "Komp",
@@ -231,7 +232,7 @@
     "nodeTypeMaelstrom": "Pusaran",
     "nodeTypeFinishLine": "Titik Akhir",
     "nodeTypeLBAS": "LBAS",
-    "nodeTypeUnknown": "Tidak Diketahui",
+    "nodeTypeUnknown": "[[termUnknown]]",
   
     "pathName": "{{fromNode}}→{{toNode}}",
     "edgeName": "([[termEdge]] {{edgeID}})",
@@ -292,6 +293,7 @@
     "panelFleetsEntryFleetMainText": "[[termMain]]:",
     "panelFleetsEntryFleetEscortText": "[[termEscort]]:",
     "panelFleetsEntryLevelClassText": "Lv.{{level}} {{class}}",
+    "panelFleetsEntryUnknownEquipText": "[[termUnknown]]",
   
     "panelTopShipsMainFleetLabel": "Armada Utama",
     "panelTopShipsEscortFleetLabel": "Armada Pengawal",
@@ -339,7 +341,7 @@
     "panelDropsUnhideAllLabel": "Tampilkan Kembali semuanya",
     "panelDropsSearchByShipText": "Cari berdasarkan kapal (TsunDB)",
   
-    "rarityUnknown": "Tidak diketahui",
+    "rarityUnknown": "[[termUnknown]]",
     "rarityCommon": "Umum",
     "rarityRare": "Jarang",
     "rarityExclusive": "Eksklusif",

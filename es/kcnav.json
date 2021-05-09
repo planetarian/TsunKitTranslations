@@ -25,6 +25,7 @@
   "termAirAP": "AP",
   "termAirAS": "AS",
   "termAirASPlus": "AS+",
+  "termUnknown": "Desconocido",
 
   "ribbonMapTabName": "[[termMap]]",
   "ribbonCompsTabName": "Composiciones",
@@ -230,7 +231,7 @@
   "nodeTypeMaelstrom": "Remolino",
   "nodeTypeFinishLine": "Linea de meta",
   "nodeTypeLBAS": "Apoyo aereo",
-  "nodeTypeUnknown": "Desconocido",
+  "nodeTypeUnknown": "[[termUnknown]]",
 
   "pathName": "{{fromNode}}→{{toNode}}",
   "edgeName": "([[termEdge]] {{edgeID}})",
@@ -290,6 +291,7 @@
   "panelFleetsEntryFleetMainText": "[[termMain]]:",
   "panelFleetsEntryFleetEscortText": "[[termEscort]]:",
   "panelFleetsEntryLevelClassText": "Nv.{{level}} {{class}}",
+  "panelFleetsEntryUnknownEquipText": "[[termUnknown]]",
 
   "panelTopShipsMainFleetLabel": "Flota principal",
   "panelTopShipsEscortFleetLabel": "Flota escolta",
@@ -337,7 +339,7 @@
   "panelDropsUnhideAllLabel": "Mostrar todo",
   "panelDropsSearchByShipText": "Buscar por barco (TsunDB)",
 
-  "rarityUnknown": "Desconocido",
+  "rarityUnknown": "[[termUnknown]]",
   "rarityCommon": "Común",
   "rarityRare": "Raro",
   "rarityExclusive": "Exclusivo",

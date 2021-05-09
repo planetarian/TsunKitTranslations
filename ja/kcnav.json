@@ -296,6 +296,7 @@
   "panelFleetsEntryFleetMainText": "[[termMain]]:",
   "panelFleetsEntryFleetEscortText": "[[termEscort]]:",
   "panelFleetsEntryLevelClassText": "Lv.{{level}} {{class}}",
+  "panelFleetsEntryUnknownEquipText": "[[termUnknown]]",
 
   "panelTopShipsMainFleetLabel": "[[termMain]]",
   "panelTopShipsEscortFleetLabel": "[[termEscort]]",

@@ -25,6 +25,7 @@
   "termAirAP": "AP",
   "termAirAS": "AS",
   "termAirASPlus": "AS+",
+  "termUnknown": "Unknown",
 
   "ribbonMapTabName": "[[termMap]]",
   "ribbonCompsTabName": "Comps",
@@ -231,7 +232,7 @@
   "nodeTypeMaelstrom": "Maelstrom",
   "nodeTypeFinishLine": "Finish Line",
   "nodeTypeLBAS": "LBAS",
-  "nodeTypeUnknown": "Unknown",
+  "nodeTypeUnknown": "[[termUnknown]]",
 
   "pathName": "{{fromNode}}→{{toNode}}",
   "edgeName": "([[termEdge]] {{edgeID}})",
@@ -292,6 +293,7 @@
   "panelFleetsEntryFleetMainText": "[[termMain]]:",
   "panelFleetsEntryFleetEscortText": "[[termEscort]]:",
   "panelFleetsEntryLevelClassText": "Lv.{{level}} {{class}}",
+  "panelFleetsEntryUnknownEquipText": "[[termUnknown]]",
 
   "panelTopShipsMainFleetLabel": "Main Fleet",
   "panelTopShipsEscortFleetLabel": "Escort Fleet",
@@ -339,7 +341,7 @@
   "panelDropsUnhideAllLabel": "Unhide All",
   "panelDropsSearchByShipText": "Search by ship (TsunDB)",
 
-  "rarityUnknown": "Unknown",
+  "rarityUnknown": "[[termUnknown]]",
   "rarityCommon": "Common",
   "rarityRare": "Rare",
   "rarityExclusive": "Exclusive",
