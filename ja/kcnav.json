@@ -186,6 +186,8 @@
   "losFormulaCn3": "3",
   "losFormulaCn4": "4",
 
+  "filterDrumCountLabel": "Drums:",
+  "filterDrumCountTip": "Shows runs where the fleet has the specified numbers of drums equipped.",
   "filterRadarCountLabel": "電探装備数:",
   "filterRadarCountTip": "指定した電探の装備数でデータをフィルタリングできます。",
   "filterRadarShipCountLabel": "電探装備艦数:",
@@ -270,6 +272,7 @@
   "panelStatsPhaseLabel": "[[termPhase]]",
   "panelStatsCurrentMapHPLabel": "[[termMapHP]]",
   "panelStatsMaxMapHPLabel": "最大[[termMapHP]]",
+  "panelStatsDrumsLabel": "Drums",
   "panelStatsSpeedLabel": "速力",
   "panelStatsRadarsLabel": "電探装備数",
   "panelStatsRadars5LOSLabel": "水上電探",

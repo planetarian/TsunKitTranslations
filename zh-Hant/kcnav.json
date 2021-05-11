@@ -181,6 +181,8 @@
   "losFormulaCn3": "Cn3",
   "losFormulaCn4": "Cn4",
 
+  "filterDrumCountLabel": "Drums:",
+  "filterDrumCountTip": "Shows runs where the fleet has the specified numbers of drums equipped.",
   "filterRadarCountLabel": "雷達:",
   "filterRadarCountTip": "Shows runs where the fleet has the specified numbers of radars equipped.",
   "filterRadarShipCountLabel": "裝備雷達的船隻數量:",
@@ -265,6 +267,7 @@
   "panelStatsPhaseLabel": "[[termPhase]]",
   "panelStatsCurrentMapHPLabel": "[[termMapHP]]",
   "panelStatsMaxMapHPLabel": "Max [[termMapHP]]",
+  "panelStatsDrumsLabel": "Drums",
   "panelStatsSpeedLabel": "Speed",
   "panelStatsRadarsLabel": "Radars (Any)",
   "panelStatsRadars5LOSLabel": "Radars (5LoS+)",

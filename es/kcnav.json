@@ -180,6 +180,8 @@
   "losFormulaCn3": "Cn3",
   "losFormulaCn4": "Cn4",
 
+  "filterDrumCountLabel": "Drums:",
+  "filterDrumCountTip": "Shows runs where the fleet has the specified numbers of drums equipped.",
   "filterRadarCountLabel": "Radares:",
   "filterRadarCountTip": "Mostrar salidas en las que la flota tiene el numero especificado de radares.",
   "filterRadarShipCountLabel": "en barcos:",
@@ -264,6 +266,7 @@
   "panelStatsPhaseLabel": "[[termPhase]]",
   "panelStatsCurrentMapHPLabel": "[[termMapHP]]",
   "panelStatsMaxMapHPLabel": "Max [[termMapHP]]",
+  "panelStatsDrumsLabel": "Drums",
   "panelStatsSpeedLabel": "Velocidad",
   "panelStatsRadarsLabel": "Radares (Cualquiera)",
   "panelStatsRadars5LOSLabel": "Radares (5LdV+)",
