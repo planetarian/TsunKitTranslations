@@ -78,7 +78,7 @@
   "filterFCFUsageSectionLabel": "Fled:",
   "filterFCFUsageSectionTip": "Allows you to filter based on whether or not a Fleet Command Facility was used. FCF activation causes ships to be retreated from the sortie, and may affect routing in unexpected ways.",
   "filterFCFUsageLabel": "Yes",
-  "filterFCFUsageTip": "Show runs where ships left the  due to FCF activation.",
+  "filterFCFUsageTip": "Show runs where ships left the fleet due to FCF activation.",
   "filterNoFCFUsageLabel": "No",
   "filterNoFCFUsageTip": "Show runs where FCF was not activated (yet).",
 
