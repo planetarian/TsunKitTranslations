@@ -25,7 +25,7 @@
   "termAirAP": "航空均势",
   "termAirAS": "航空优势",
   "termAirASPlus": "制空权确保",
-  "termUnknown": "Unknown",
+  "termUnknown": "不明",
 
   "ribbonMapTabName": "[[termMap]]",
   "ribbonCompsTabName": "舰种组成",
@@ -33,16 +33,16 @@
   "ribbonHelpTabName": "帮助",
 
   "ribbonMapSectionName": "[[termMap]]",
-  "ribbonGaugePhaseSectionName": "血条设定",
+  "ribbonGaugePhaseSectionName": "血量/阶段设定",
   "ribbonGeneralSectionName": "通用设定",
   "ribbonLayersSectionName": "表示设定",
-  "ribbonCompsSectionName": "舰种组成",
-  "ribbonShipClassesSectionName": "舰种",
-  "ribbonShipClassesSectionTip": "包含或清除特定舰种标签。按下舰种标签可切换颜色：白色（不进行特定筛选）、绿色（必须包含）、红色（必须不包含）",
-  "ribbonAdmiralSectionName": "提督",
+  "ribbonCompsSectionName": "编成设定",
+  "ribbonShipClassesSectionName": "舰种筛选",
+  "ribbonShipClassesSectionTip": "选择或清除特定舰种标签。按下舰种标签可切换颜色：白色（不进行特定筛选）、绿色（必须包含）、红色（必须不包含）",
+  "ribbonAdmiralSectionName": "提督等级设定",
   "ribbonFleetSectionName": "[[termFleet]]",
-  "ribbonLosRadarsSectionName": "索敌/电探",
-  "ribbonKeySectionName": "Key",
+  "ribbonLosRadarsSectionName": "索敌/电探设定",
+  "ribbonKeySectionName": "关键字",
 
   "ribbonApplyFiltersLabel": "确认筛选",
 
