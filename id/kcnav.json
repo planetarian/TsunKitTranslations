@@ -33,16 +33,27 @@
   "ribbonHelpTabName": "Bantuan",
 
   "ribbonMapSectionName": "[[termMap]]",
+  "ribbonMapSectionTip": " ",
   "ribbonGaugePhaseSectionName": "Gauge/Fase",
+  "ribbonGaugePhaseSectionTip": " ",
   "ribbonGeneralSectionName": "Umum",
+  "ribbonGeneralSectionTip": " ",
   "ribbonLayersSectionName": "Layers",
+  "ribbonLayersSectionTip": " ",
+
   "ribbonCompsSectionName": "Konposisi",
+  "ribbonCompsSectionTip": " ",
   "ribbonShipClassesSectionName": "Kelas Kapal",
   "ribbonShipClassesSectionTip": "Penyertaan/Pengecualian filter untuk setiap kelas kapal. Ketuk untuk mengaktifkan antara putih (tanpa filter), hijau (harus disertakan), dan merah (tidak boleh disertakan).",
+  
   "ribbonAdmiralSectionName": "Laksamana",
+  "ribbonAdmiralSectionTip": " ",
   "ribbonFleetSectionName": "[[termFleet]]",
+  "ribbonFleetSectionTip": " ",
   "ribbonLosRadarsSectionName": "LoS/Radar",
+  "ribbonLosRadarsSectionTip": " ",
   "ribbonKeySectionName": "Legenda",
+  "ribbonKeySectionTip": " ",
 
   "ribbonApplyFiltersLabel": "Terapkan Filter",
 

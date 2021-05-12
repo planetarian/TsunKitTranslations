@@ -33,16 +33,27 @@
   "ribbonHelpTabName": "Help",
 
   "ribbonMapSectionName": "[[termMap]]",
+  "ribbonMapSectionTip": " ",
   "ribbonGaugePhaseSectionName": "Gauge/Phase",
+  "ribbonGaugePhaseSectionTip": " ",
   "ribbonGeneralSectionName": "General",
+  "ribbonGeneralSectionTip": " ",
   "ribbonLayersSectionName": "Layers",
+  "ribbonLayersSectionTip": " ",
+
   "ribbonCompsSectionName": "Compositions",
+  "ribbonCompsSectionTip": " ",
   "ribbonShipClassesSectionName": "Ship Classes",
   "ribbonShipClassesSectionTip": "Inclusion/exclusion filter for individual ship classes. Click to toggle between white (no filter), green (must include), and red (must not include).",
+  
   "ribbonAdmiralSectionName": "Admiral",
+  "ribbonAdmiralSectionTip": " ",
   "ribbonFleetSectionName": "[[termFleet]]",
+  "ribbonFleetSectionTip": " ",
   "ribbonLosRadarsSectionName": "LoS/Radars",
+  "ribbonLosRadarsSectionTip": " ",
   "ribbonKeySectionName": "Key",
+  "ribbonKeySectionTip": " ",
 
   "ribbonApplyFiltersLabel": "Apply Filters",
 

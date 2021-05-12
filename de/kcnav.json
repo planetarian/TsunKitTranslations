@@ -32,16 +32,27 @@
   "ribbonHelpTabName": "Hilfe",
 
   "ribbonMapSectionName": "[[termMap]]",
+  "ribbonMapSectionTip": " ",
   "ribbonGaugePhaseSectionName": "Balken/Phase",
+  "ribbonGaugePhaseSectionTip": " ",
   "ribbonGeneralSectionName": "General",
+  "ribbonGeneralSectionTip": " ",
   "ribbonLayersSectionName": "Layer",
+  "ribbonLayersSectionTip": " ",
+
   "ribbonCompsSectionName": "Kompositionen",
+  "ribbonCompsSectionTip": " ",
   "ribbonShipClassesSectionName": "Schiffklassen",
   "ribbonShipClassesSectionTip": "Einbeziehen/Ausschließen für bestimmte Schiffstypen. Klicke um zwischen weiß (kein Filter), grün (benötigt) und rot (verboten) zu wechseln",
+
   "ribbonAdmiralSectionName": "Admiral",
+  "ribbonAdmiralSectionTip": " ",
   "ribbonFleetSectionName": "[[termFleet]]",
+  "ribbonFleetSectionTip": " ",
   "ribbonLosRadarsSectionName": "LoS/RADAR",
+  "ribbonLosRadarsSectionTip": " ",
   "ribbonKeySectionName": "Schlüssel",
+  "ribbonKeySectionTip": " ",
 
   "ribbonApplyFiltersLabel": "Filter anwenden",
 

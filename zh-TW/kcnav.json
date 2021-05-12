@@ -33,16 +33,27 @@
   "ribbonHelpTabName": "Help",
 
   "ribbonMapSectionName": "[[termMap]]",
-  "ribbonGaugePhaseSectionName": " ",
-  "ribbonGeneralSectionName": " ",
-  "ribbonLayersSectionName": " ",
+  "ribbonMapSectionTip": " ",
+  "ribbonGaugePhaseSectionName": "Gauge/Phase",
+  "ribbonGaugePhaseSectionTip": " ",
+  "ribbonGeneralSectionName": "General",
+  "ribbonGeneralSectionTip": " ",
+  "ribbonLayersSectionName": "Layer",
+  "ribbonLayersSectionTip": " ",
+
   "ribbonCompsSectionName": "艦隊組成",
+  "ribbonCompsSectionTip": " ",
   "ribbonShipClassesSectionName": "艦種",
   "ribbonShipClassesSectionTip": "Inclusion/exclusion filter for individual ship classes. Click to toggle between white (no filter), green (must include), and red (must not include).",
-  "ribbonAdmiralSectionName": " ",
+  
+  "ribbonAdmiralSectionName": "Admiral",
+  "ribbonAdmiralSectionTip": " ",
   "ribbonFleetSectionName": "[[termFleet]]",
+  "ribbonFleetSectionTip": " ",
   "ribbonLosRadarsSectionName": "LoS/Radars",
+  "ribbonLosRadarsSectionTip": " ",
   "ribbonKeySectionName": "Key",
+  "ribbonKeySectionTip": " ",
 
   "ribbonApplyFiltersLabel": "Apply Filters",
 

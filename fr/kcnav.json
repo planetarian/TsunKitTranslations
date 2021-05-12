@@ -33,16 +33,27 @@
   "ribbonHelpTabName": "Aide",
 
   "ribbonMapSectionName": "[[termMap]]",
+  "ribbonMapSectionTip": " ",
   "ribbonGaugePhaseSectionName": "Jauge/Phase",
+  "ribbonGaugePhaseSectionTip": " ",
   "ribbonGeneralSectionName": "Général",
+  "ribbonGeneralSectionTip": " ",
   "ribbonLayersSectionName": "Surcouches",
+  "ribbonLayersSectionTip": " ",
+
   "ribbonCompsSectionName": "Compositions",
+  "ribbonCompsSectionTip": " ",
   "ribbonShipClassesSectionName": "Classes de navires",
   "ribbonShipClassesSectionTip": "Filtre d'inclusion/exclusion pour des classes de navires individuelles. Cliquez ici pour basculer entre blanc (aucun filtre), vert (doit être inclus), et rouge (ne doit pas être inclus).",
+  
   "ribbonAdmiralSectionName": "Amiral",
+  "ribbonAdmiralSectionTip": " ",
   "ribbonFleetSectionName": "[[termFleet]]",
+  "ribbonFleetSectionTip": " ",
   "ribbonLosRadarsSectionName": "LoS/Radars",
+  "ribbonLosRadarsSectionTip": " ",
   "ribbonKeySectionName": "Légende",
+  "ribbonKeySectionTip": " ",
 
   "ribbonApplyFiltersLabel": "Appliquer les filtres",
 

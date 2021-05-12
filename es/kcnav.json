@@ -33,15 +33,27 @@
   "ribbonHelpTabName": "Ayuda",
 
   "ribbonMapSectionName": "[[termMap]]",
+  "ribbonMapSectionTip": " ",
   "ribbonGaugePhaseSectionName": "Nivel/Fase",
+  "ribbonGaugePhaseSectionTip": " ",
   "ribbonGeneralSectionName": "General",
+  "ribbonGeneralSectionTip": " ",
   "ribbonLayersSectionName": "Capas",
+  "ribbonLayersSectionTip": " ",
+
   "ribbonCompsSectionName": "Composiciones",
+  "ribbonCompsSectionTip": " ",
   "ribbonShipClassesSectionName": "Clases de barcos",
+  "ribbonShipClassesSectionTip": " ",
+
   "ribbonAdmiralSectionName": "Almirante",
+  "ribbonAdmiralSectionTip": " ",
   "ribbonFleetSectionName": "[[termFleet]]",
+  "ribbonFleetSectionTip": " ",
   "ribbonLosRadarsSectionName": "LdV/Radares",
+  "ribbonLosRadarsSectionTip": " ",
   "ribbonKeySectionName": "Llave",
+  "ribbonKeySectionTip": " ",
 
   "ribbonApplyFiltersLabel": "Aplicar filtros",
 

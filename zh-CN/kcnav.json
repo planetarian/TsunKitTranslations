@@ -33,16 +33,27 @@
   "ribbonHelpTabName": "帮助",
 
   "ribbonMapSectionName": "[[termMap]]",
+  "ribbonMapSectionTip": " ",
   "ribbonGaugePhaseSectionName": "血量/阶段设定",
+  "ribbonGaugePhaseSectionTip": " ",
   "ribbonGeneralSectionName": "通用设定",
+  "ribbonGeneralSectionTip": " ",
   "ribbonLayersSectionName": "表示设定",
+  "ribbonLayersSectionTip": " ",
+
   "ribbonCompsSectionName": "编成设定",
+  "ribbonCompsSectionTip": " ",
   "ribbonShipClassesSectionName": "舰种筛选",
   "ribbonShipClassesSectionTip": "选择或清除特定舰种标签。按下舰种标签可切换颜色：白色（不进行特定筛选）、绿色（必须包含）、红色（必须不包含）",
+  
   "ribbonAdmiralSectionName": "提督等级设定",
+  "ribbonAdmiralSectionTip": " ",
   "ribbonFleetSectionName": "[[termFleet]]",
+  "ribbonFleetSectionTip": " ",
   "ribbonLosRadarsSectionName": "索敌/电探设定",
+  "ribbonLosRadarsSectionTip": " ",
   "ribbonKeySectionName": "关键字",
+  "ribbonKeySectionTip": " ",
 
   "ribbonApplyFiltersLabel": "确认筛选",
 
