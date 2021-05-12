@@ -155,10 +155,10 @@
   "filterHQLevelLabel": "提督等级:",
   "filterHQLevelTip": "显示特定提督等级范围的结果",
 
-  "filterFleetTypeLabel": "艦隊:",
+  "filterFleetTypeLabel": "舰队:",
   "filterFleetTypeTip": "显示使用特定编队形式的结果",
   "fleetTypeAny": "[[termAny]]",
-  "fleetTypeSingle": "單艦隊",
+  "fleetTypeSingle": "单舰队",
   "fleetTypeCTF": "空母机动部队",
   "fleetTypeSTF": "水上打击部队",
   "fleetTypeTCF": "输送护卫部队",
