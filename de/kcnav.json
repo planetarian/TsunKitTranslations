@@ -18,6 +18,7 @@
   "termRate": "Rate",
   "termDrops": "Drops",
   "termDupes": "Duplikate",
+  "termDifficulty": "Schwierigkeit",
   "termDetails": "Details",
   "termEdge": "Verbindung",
   "termNode": "Knoten",
@@ -58,7 +59,7 @@
 
   "filterMapLabel": "[[termMap]]:",
 
-  "filterDifficultyLabel": "Schwierigkeit:",
+  "filterDifficultyLabel": "[[termDifficulty]]:",
   "filterDifficultyTip": "(Nur für Events:) Filtert nach der gewählten Schwierigkeit",
   "difficultyAny": "[[termAll]]",
   "difficultyNone": "keine",
@@ -328,6 +329,7 @@
   "panelBonusesCopyLabel": "Daten in den Zwischenspeicher kopieren",
   "panelBonusesCopiedLabel": "Kopiert!",
 
+  "panelEnemiesDifficultyHeader": "[[termDifficulty]]",
   "panelEnemiesFormationHeader": "Form",
   "panelEnemiesFleetHeader": "Flotte",
   "panelEnemiesAirPowerHeader": "[[termAirAD]] / [[termAirAP]] / [[termAirAS]] / [[termAirASPlus]]",

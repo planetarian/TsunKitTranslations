@@ -18,6 +18,7 @@
   "termRate": "Rate",
   "termDrops": "掉落",
   "termDupes": "重複",
+  "termDifficulty": "難度",
   "termDetails": "Details",
   "termEdge": "Edge",
   "termNode": "Node",
@@ -59,7 +60,7 @@
 
   "filterMapLabel": "[[termMap]]:",
 
-  "filterDifficultyLabel": "難度:",
+  "filterDifficultyLabel": "[[termDifficulty]]:",
   "filterDifficultyTip": "(活動限定) 用難度來篩選。",
   "difficultyAny": "任意",
   "difficultyNone": "無",
@@ -329,6 +330,7 @@
   "panelBonusesCopyLabel": "Copy data to clipboard",
   "panelBonusesCopiedLabel": "Copied!",
 
+  "panelEnemiesDifficultyHeader": "[[termDifficulty]]",
   "panelEnemiesFormationHeader": "Form",
   "panelEnemiesFleetHeader": "Fleet",
   "panelEnemiesAirPowerHeader": "[[termAirAD]] / [[termAirAP]] / [[termAirAS]] / [[termAirASPlus]]",

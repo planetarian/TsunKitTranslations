@@ -18,6 +18,7 @@
   "termRate": "Ratio",
   "termDrops": "Recompensas",
   "termDupes": "Duplicados",
+  "termDifficulty": "Dificultad",
   "termDetails": "Detalles",
   "termEdge": "Límite",
   "termNode": "Nodo",
@@ -59,7 +60,7 @@
 
   "filterMapLabel": "[[termMap]]:",
 
-  "filterDifficultyLabel": "Dificultad:",
+  "filterDifficultyLabel": "[[termDifficulty]]:",
   "filterDifficultyTip": "(Solo eventos) Filtrar salidas basado en la dificultad.",
   "difficultyAny": "[[termAll]]",
   "difficultyNone": "Ninguna",
@@ -329,6 +330,7 @@
   "panelBonusesCopyLabel": "Copy data to clipboard",
   "panelBonusesCopiedLabel": "Copied!",
 
+  "panelEnemiesDifficultyHeader": "[[termDifficulty]]",
   "panelEnemiesFormationHeader": "Formacion",
   "panelEnemiesFleetHeader": "Flota",
   "panelEnemiesAirPowerHeader": "[[termAirAD]] / [[termAirAP]] / [[termAirAS]] / [[termAirASPlus]]",

@@ -18,6 +18,7 @@
   "termRate": "Taux",
   "termDrops": "Drops",
   "termDupes": "Doublons",
+  "termDifficulty": "Difficulté",
   "termDetails": "Détails",
   "termEdge": "route",
   "termNode": "nœud",
@@ -59,7 +60,7 @@
 
   "filterMapLabel": "[[termMap]]:",
 
-  "filterDifficultyLabel": "Difficulté:",
+  "filterDifficultyLabel": "[[termDifficulty]]:",
   "filterDifficultyTip": "(Seulement en event) Filtrer les runs en fonction de la difficulté choisie.",
   "difficultyAny": "[[termAll]]",
   "difficultyNone": "Aucune",
@@ -328,6 +329,7 @@
   "panelBonusesCopyLabel": "Copier les données dans le presse-papiers",
   "panelBonusesCopiedLabel": "Copié!",
 
+  "panelEnemiesDifficultyHeader": "[[termDifficulty]]",
   "panelEnemiesFormationHeader": "Form",
   "panelEnemiesFleetHeader": "Flotte",
   "panelEnemiesAirPowerHeader": "[[termAirAD]] / [[termAirAP]] / [[termAirAS]] / [[termAirASPlus]]",

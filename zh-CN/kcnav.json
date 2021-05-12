@@ -18,6 +18,7 @@
   "termRate": "概率",
   "termDrops": "掉落",
   "termDupes": "多号机",
+  "termDifficulty": "难度",
   "termDetails": "详情",
   "termEdge": "路径",
   "termNode": "点",
@@ -59,7 +60,7 @@
 
   "filterMapLabel": "[[termMap]]:",
 
-  "filterDifficultyLabel": "难度:",
+  "filterDifficultyLabel": "[[termDifficulty]]:",
   "filterDifficultyTip": "(仅活动图) 通过难度筛选",
   "difficultyAny": "任意",
   "difficultyNone": "无",
@@ -329,6 +330,7 @@
   "panelBonusesCopyLabel": "复制数据到剪贴板",
   "panelBonusesCopiedLabel": "已复制",
 
+  "panelEnemiesDifficultyHeader": "[[termDifficulty]]",
   "panelEnemiesFormationHeader": "阵型",
   "panelEnemiesFleetHeader": "[[termComps]]",
   "panelEnemiesAirPowerHeader": "[[termAirAD]] / [[termAirAP]] / [[termAirAS]] / [[termAirASPlus]]",

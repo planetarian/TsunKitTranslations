@@ -18,6 +18,7 @@
   "termRate": "Rate",
   "termDrops": "Drops",
   "termDupes": "Dupes",
+  "termDifficulty": "Difficulty",
   "termDetails": "Details",
   "termEdge": "Edge",
   "termNode": "Node",
@@ -45,7 +46,7 @@
   "ribbonCompsSectionTip": " ",
   "ribbonShipClassesSectionName": "Ship Classes",
   "ribbonShipClassesSectionTip": "Inclusion/exclusion filter for individual ship classes. Click to toggle between white (no filter), green (must include), and red (must not include).",
-  
+
   "ribbonAdmiralSectionName": "Admiral",
   "ribbonAdmiralSectionTip": " ",
   "ribbonFleetSectionName": "[[termFleet]]",
@@ -59,7 +60,7 @@
 
   "filterMapLabel": "[[termMap]]:",
 
-  "filterDifficultyLabel": "Difficulty:",
+  "filterDifficultyLabel": "[[termDifficulty]]:",
   "filterDifficultyTip": "(Event only) Filter runs based on selected difficulty.",
   "difficultyAny": "[[termAll]]",
   "difficultyNone": "None",
@@ -330,6 +331,7 @@
   "panelBonusesCopyLabel": "Copy data to clipboard",
   "panelBonusesCopiedLabel": "Copied!",
 
+  "panelEnemiesDifficultyHeader": "[[termDifficulty]]",
   "panelEnemiesFormationHeader": "Form",
   "panelEnemiesFleetHeader": "Fleet",
   "panelEnemiesAirPowerHeader": "[[termAirAD]] / [[termAirAP]] / [[termAirAS]] / [[termAirASPlus]]",

@@ -18,6 +18,7 @@
   "termRate": "Angka",
   "termDrops": "Drop",
   "termDupes": "Duplikat",
+  "termDifficulty": "Tingkat Kesulitan",
   "termDetails": "Detail",
   "termEdge": "Jalur",
   "termNode": "Node",
@@ -59,7 +60,7 @@
 
   "filterMapLabel": "[[termMap]]:",
 
-  "filterDifficultyLabel": "Tingkat Kesulitan:",
+  "filterDifficultyLabel": "[[termDifficulty]]:",
   "filterDifficultyTip": "(Hanya Event) filter perjalanan berdasarkan tingkat kesulitan yang dipilih.",
   "difficultyAny": "[[termAll]]",
   "difficultyNone": "Tidak Ada",
@@ -330,6 +331,7 @@
   "panelBonusesCopyLabel": "Data tersalin ke clipboard",
   "panelBonusesCopiedLabel": "Tersalin!",
 
+  "panelEnemiesDifficultyHeader": "[[termDifficulty]]",
   "panelEnemiesFormationHeader": "Formasi",
   "panelEnemiesFleetHeader": "Armada",
   "panelEnemiesAirPowerHeader": "[[termAirAD]] / [[termAirAP]] / [[termAirAS]] / [[termAirASPlus]]",

@@ -18,6 +18,7 @@
   "termDrops": "ドロップ",
   "termDropRate": "ドロップ率",
   "termDupes": "所持数制限",
+  "termDifficulty": "難易度",
   "termDetails": "詳細表示",
   "termEdge": "航路",
   "termNode": "マス",
@@ -62,7 +63,7 @@
 
   "filterMapLabel": "[[termMap]]:",
 
-  "filterDifficultyLabel": "難易度:",
+  "filterDifficultyLabel": "[[termDifficulty]]:",
   "filterDifficultyTip": "期間限定海域の場合、難易度でデータをフィルタリングできます。",
   "difficultyAny": "[[termAll]]",
   "difficultyNone": "[[termNone]]",
@@ -331,6 +332,7 @@
   "panelBonusesCopyLabel": "データをクリップボードにコピー",
   "panelBonusesCopiedLabel": "コピーされた。",
 
+  "panelEnemiesDifficultyHeader": "[[termDifficulty]]",
   "panelEnemiesFormationHeader": "陣形",
   "panelEnemiesFleetHeader": "[[termComps]]",
   "panelEnemiesAirPowerHeader": ">[[termAirAD]] / >[[termAirAP]] / ≥[[termAirAS]] / ≥[[termAirASPlus]]",
