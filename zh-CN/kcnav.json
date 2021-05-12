@@ -300,7 +300,7 @@
   "panelCompsFilterByCompLabel": "筛选",
 
   "panelFleetsRetreatsWarning": "WARNING: Only the final fleet state is displayed while 'Include retreats' is disabled.",
-  "panelFleetsEntryEventDataText": "难度：{{difficulty}} [[termPhase]] {{phase}}, {{curHP}}/{{maxHP}}, ",
+  "panelFleetsEntryEventDataText": "难度：{{difficulty}} [[termPhase]] {{phase}}, {{curHP}}/{{maxHP}}",
   "panelFleetsEntryLOSDataText": "[[termELOS]]: {{los}} ({{radars}} {{type}} radar(s) on {{ships}} ships)",
   "panelFleetsEntryFleetInfoText": "速力：{{speed}}，类型： {{type}}, ",
   "panelFleetsEntryFleetMainText": "[[termMain]]:",

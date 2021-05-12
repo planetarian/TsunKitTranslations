@@ -302,7 +302,7 @@
   "panelCompsFilterByCompLabel": "この編成でフィルタ",
 
   "panelFleetsRetreatsWarning": "注意:[[filterRetreatsLabel]]フィルタが無効の場合、最終的な艦隊の状態のみが表示されます。",
-  "panelFleetsEntryEventDataText": "難易度：{{difficulty}}, [[termPhase]]：{{phase}}, [[termMapHP]]：{{curHP}}/{{maxHP}}, ",
+  "panelFleetsEntryEventDataText": "難易度：{{difficulty}}, [[termPhase]]：{{phase}}, [[termMapHP]]：{{curHP}}/{{maxHP}}",
   "panelFleetsEntryLOSDataText": "[[termELOS]]: {{los}} ({{ships}} 隻が {{radars}} {{type}} を装備)",
   "panelFleetsEntryFleetInfoText": "艦隊の速力：{{speed}}, 編成タイプ：{{type}}, ",
   "panelFleetsEntryFleetMainText": "[[termMain]]:",

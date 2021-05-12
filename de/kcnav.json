@@ -300,7 +300,7 @@
   "panelCompsFilterByCompLabel": "Filter",
 
   "panelFleetsRetreatsWarning": "WARNING: Nur der entfültige Flottenstatus wird angezeigt, wenn 'Rückzüge einschließen' auschgeschaltet ist",
-  "panelFleetsEntryEventDataText": "{{difficulty}} [[termPhase]] {{phase}}, {{curHP}}/{{maxHP}}, ",
+  "panelFleetsEntryEventDataText": "{{difficulty}} [[termPhase]] {{phase}}, {{curHP}}/{{maxHP}}",
   "panelFleetsEntryLOSDataText": "LoS: {{los}} ({{radars}} {{type}} RADAR auf {{ships}} Schiffen)",
   "panelFleetsEntryFleetInfoText": "{{speed}} {{type}}, ",
   "panelFleetsEntryFleetMainText": "[[termMain]]:",

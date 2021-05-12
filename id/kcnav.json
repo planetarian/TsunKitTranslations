@@ -301,7 +301,7 @@
   "panelCompsFilterByCompLabel": "Filter",
 
   "panelFleetsRetreatsWarning": "PERINGATAN: Hanya kondisi akhir armada ditampilkan ketika 'Sertakan mundur' dimatikan.",
-  "panelFleetsEntryEventDataText": "{{difficulty}} [[termPhase]] {{phase}}, {{curHP}}/{{maxHP}}, ",
+  "panelFleetsEntryEventDataText": "{{difficulty}} [[termPhase]] {{phase}}, {{curHP}}/{{maxHP}}",
   "panelFleetsEntryLOSDataText": "LoS: {{los}} ({{radars}} {{type}} radar pada {{ships}} kapal)",
   "panelFleetsEntryFleetInfoText": "{{speed}} {{type}}, ",
   "panelFleetsEntryFleetMainText": "[[termMain]]:",
