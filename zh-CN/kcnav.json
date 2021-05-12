@@ -183,7 +183,7 @@
 
   "filterDrumCountLabel": "运输桶:",
   "filterDrumCountTip": "显示装备特定数量运输桶的结果",
-  "filterRadarCountLabel":电探:",
+  "filterRadarCountLabel":"电探:",
   "filterRadarCountTip": "显示装备特定数量电探的结果",
   "filterRadarShipCountLabel": "装备电探船数:",
   "filterRadarShipCountTip": "显示特定数量舰娘装备电探的结果",
