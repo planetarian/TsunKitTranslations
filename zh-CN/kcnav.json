@@ -82,10 +82,10 @@
   "filterPhaseTip": "(仅活动图) 根据阶段筛选",
   "filterMapHPLabel": "[[termMapHP]]:",
   "filterMapHPTip": "(仅活动图) 根据血量或运输条剩余量筛选",
-  "filterEdgesLabel": "路径数量:",
-  "filterEdgesTip": "已开启路径数量",
+  "filterEdgesLabel": "路径编号:",
+  "filterEdgesTip": "显示特定编号路径开放时期的结果",
   "filterStartLabel": "起始日期:",
-  "filterEndLabel": "中止日期:",
+  "filterEndLabel": "终止日期:",
 
   "filterRetreatsLabel": "包含撤退",
   "filterRetreatsTip": "包含中途撤退的情况",
