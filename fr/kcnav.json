@@ -348,6 +348,7 @@
   "panelDropsRateHeader": "[[termRate]]",
   "panelDropsRanksHeader": "Rangs",
   "panelDropsDupesHeader": "[[termDupes]]",
+  "panelDropsNoDrop": "No drop",
   "panelDropsExamineLabel": "Examiner",
   "panelDropsHideLabel": "Cacher",
   "panelDropsUnhideLabel": "Montrer",

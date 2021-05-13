@@ -349,6 +349,7 @@
   "panelDropsRateHeader": "[[termRate]]",
   "panelDropsRanksHeader": "战斗评价",
   "panelDropsDupesHeader": "[[termDupes]]",
+  "panelDropsNoDrop": "No drop",
   "panelDropsExamineLabel": "[[termDetails]]",
   "panelDropsHideLabel": "隐藏",
   "panelDropsUnhideLabel": "显示",

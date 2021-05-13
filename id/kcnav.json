@@ -350,6 +350,7 @@
   "panelDropsRateHeader": "[[termRate]]",
   "panelDropsRanksHeader": "Ranking",
   "panelDropsDupesHeader": "[[termDupes]]",
+  "panelDropsNoDrop": "No drop",
   "panelDropsExamineLabel": "Periksa",
   "panelDropsHideLabel": "Sembunyikan",
   "panelDropsUnhideLabel": "Tampilkan Kembali",

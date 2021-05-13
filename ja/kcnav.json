@@ -351,6 +351,7 @@
   "panelDropsRateHeader": "[[termDropRate]]",
   "panelDropsRanksHeader": "戦闘評価",
   "panelDropsDupesHeader": "[[termDupes]]",
+  "panelDropsNoDrop": "No drop",
   "panelDropsExamineLabel": "[[termDetails]]",
   "panelDropsHideLabel": "非表示",
   "panelDropsUnhideLabel": "再表示",
