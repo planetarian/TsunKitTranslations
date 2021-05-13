@@ -59,7 +59,7 @@
   "ribbonKeySectionName": "凡例",
   "ribbonKeySectionTip": " ",
 
-  "ribbonApplyFiltersLabel": "[[termApply]]",
+  "ribbonApplyFiltersLabel": "検索開始",
 
   "filterMapLabel": "[[termMap]]:",
 
@@ -304,7 +304,7 @@
 
   "panelFleetsRetreatsWarning": "注意:[[filterRetreatsLabel]]フィルタが無効の場合、最終的な艦隊の状態のみが表示されます。",
   "panelFleetsEntryEventDataText": "難易度: {{difficulty}}　[[termPhase]]: {{phase}}　[[termMapHP]]: {{curHP}}/{{maxHP}}",
-  "panelFleetsEntryLOSDataText": "[[termELOS]]: {{los}} ({{type}}{{radars}}の装備艦が{{ships}}隻)",
+  "panelFleetsEntryLOSDataText": "[[termELOS]]: {{los}} ({{type}}が計{{radars}}個、装備艦が{{ships}}隻)",
   "panelFleetsEntryFleetInfoText": "艦隊の速力: {{speed}}　編成タイプ: {{type}}　",
   "panelFleetsEntryFleetMainText": "[[termMain]]:",
   "panelFleetsEntryFleetEscortText": "[[termEscort]]:",
