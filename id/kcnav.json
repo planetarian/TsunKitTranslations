@@ -18,6 +18,7 @@
   "termRate": "Angka",
   "termDrops": "Drop",
   "termDupes": "Duplikat",
+  "termDifficulty": "Tingkat Kesulitan",
   "termDetails": "Detail",
   "termEdge": "Jalur",
   "termNode": "Node",
@@ -33,22 +34,33 @@
   "ribbonHelpTabName": "Bantuan",
 
   "ribbonMapSectionName": "[[termMap]]",
+  "ribbonMapSectionTip": " ",
   "ribbonGaugePhaseSectionName": "Gauge/Fase",
+  "ribbonGaugePhaseSectionTip": " ",
   "ribbonGeneralSectionName": "Umum",
+  "ribbonGeneralSectionTip": " ",
   "ribbonLayersSectionName": "Layers",
+  "ribbonLayersSectionTip": " ",
+
   "ribbonCompsSectionName": "Konposisi",
+  "ribbonCompsSectionTip": " ",
   "ribbonShipClassesSectionName": "Kelas Kapal",
   "ribbonShipClassesSectionTip": "Penyertaan/Pengecualian filter untuk setiap kelas kapal. Ketuk untuk mengaktifkan antara putih (tanpa filter), hijau (harus disertakan), dan merah (tidak boleh disertakan).",
+  
   "ribbonAdmiralSectionName": "Laksamana",
+  "ribbonAdmiralSectionTip": " ",
   "ribbonFleetSectionName": "[[termFleet]]",
+  "ribbonFleetSectionTip": " ",
   "ribbonLosRadarsSectionName": "LoS/Radar",
+  "ribbonLosRadarsSectionTip": " ",
   "ribbonKeySectionName": "Legenda",
+  "ribbonKeySectionTip": " ",
 
   "ribbonApplyFiltersLabel": "Terapkan Filter",
 
   "filterMapLabel": "[[termMap]]:",
 
-  "filterDifficultyLabel": "Tingkat Kesulitan:",
+  "filterDifficultyLabel": "[[termDifficulty]]:",
   "filterDifficultyTip": "(Hanya Event) filter perjalanan berdasarkan tingkat kesulitan yang dipilih.",
   "difficultyAny": "[[termAll]]",
   "difficultyNone": "Tidak Ada",
@@ -290,7 +302,7 @@
   "panelCompsFilterByCompLabel": "Filter",
 
   "panelFleetsRetreatsWarning": "PERINGATAN: Hanya kondisi akhir armada ditampilkan ketika 'Sertakan mundur' dimatikan.",
-  "panelFleetsEntryEventDataText": "{{difficulty}} [[termPhase]] {{phase}}, {{curHP}}/{{maxHP}}, ",
+  "panelFleetsEntryEventDataText": "{{difficulty}} [[termPhase]] {{phase}}, {{curHP}}/{{maxHP}}",
   "panelFleetsEntryLOSDataText": "LoS: {{los}} ({{radars}} {{type}} radar pada {{ships}} kapal)",
   "panelFleetsEntryFleetInfoText": "{{speed}} {{type}}, ",
   "panelFleetsEntryFleetMainText": "[[termMain]]:",
@@ -319,6 +331,7 @@
   "panelBonusesCopyLabel": "Data tersalin ke clipboard",
   "panelBonusesCopiedLabel": "Tersalin!",
 
+  "panelEnemiesDifficultyHeader": "[[termDifficulty]]",
   "panelEnemiesFormationHeader": "Formasi",
   "panelEnemiesFleetHeader": "Armada",
   "panelEnemiesAirPowerHeader": "[[termAirAD]] / [[termAirAP]] / [[termAirAS]] / [[termAirASPlus]]",

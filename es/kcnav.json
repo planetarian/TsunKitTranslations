@@ -18,6 +18,7 @@
   "termRate": "Ratio",
   "termDrops": "Recompensas",
   "termDupes": "Duplicados",
+  "termDifficulty": "Dificultad",
   "termDetails": "Detalles",
   "termEdge": "Límite",
   "termNode": "Nodo",
@@ -33,21 +34,33 @@
   "ribbonHelpTabName": "Ayuda",
 
   "ribbonMapSectionName": "[[termMap]]",
+  "ribbonMapSectionTip": " ",
   "ribbonGaugePhaseSectionName": "Nivel/Fase",
+  "ribbonGaugePhaseSectionTip": " ",
   "ribbonGeneralSectionName": "General",
+  "ribbonGeneralSectionTip": " ",
   "ribbonLayersSectionName": "Capas",
+  "ribbonLayersSectionTip": " ",
+
   "ribbonCompsSectionName": "Composiciones",
+  "ribbonCompsSectionTip": " ",
   "ribbonShipClassesSectionName": "Clases de barcos",
+  "ribbonShipClassesSectionTip": " ",
+
   "ribbonAdmiralSectionName": "Almirante",
+  "ribbonAdmiralSectionTip": " ",
   "ribbonFleetSectionName": "[[termFleet]]",
+  "ribbonFleetSectionTip": " ",
   "ribbonLosRadarsSectionName": "LdV/Radares",
+  "ribbonLosRadarsSectionTip": " ",
   "ribbonKeySectionName": "Llave",
+  "ribbonKeySectionTip": " ",
 
   "ribbonApplyFiltersLabel": "Aplicar filtros",
 
   "filterMapLabel": "[[termMap]]:",
 
-  "filterDifficultyLabel": "Dificultad:",
+  "filterDifficultyLabel": "[[termDifficulty]]:",
   "filterDifficultyTip": "(Solo eventos) Filtrar salidas basado en la dificultad.",
   "difficultyAny": "[[termAll]]",
   "difficultyNone": "Ninguna",
@@ -288,7 +301,7 @@
   "panelCompsFilterByCompLabel": "Filtrar",
 
   "panelFleetsRetreatsWarning": "ATENCIÓN: Solo la flota final se muestra mientras 'Incluir retiradas' esté desactivado.",
-  "panelFleetsEntryEventDataText": "{{difficulty}} [[termPhase]] {{phase}}, {{curHP}}/{{maxHP}}, ",
+  "panelFleetsEntryEventDataText": "{{difficulty}} [[termPhase]] {{phase}}, {{curHP}}/{{maxHP}}",
   "panelFleetsEntryLOSDataText": "LdV: {{los}} ({{radars}} {{type}} radar(es) en barcos {{ships}})",
   "panelFleetsEntryFleetInfoText": "{{speed}} {{type}}, ",
   "panelFleetsEntryFleetMainText": "[[termMain]]:",
@@ -317,6 +330,7 @@
   "panelBonusesCopyLabel": "Copy data to clipboard",
   "panelBonusesCopiedLabel": "Copied!",
 
+  "panelEnemiesDifficultyHeader": "[[termDifficulty]]",
   "panelEnemiesFormationHeader": "Formacion",
   "panelEnemiesFleetHeader": "Flota",
   "panelEnemiesAirPowerHeader": "[[termAirAD]] / [[termAirAP]] / [[termAirAS]] / [[termAirASPlus]]",

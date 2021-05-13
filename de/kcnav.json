@@ -18,6 +18,7 @@
   "termRate": "Rate",
   "termDrops": "Drops",
   "termDupes": "Duplikate",
+  "termDifficulty": "Schwierigkeit",
   "termDetails": "Details",
   "termEdge": "Verbindung",
   "termNode": "Knoten",
@@ -32,22 +33,33 @@
   "ribbonHelpTabName": "Hilfe",
 
   "ribbonMapSectionName": "[[termMap]]",
+  "ribbonMapSectionTip": " ",
   "ribbonGaugePhaseSectionName": "Balken/Phase",
+  "ribbonGaugePhaseSectionTip": " ",
   "ribbonGeneralSectionName": "General",
+  "ribbonGeneralSectionTip": " ",
   "ribbonLayersSectionName": "Layer",
+  "ribbonLayersSectionTip": " ",
+
   "ribbonCompsSectionName": "Kompositionen",
+  "ribbonCompsSectionTip": " ",
   "ribbonShipClassesSectionName": "Schiffklassen",
   "ribbonShipClassesSectionTip": "Einbeziehen/Ausschließen für bestimmte Schiffstypen. Klicke um zwischen weiß (kein Filter), grün (benötigt) und rot (verboten) zu wechseln",
+
   "ribbonAdmiralSectionName": "Admiral",
+  "ribbonAdmiralSectionTip": " ",
   "ribbonFleetSectionName": "[[termFleet]]",
+  "ribbonFleetSectionTip": " ",
   "ribbonLosRadarsSectionName": "LoS/RADAR",
+  "ribbonLosRadarsSectionTip": " ",
   "ribbonKeySectionName": "Schlüssel",
+  "ribbonKeySectionTip": " ",
 
   "ribbonApplyFiltersLabel": "Filter anwenden",
 
   "filterMapLabel": "[[termMap]]:",
 
-  "filterDifficultyLabel": "Schwierigkeit:",
+  "filterDifficultyLabel": "[[termDifficulty]]:",
   "filterDifficultyTip": "(Nur für Events:) Filtert nach der gewählten Schwierigkeit",
   "difficultyAny": "[[termAll]]",
   "difficultyNone": "keine",
@@ -289,7 +301,7 @@
   "panelCompsFilterByCompLabel": "Filter",
 
   "panelFleetsRetreatsWarning": "WARNING: Nur der entfültige Flottenstatus wird angezeigt, wenn 'Rückzüge einschließen' auschgeschaltet ist",
-  "panelFleetsEntryEventDataText": "{{difficulty}} [[termPhase]] {{phase}}, {{curHP}}/{{maxHP}}, ",
+  "panelFleetsEntryEventDataText": "{{difficulty}} [[termPhase]] {{phase}}, {{curHP}}/{{maxHP}}",
   "panelFleetsEntryLOSDataText": "LoS: {{los}} ({{radars}} {{type}} RADAR auf {{ships}} Schiffen)",
   "panelFleetsEntryFleetInfoText": "{{speed}} {{type}}, ",
   "panelFleetsEntryFleetMainText": "[[termMain]]:",
@@ -317,6 +329,7 @@
   "panelBonusesCopyLabel": "Daten in den Zwischenspeicher kopieren",
   "panelBonusesCopiedLabel": "Kopiert!",
 
+  "panelEnemiesDifficultyHeader": "[[termDifficulty]]",
   "panelEnemiesFormationHeader": "Form",
   "panelEnemiesFleetHeader": "Flotte",
   "panelEnemiesAirPowerHeader": "[[termAirAD]] / [[termAirAP]] / [[termAirAS]] / [[termAirASPlus]]",

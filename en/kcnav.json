@@ -18,6 +18,7 @@
   "termRate": "Rate",
   "termDrops": "Drops",
   "termDupes": "Dupes",
+  "termDifficulty": "Difficulty",
   "termDetails": "Details",
   "termEdge": "Edge",
   "termNode": "Node",
@@ -33,22 +34,33 @@
   "ribbonHelpTabName": "Help",
 
   "ribbonMapSectionName": "[[termMap]]",
+  "ribbonMapSectionTip": " ",
   "ribbonGaugePhaseSectionName": "Gauge/Phase",
+  "ribbonGaugePhaseSectionTip": " ",
   "ribbonGeneralSectionName": "General",
+  "ribbonGeneralSectionTip": " ",
   "ribbonLayersSectionName": "Layers",
+  "ribbonLayersSectionTip": " ",
+
   "ribbonCompsSectionName": "Compositions",
+  "ribbonCompsSectionTip": " ",
   "ribbonShipClassesSectionName": "Ship Classes",
   "ribbonShipClassesSectionTip": "Inclusion/exclusion filter for individual ship classes. Click to toggle between white (no filter), green (must include), and red (must not include).",
+
   "ribbonAdmiralSectionName": "Admiral",
+  "ribbonAdmiralSectionTip": " ",
   "ribbonFleetSectionName": "[[termFleet]]",
+  "ribbonFleetSectionTip": " ",
   "ribbonLosRadarsSectionName": "LoS/Radars",
+  "ribbonLosRadarsSectionTip": " ",
   "ribbonKeySectionName": "Key",
+  "ribbonKeySectionTip": " ",
 
   "ribbonApplyFiltersLabel": "Apply Filters",
 
   "filterMapLabel": "[[termMap]]:",
 
-  "filterDifficultyLabel": "Difficulty:",
+  "filterDifficultyLabel": "[[termDifficulty]]:",
   "filterDifficultyTip": "(Event only) Filter runs based on selected difficulty.",
   "difficultyAny": "[[termAll]]",
   "difficultyNone": "None",
@@ -290,7 +302,7 @@
   "panelCompsFilterByCompLabel": "Filter",
 
   "panelFleetsRetreatsWarning": "WARNING: Only the final fleet state is displayed while 'Include retreats' is disabled.",
-  "panelFleetsEntryEventDataText": "{{difficulty}} [[termPhase]] {{phase}}, {{curHP}}/{{maxHP}}, ",
+  "panelFleetsEntryEventDataText": "{{difficulty}} [[termPhase]] {{phase}}, {{curHP}}/{{maxHP}}",
   "panelFleetsEntryLOSDataText": "LoS: {{los}} ({{radars}} {{type}} radar(s) on {{ships}} ships)",
   "panelFleetsEntryFleetInfoText": "{{speed}} {{type}}, ",
   "panelFleetsEntryFleetMainText": "[[termMain]]:",
@@ -319,6 +331,7 @@
   "panelBonusesCopyLabel": "Copy data to clipboard",
   "panelBonusesCopiedLabel": "Copied!",
 
+  "panelEnemiesDifficultyHeader": "[[termDifficulty]]",
   "panelEnemiesFormationHeader": "Form",
   "panelEnemiesFleetHeader": "Fleet",
   "panelEnemiesAirPowerHeader": "[[termAirAD]] / [[termAirAP]] / [[termAirAS]] / [[termAirASPlus]]",

@@ -18,6 +18,7 @@
   "termDrops": "ドロップ",
   "termDropRate": "ドロップ率",
   "termDupes": "所持数制限",
+  "termDifficulty": "難易度",
   "termDetails": "詳細表示",
   "termEdge": "航路",
   "termNode": "マス",
@@ -36,24 +37,33 @@
   "ribbonHelpTabName": "[[termNode]]解説",
 
   "ribbonMapSectionName": "[[termMap]]設定",
+  "ribbonMapSectionTip": " ",
 
   "ribbonGaugePhaseSectionName": "ゲージ設定",
+  "ribbonGaugePhaseSectionTip": " ",
   "ribbonGeneralSectionName": "汎用",
+  "ribbonGeneralSectionTip": " ",
   "ribbonLayersSectionName": "表示設定",
+  "ribbonLayersSectionTip": " ",
 
   "ribbonCompsSectionName": "[[termComps]]設定",
+  "ribbonCompsSectionTip": " ",
   "ribbonShipClassesSectionName": "[[termClass]]フィルタ",
   "ribbonShipClassesSectionTip": "選択状態緑：指定艦種を含むデータでフィルタリングできます。\n選択状態赤：指定艦種を含まないデータでフィルタリングできます。",
   "ribbonAdmiralSectionName": "司令部設定",
+  "ribbonAdmiralSectionTip": " ",
   "ribbonFleetSectionName": "[[termFleet]]設定",
-  "ribbonLosRadarsSectionName": "[[termELOS]]/電探設定",
+  "ribbonFleetSectionTip": " ",
+  "ribbonLosRadarsSectionName": "[[termELOS]]/装備設定",
+  "ribbonLosRadarsSectionTip": " ",
   "ribbonKeySectionName": "凡例",
+  "ribbonKeySectionTip": " ",
 
   "ribbonApplyFiltersLabel": "[[termApply]]",
 
   "filterMapLabel": "[[termMap]]:",
 
-  "filterDifficultyLabel": "難易度:",
+  "filterDifficultyLabel": "[[termDifficulty]]:",
   "filterDifficultyTip": "期間限定海域の場合、難易度でデータをフィルタリングできます。",
   "difficultyAny": "[[termAll]]",
   "difficultyNone": "[[termNone]]",
@@ -73,7 +83,7 @@
   "filterPhaseTip": "期間限定海域の場合、戦力/輸送ゲージの段階でデータをフィルタリングできます。\nゲージ開放ギミック（ゲージ破壊と次のボス[[termNode]]の出現が連動しない）があるマップでは[[termEdge]]フィルタの使用を推奨します。",
   "filterMapHPLabel": "[[termMapHP]]:",
   "filterMapHPTip": "期間限定海域の場合、指定した戦力/輸送ゲージの残量の範囲でデータをフィルタリングできます。",
-  "filterEdgesLabel": "[[termEdge]]:",
+  "filterEdgesLabel": "[[termEdge]]ID:",
   "filterEdgesTip": "[[termEdge]]とは、[[termNode]]と[[termNode]]の間の矢印のこと。\n[[termPhase]]フィルタだとゲージ開放ギミックがある場合で次のボス[[termNode]]の有無でルート分岐法則が変わる場合は異なるルート分岐法則の出撃データが混じって検索されます。\nそれを回避する場合は検索したいゲージ段階の最大[[termEdge]]IDに＋1して検索すると良い（例：26~26）。",
   "filterStartLabel": "開始日時:",
   "filterEndLabel": "終了日時:",
@@ -157,8 +167,8 @@
   "classAP": "AP",
   "classAPTip": "輸送: 輸送艦",
 
-  "filterHQLevelLabel": "艦隊司令官Lv.:",
-  "filterHQLevelTip": "指定した艦隊司令官Lv.の範囲でデータをフィルタリングできます。",
+  "filterHQLevelLabel": "艦隊司令部Lv:",
+  "filterHQLevelTip": "指定した艦隊司令部レベルの範囲でデータをフィルタリングできます。",
 
   "filterFleetTypeLabel": "編成タイプ:",
   "filterFleetTypeTip": "指定した編成タイプでデータをフィルタリングできます。",
@@ -186,8 +196,8 @@
   "losFormulaCn3": "3",
   "losFormulaCn4": "4",
 
-  "filterDrumCountLabel": "Drums:",
-  "filterDrumCountTip": "Shows runs where the fleet has the specified numbers of drums equipped.",
+  "filterDrumCountLabel": "ドラム缶数:",
+  "filterDrumCountTip": "定したドラム缶の装備数でデータをフィルタリングできます。",
   "filterRadarCountLabel": "電探装備数:",
   "filterRadarCountTip": "指定した電探の装備数でデータをフィルタリングできます。",
   "filterRadarShipCountLabel": "電探装備艦数:",
@@ -222,7 +232,7 @@
   "worldName49": "2020秋・冬",
   "worldName50": "2021春",
 
-  "nodeType": "{{type}} [[termNode]]",
+  "nodeType": "{{type}}[[termNode]]",
   "nodeTypeStart": "出撃地点",
   "nodeTypeBattle": "通常戦闘",
   "nodeTypeBoss": "ボス戦闘",
@@ -242,7 +252,7 @@
   "nodeTypeUnknown": "[[termUnknown]]",
 
   "pathName": "{{fromNode}}→{{toNode}}",
-  "edgeName": "([[termEdge]] {{edgeID}})",
+  "edgeName": "([[termEdge]]ID: {{edgeID}})",
 
   "panelApplyFiltersLabel": "[[termApply]]",
   "panelFilterToNodeLabel": "この[[termNode]]でフィルタ",
@@ -272,7 +282,7 @@
   "panelStatsPhaseLabel": "[[termPhase]]",
   "panelStatsCurrentMapHPLabel": "[[termMapHP]]",
   "panelStatsMaxMapHPLabel": "最大[[termMapHP]]",
-  "panelStatsDrumsLabel": "Drums",
+  "panelStatsDrumsLabel": "ドラム缶",
   "panelStatsSpeedLabel": "速力",
   "panelStatsRadarsLabel": "電探装備数",
   "panelStatsRadars5LOSLabel": "水上電探",
@@ -293,7 +303,7 @@
   "panelCompsFilterByCompLabel": "この編成でフィルタ",
 
   "panelFleetsRetreatsWarning": "注意:[[filterRetreatsLabel]]フィルタが無効の場合、最終的な艦隊の状態のみが表示されます。",
-  "panelFleetsEntryEventDataText": "難易度：{{difficulty}}, [[termPhase]]：{{phase}}, [[termMapHP]]：{{curHP}}/{{maxHP}}, ",
+  "panelFleetsEntryEventDataText": "難易度：{{difficulty}}, [[termPhase]]：{{phase}}, [[termMapHP]]：{{curHP}}/{{maxHP}}",
   "panelFleetsEntryLOSDataText": "[[termELOS]]: {{los}} ({{ships}} 隻が {{radars}} {{type}} を装備)",
   "panelFleetsEntryFleetInfoText": "艦隊の速力：{{speed}}, 編成タイプ：{{type}}, ",
   "panelFleetsEntryFleetMainText": "[[termMain]]:",
@@ -322,12 +332,13 @@
   "panelBonusesCopyLabel": "データをクリップボードにコピー",
   "panelBonusesCopiedLabel": "コピーされた。",
 
+  "panelEnemiesDifficultyHeader": "[[termDifficulty]]",
   "panelEnemiesFormationHeader": "陣形",
   "panelEnemiesFleetHeader": "[[termComps]]",
-  "panelEnemiesAirPowerHeader": "[[termAirAD]] / [[termAirAP]] / [[termAirAS]] / [[termAirASPlus]]",
+  "panelEnemiesAirPowerHeader": ">[[termAirAD]] / >[[termAirAP]] / ≥[[termAirAS]] / ≥[[termAirASPlus]]",
   "panelEnemiesAirPowerTip": "クリックで航空戦時/基地航空隊攻撃時の値に切り替えられます。\n（基地航空隊攻撃時は敵の水上偵察機も制空権争いに参加するため）",
-  "panelEnemiesAirPowerLbasLabel": "(航空隊)",
-  "panelEnemiesAirPowerUncertainEquipsWarning": "These numbers may be inaccurate, as complete data is not yet available for the following equipment: {{items}}",
+  "panelEnemiesAirPowerLbasLabel": "(航空隊戦)",
+  "panelEnemiesAirPowerUncertainEquipsWarning": "以下の装備データがまだ不明のため、正確の制空値ではありません。\n{{items}}",
   "panelEnemiesCountHeader": "[[termRuns]]",
   "panelEnemiesDetailsLabel": "[[termDetails]]",
 
@@ -345,7 +356,7 @@
   "panelDropsUnhideLabel": "再表示",
   "panelDropsHiddenText": "{{count}}艦が非表示設定です",
   "panelDropsUnhideAllLabel": "すべて再表示",
-  "panelDropsSearchByShipText": "艦娘から探す (TsunDB)",
+  "panelDropsSearchByShipText": "TsunDBで再検索する",
 
   "rarityUnknown": "[[termUnknown]]",
   "rarityCommon": "コモン",
@@ -404,9 +415,9 @@
   "badRenderMessageText": "古いバージョンのKCNavが表示されているようです。Ctrl+F5を押してリロードしてください！",
 
   "footerTsunDBCreditText": "Powered by {{tsundb}}",
-  "footerContactText": "何かあったら、{{twitter}}か{{kcdiscord}}までChamiにご連絡してください。",
+  "footerContactText": "何かあったら{{twitter}}か{{kcdiscord}}までChamiにご連絡してください",
   "footerTwitterLinkText": "Twitter",
   "footerDiscordLinkText": "英語圏KC Discord",
-  "footerSupportText": "{{link}}で開発者に寄付ができます（要PayPal）。",
+  "footerSupportText": "{{link}}で開発者に寄付ができます(要PayPal)",
   "footerSupportLinkText": "Ko-Fi"
 }

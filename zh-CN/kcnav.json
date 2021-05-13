@@ -18,6 +18,7 @@
   "termRate": "概率",
   "termDrops": "掉落",
   "termDupes": "多号机",
+  "termDifficulty": "难度",
   "termDetails": "详情",
   "termEdge": "路径",
   "termNode": "点",
@@ -33,22 +34,33 @@
   "ribbonHelpTabName": "帮助",
 
   "ribbonMapSectionName": "[[termMap]]",
+  "ribbonMapSectionTip": " ",
   "ribbonGaugePhaseSectionName": "血量/阶段设定",
+  "ribbonGaugePhaseSectionTip": " ",
   "ribbonGeneralSectionName": "通用设定",
+  "ribbonGeneralSectionTip": " ",
   "ribbonLayersSectionName": "表示设定",
+  "ribbonLayersSectionTip": " ",
+
   "ribbonCompsSectionName": "编成设定",
+  "ribbonCompsSectionTip": " ",
   "ribbonShipClassesSectionName": "舰种筛选",
   "ribbonShipClassesSectionTip": "选择或清除特定舰种标签。按下舰种标签可切换颜色：白色（不进行特定筛选）、绿色（必须包含）、红色（必须不包含）",
+  
   "ribbonAdmiralSectionName": "提督等级设定",
+  "ribbonAdmiralSectionTip": " ",
   "ribbonFleetSectionName": "[[termFleet]]",
+  "ribbonFleetSectionTip": " ",
   "ribbonLosRadarsSectionName": "索敌/电探设定",
+  "ribbonLosRadarsSectionTip": " ",
   "ribbonKeySectionName": "关键字",
+  "ribbonKeySectionTip": " ",
 
   "ribbonApplyFiltersLabel": "确认筛选",
 
   "filterMapLabel": "[[termMap]]:",
 
-  "filterDifficultyLabel": "难度:",
+  "filterDifficultyLabel": "[[termDifficulty]]:",
   "filterDifficultyTip": "(仅活动图) 通过难度筛选",
   "difficultyAny": "任意",
   "difficultyNone": "无",
@@ -289,7 +301,7 @@
   "panelCompsFilterByCompLabel": "筛选",
 
   "panelFleetsRetreatsWarning": "WARNING: Only the final fleet state is displayed while 'Include retreats' is disabled.",
-  "panelFleetsEntryEventDataText": "难度：{{difficulty}} [[termPhase]] {{phase}}, {{curHP}}/{{maxHP}}, ",
+  "panelFleetsEntryEventDataText": "难度：{{difficulty}} [[termPhase]] {{phase}}, {{curHP}}/{{maxHP}}",
   "panelFleetsEntryLOSDataText": "[[termELOS]]: {{los}} ({{radars}} {{type}} radar(s) on {{ships}} ships)",
   "panelFleetsEntryFleetInfoText": "速力：{{speed}}，类型： {{type}}, ",
   "panelFleetsEntryFleetMainText": "[[termMain]]:",
@@ -318,6 +330,7 @@
   "panelBonusesCopyLabel": "复制数据到剪贴板",
   "panelBonusesCopiedLabel": "已复制",
 
+  "panelEnemiesDifficultyHeader": "[[termDifficulty]]",
   "panelEnemiesFormationHeader": "阵型",
   "panelEnemiesFleetHeader": "[[termComps]]",
   "panelEnemiesAirPowerHeader": "[[termAirAD]] / [[termAirAP]] / [[termAirAS]] / [[termAirASPlus]]",
