@@ -204,11 +204,11 @@
   "filterRadarShipCountTip": "指定した電探装備艦の隻数でデータをフィルタリングできます。",
   "filterRadarTypeLabel": "電探の種類:",
   "filterRadarTypeTip": "電探フィルタでカウントする電探の種類を設定できます。",
-  "radarTypeAny": "[[termAny]]",
+  "radarTypeAny": "任意の電探",
   "radarType5LOS": "水上電探(索敵+5以上)",
   "radarTermSurface": "水上電探",
   "radarTermAir": "対空電探",
-  "radarTermNA": "[[termNone]]",
+  "radarTermNA": "電探[[termNone]]",
 
   "mapSelectorCurrent": "通常海域",
   "mapSelectorEvent": "期間限定海域",
