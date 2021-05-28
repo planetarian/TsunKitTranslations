@@ -205,8 +205,8 @@
   "filterRadarTypeTip": "设置计入电探筛选数量的电探种类",
   "radarTypeAny": "[[termAny]]",
   "radarType5LOS": "5以上索敌",
-  "radarTermSurface": "对水上电探",
-  "radarTermAir": "对空电探",
+  "radarTermSurface": "对水上",
+  "radarTermAir": "对空",
   "radarTermNA": "-",
 
   "mapSelectorCurrent": "通常海域",
@@ -302,9 +302,9 @@
   "panelCompsEscortFleetLabel": "[[termEscort]]:",
   "panelCompsFilterByCompLabel": "筛选",
 
-  "panelFleetsRetreatsWarning": "WARNING: Only the final fleet state is displayed while 'Include retreats' is disabled.",
+  "panelFleetsRetreatsWarning": "注意：当“包含撤退”禁用时仅显示了舰队的最终状态",
   "panelFleetsEntryEventDataText": "难度：{{difficulty}} [[termPhase]] {{phase}}, {{curHP}}/{{maxHP}}",
-  "panelFleetsEntryLOSDataText": "[[termELOS]]: {{los}} ({{radars}} {{type}} radar(s) on {{ships}} ships)",
+  "panelFleetsEntryLOSDataText": "[[termELOS]]: {{los}} (共{{radars}}个{{type}}电探装备于{{ships}}位舰娘)",
   "panelFleetsEntryFleetInfoText": "速力：{{speed}}，类型： {{type}}, ",
   "panelFleetsEntryFleetMainText": "[[termMain]]:",
   "panelFleetsEntryFleetEscortText": "[[termEscort]]:",
