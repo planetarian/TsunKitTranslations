@@ -2,3 +2,8 @@
 #footer span {
   margin: 1px;
 }
+/* 矢印の対応あるフォントを指定しないと */
+.node-details-entries-pager > * {
+  font-family: "Cambria Math", Symbola, Quivira;
+  line-height: 15px;
+}
