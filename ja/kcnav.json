@@ -208,7 +208,7 @@
   "radarType5LOS": "水上電探(索敵+5以上)",
   "radarTermSurface": "水上電探",
   "radarTermAir": "対空電探",
-  "radarTermNA": "電探[[termNone]]",
+  "radarTermNA": "情報[[termUnknown]]",
 
   "mapSelectorCurrent": "通常海域",
   "mapSelectorEvent": "期間限定海域",
