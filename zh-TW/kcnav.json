@@ -301,6 +301,8 @@
   "panelCompsEscortFleetLabel": "[[termEscort]]:",
   "panelCompsFilterByCompLabel": "Filter",
 
+  "panelFleetsShowEquipsLabel": "Equips",
+  "panelFleetsShowDetailsLabel": "Details",
   "panelFleetsRetreatsWarning": "WARNING: Only the final fleet state is displayed while 'Include retreats' is disabled.",
   "panelFleetsEntryEventDataText": "{{difficulty}} [[termPhase]] {{phase}}, {{curHP}}/{{maxHP}}",
   "panelFleetsEntryLOSDataText": "LoS: {{los}} ({{radars}} {{type}} radar(s) on {{ships}} ships)",

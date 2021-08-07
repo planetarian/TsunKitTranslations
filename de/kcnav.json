@@ -301,6 +301,8 @@
   "panelCompsEscortFleetLabel": "[[termEscort]]:",
   "panelCompsFilterByCompLabel": "Filter",
 
+  "panelFleetsShowEquipsLabel": "Equips",
+  "panelFleetsShowDetailsLabel": "Details",
   "panelFleetsRetreatsWarning": "WARNING: Nur der entfültige Flottenstatus wird angezeigt, wenn 'Rückzüge einschließen' auschgeschaltet ist",
   "panelFleetsEntryEventDataText": "{{difficulty}} [[termPhase]] {{phase}}, {{curHP}}/{{maxHP}}",
   "panelFleetsEntryLOSDataText": "LoS: {{los}} ({{radars}} {{type}} RADAR auf {{ships}} Schiffen)",

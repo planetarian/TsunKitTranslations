@@ -301,6 +301,8 @@
   "panelCompsEscortFleetLabel": "[[termEscort]]:",
   "panelCompsFilterByCompLabel": "Filtrar",
 
+  "panelFleetsShowEquipsLabel": "Equips",
+  "panelFleetsShowDetailsLabel": "Details",
   "panelFleetsRetreatsWarning": "ATENCIÓN: Solo la flota final se muestra mientras 'Incluir retiradas' esté desactivado.",
   "panelFleetsEntryEventDataText": "{{difficulty}} [[termPhase]] {{phase}}, {{curHP}}/{{maxHP}}",
   "panelFleetsEntryLOSDataText": "LdV: {{los}} ({{radars}} {{type}} radar(es) en barcos {{ships}})",
