@@ -91,10 +91,11 @@
   "filterRetreatsLabel": "撤退も含む",
   "filterRetreatsTip": "チェックを外すと終点マス(ボスマス、逸れマスなどのそれ以上先がないマスのこと)まで行ったデータでフィルタリングできます。",
   "filterFCFUsageSectionLabel": "退避:",
-  "filterFCFUsageSectionTip": "艦隊司令部施設を使用したデータのフィルタリング設定ができます。\n「[[filterFCFUsageLabel]]: [[filterFCFUsageTip]]」\n「[[filterNoFCFUsageLabel]]: [[filterNoFCFUsageTip]]」",
-  "filterFCFUsageLabel": "有",
+  "filterFCFUsageSectionTip": "艦隊司令部施設を使用したデータのフィルタリング設定ができます。\n「[[fcfUsageYes]]: [[filterFCFUsageTip]]」\n「[[fcfUsageNo]]: [[filterNoFCFUsageTip]]」",
+  "fcfUsageAny": "[[termAny]]",
+  "fcfUsageYes": "有",
   "filterFCFUsageTip": "艦隊司令部施設を使用した（=退避艦を含んだ）データでフィルタリングできます。",
-  "filterNoFCFUsageLabel": "無",
+  "fcfUsageNo": "無",
   "filterNoFCFUsageTip": "艦隊司令部施設を装備or使用していない（=退避艦を含まない）データでフィルタリングできます。",
 
   "displayMapBackgroundLabel": "背景画像",
@@ -302,6 +303,8 @@
   "panelCompsEscortFleetLabel": "[[termEscort]]:",
   "panelCompsFilterByCompLabel": "この編成でフィルタ",
 
+  "panelFleetsShowEquipsLabel": "Equips",
+  "panelFleetsShowDetailsLabel": "Details",
   "panelFleetsRetreatsWarning": "注意:[[filterRetreatsLabel]]フィルタが無効の場合、最終的な艦隊の状態のみが表示されます。",
   "panelFleetsEntryEventDataText": "難易度: {{difficulty}}　[[termPhase]]: {{phase}}　[[termMapHP]]: {{curHP}}/{{maxHP}}",
   "panelFleetsEntryLOSDataText": "[[termELOS]]: {{los}} ({{type}}が計{{radars}}個、装備艦が{{ships}}隻)",

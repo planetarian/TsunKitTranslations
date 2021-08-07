@@ -46,7 +46,7 @@
   "ribbonCompsSectionTip": " ",
   "ribbonShipClassesSectionName": "Kelas Kapal",
   "ribbonShipClassesSectionTip": "Penyertaan/Pengecualian filter untuk setiap kelas kapal. Ketuk untuk mengaktifkan antara putih (tanpa filter), hijau (harus disertakan), dan merah (tidak boleh disertakan).",
-  
+
   "ribbonAdmiralSectionName": "Laksamana",
   "ribbonAdmiralSectionTip": " ",
   "ribbonFleetSectionName": "[[termFleet]]",
@@ -89,9 +89,10 @@
   "filterRetreatsTip": "Menampilkan perjalanan yang berakhir sebelum tiba di titik akhir.",
   "filterFCFUsageSectionLabel": "Kabur:",
   "filterFCFUsageSectionTip": "Memungkinkan untuk menerapkan filter berdasarkan apakah Fasilitas Komando Armada (Fleet Command Facility/FCF) digunakan. Penggunaan FCF menyebabkan kapal untuk dapat mundur dari sortie, dan kemungkinan dapat mempengaruhi jalur perjalanan secara tidak terduga",
-  "filterFCFUsageLabel": "Ya",
+  "fcfUsageAny": "[[termAny]]",
+  "fcfUsageYes": "Ya",
   "filterFCFUsageTip": "Menampilkan perjalanan dimana kapal kembali karena aktivasi FCF.",
-  "filterNoFCFUsageLabel": "Tidak",
+  "fcfUsageNo": "Tidak",
   "filterNoFCFUsageTip": "Menampilkan perjalanan dimana FCF tidak (atau belum) diaktifkan.",
 
   "displayMapBackgroundLabel": "Latar belakang peta",
@@ -301,6 +302,8 @@
   "panelCompsEscortFleetLabel": "[[termEscort]]:",
   "panelCompsFilterByCompLabel": "Filter",
 
+  "panelFleetsShowEquipsLabel": "Equips",
+  "panelFleetsShowDetailsLabel": "Details",
   "panelFleetsRetreatsWarning": "PERINGATAN: Hanya kondisi akhir armada ditampilkan ketika 'Sertakan mundur' dimatikan.",
   "panelFleetsEntryEventDataText": "{{difficulty}} [[termPhase]] {{phase}}, {{curHP}}/{{maxHP}}",
   "panelFleetsEntryLOSDataText": "LoS: {{los}} ({{radars}} {{type}} radar pada {{ships}} kapal)",
