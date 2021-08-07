@@ -303,8 +303,8 @@
   "panelCompsEscortFleetLabel": "[[termEscort]]:",
   "panelCompsFilterByCompLabel": "この編成でフィルタ",
 
-  "panelFleetsShowEquipsLabel": "Equips",
-  "panelFleetsShowDetailsLabel": "Details",
+  "panelFleetsShowEquipsLabel": "装備情報",
+  "panelFleetsShowDetailsLabel": "索敵詳細",
   "panelFleetsRetreatsWarning": "注意:[[filterRetreatsLabel]]フィルタが無効の場合、最終的な艦隊の状態のみが表示されます。",
   "panelFleetsEntryEventDataText": "難易度: {{difficulty}}　[[termPhase]]: {{phase}}　[[termMapHP]]: {{curHP}}/{{maxHP}}",
   "panelFleetsEntryLOSDataText": "[[termELOS]]: {{los}} ({{type}}が計{{radars}}個、装備艦が{{ships}}隻)",
