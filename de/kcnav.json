@@ -88,9 +88,10 @@
   "filterRetreatsTip": "Missionen, die vor dem Endknoten beendet wurden einschließen.",
   "filterFCFUsageSectionLabel": "Geflohen:",
   "filterFCFUsageSectionTip": "Filtert nach Nutzung der Flottenkommando-Ausrüstung. FCF führt dazu, dass Schiffe sich zurückziehen und kann zu einer anderen Route führen",
-  "filterFCFUsageLabel": "Ja",
+  "fcfUsageAny": "[[termAny]]",
+  "fcfUsageYes": "Ja",
   "filterFCFUsageTip": "Zeige Missionen, in denen sich Schiffe mithilfe von FCF zurückzogen.",
-  "filterNoFCFUsageLabel": "Nein",
+  "fcfUsageNo": "Nein",
   "filterNoFCFUsageTip": "Zeige Missionen, in denen FCF (noch) nicht aktiv war",
 
   "displayMapBackgroundLabel": "Kartenhintergrund",

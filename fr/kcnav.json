@@ -46,7 +46,7 @@
   "ribbonCompsSectionTip": " ",
   "ribbonShipClassesSectionName": "Classes de navires",
   "ribbonShipClassesSectionTip": "Filtre d'inclusion/exclusion pour des classes de navires individuelles. Cliquez ici pour basculer entre blanc (aucun filtre), vert (doit être inclus), et rouge (ne doit pas être inclus).",
-  
+
   "ribbonAdmiralSectionName": "Amiral",
   "ribbonAdmiralSectionTip": " ",
   "ribbonFleetSectionName": "[[termFleet]]",
@@ -81,7 +81,7 @@
   "filterMapHPLabel": "[[termMapHP]]:",
   "filterMapHPTip": "(Seulement en event) Afficher les runs où la jauge de phase de la map (PV/TP) est comprise entre deux valeurs.",
   "filterEdgesLabel": "[[termEdge]]s:",
-  
+
   "filterEdgesTip": "Afficher les runs avec un certain nombre de connections entre nœuds.",
   "filterStartLabel": "Depuis:",
   "filterEndLabel": "Jusque:",
@@ -90,9 +90,10 @@
   "filterRetreatsTip": "Afficher les runs qui se sont conclus avant d'arriver à un boss.",
   "filterFCFUsageSectionLabel": "Fuites:",
   "filterFCFUsageSectionTip": "Permet de filtrer en fonction de l'utilisation ou non d'un Poste de Contrôle de Flotte (FCF) dans le run. L'activation d'un FCF entraîne la retraite de navires en pleine sortie, et peut affecter l'embranchement de manière imprévisible.",
-  "filterFCFUsageLabel": "Oui",
+  "fcfUsageAny": "[[termAny]]",
+  "fcfUsageYes": "Oui",
   "filterFCFUsageTip": "Affiche les runs où des navires ont pu potentiellement être retraités en pleine sortie.",
-  "filterNoFCFUsageLabel": "Non",
+  "fcfUsageNo": "Non",
   "filterNoFCFUsageTip": "Affiche uniquement les runs où le FCF n'a pas (encore) été utilisé.",
 
   "displayMapBackgroundLabel": "Map en fond",

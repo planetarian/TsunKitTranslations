@@ -89,9 +89,10 @@
   "filterRetreatsTip": "종점까지 도달하기 전에 회항한 데이터도 표시합니다.",
   "filterFCFUsageSectionLabel": "퇴피:",
   "filterFCFUsageSectionTip": "퇴피 커맨드의 사용 여부에 따라 데이터를 필터링합니다. 퇴피 커맨드로 퇴피한 배가 있을 경우 예기치 못하게 경로에 영향을 미칠 수 있습니다.",
-  "filterFCFUsageLabel": "사용",
+  "fcfUsageAny": "[[termAny]]",
+  "fcfUsageYes": "사용",
   "filterFCFUsageTip": "퇴피 커맨드를 사용한 이후의 데이터를 표시합니다.",
-  "filterNoFCFUsageLabel": "미사용",
+  "fcfUsageNo": "미사용",
   "filterNoFCFUsageTip": "퇴피 커맨드를 사용하지 않은(사용하기 전의) 데이터를 표시합니다.",
 
   "displayMapBackgroundLabel": "배경에 맵 표시",

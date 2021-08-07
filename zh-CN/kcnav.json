@@ -48,7 +48,7 @@
   "ribbonCompsSectionTip": " ",
   "ribbonShipClassesSectionName": "舰种筛选",
   "ribbonShipClassesSectionTip": "选择或清除特定舰种标签。按下舰种标签可切换颜色：白色（不进行特定筛选）、绿色（必须包含）、红色（必须不包含）",
-  
+
   "ribbonAdmiralSectionName": "提督等级设定",
   "ribbonAdmiralSectionTip": " ",
   "ribbonFleetSectionName": "[[termFleet]]",
@@ -91,9 +91,10 @@
   "filterRetreatsTip": "包含中途撤退的情况",
   "filterFCFUsageSectionLabel": "司令部退避:",
   "filterFCFUsageSectionTip": "允许你根据是否使用司令部退避进行筛选",
-  "filterFCFUsageLabel": "是",
+  "fcfUsageAny": "[[termAny]]",
+  "fcfUsageYes": "是",
   "filterFCFUsageTip": "包含使用司令部退避的情况",
-  "filterNoFCFUsageLabel": "否",
+  "fcfUsageNo": "否",
   "filterNoFCFUsageTip": "包含未使用司令部退避的情况.",
 
   "displayMapBackgroundLabel": "背景",
@@ -197,7 +198,7 @@
 
   "filterDrumCountLabel": "运输桶:",
   "filterDrumCountTip": "显示装备特定数量运输桶的结果",
-  "filterRadarCountLabel":"电探:",
+  "filterRadarCountLabel": "电探:",
   "filterRadarCountTip": "显示装备特定数量电探的结果",
   "filterRadarShipCountLabel": "装备电探船数:",
   "filterRadarShipCountTip": "显示特定数量舰娘装备电探的结果",

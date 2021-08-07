@@ -46,7 +46,7 @@
   "ribbonCompsSectionTip": " ",
   "ribbonShipClassesSectionName": "艦種",
   "ribbonShipClassesSectionTip": "Inclusion/exclusion filter for individual ship classes. Click to toggle between white (no filter), green (must include), and red (must not include).",
-  
+
   "ribbonAdmiralSectionName": "Admiral",
   "ribbonAdmiralSectionTip": " ",
   "ribbonFleetSectionName": "[[termFleet]]",
@@ -89,9 +89,10 @@
   "filterRetreatsTip": "包含中途撤退的資料",
   "filterFCFUsageSectionLabel": "退避:",
   "filterFCFUsageSectionTip": "Allows you to filter based on whether or not a Fleet Command Facility was used. FCF activation causes ships to be retreated from the sortie, and may affect routing in unexpected ways.",
-  "filterFCFUsageLabel": "Yes",
+  "fcfUsageAny": "[[termAny]]",
+  "fcfUsageYes": "Yes",
   "filterFCFUsageTip": "包含使用司令部退避的資料",
-  "filterNoFCFUsageLabel": "No",
+  "fcfUsageNo": "No",
   "filterNoFCFUsageTip": "包含未使用司令部退避的資料.",
 
   "displayMapBackgroundLabel": "背景",
