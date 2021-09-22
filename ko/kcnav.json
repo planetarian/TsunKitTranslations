@@ -55,6 +55,8 @@
   "ribbonLosRadarsSectionTip": " ",
   "ribbonKeySectionName": "범례",
   "ribbonKeySectionTip": " ",
+  "ribbonTagsSectionName": "Tags",
+  "ribbonTagsSectionTip": "Filter by ship-locking tags",
 
   "ribbonApplyFiltersLabel": "필터 적용",
 

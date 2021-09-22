@@ -58,6 +58,8 @@
   "ribbonLosRadarsSectionTip": " ",
   "ribbonKeySectionName": "凡例",
   "ribbonKeySectionTip": " ",
+  "ribbonTagsSectionName": "Tags",
+  "ribbonTagsSectionTip": "Filter by ship-locking tags",
 
   "ribbonApplyFiltersLabel": "検索開始",
 

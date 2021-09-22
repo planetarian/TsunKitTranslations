@@ -55,6 +55,8 @@
   "ribbonLosRadarsSectionTip": " ",
   "ribbonKeySectionName": "Légende",
   "ribbonKeySectionTip": " ",
+  "ribbonTagsSectionName": "Tags",
+  "ribbonTagsSectionTip": "Filter by ship-locking tags",
 
   "ribbonApplyFiltersLabel": "Appliquer les filtres",
 

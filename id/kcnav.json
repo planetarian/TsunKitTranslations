@@ -55,6 +55,8 @@
   "ribbonLosRadarsSectionTip": " ",
   "ribbonKeySectionName": "Legenda",
   "ribbonKeySectionTip": " ",
+  "ribbonTagsSectionName": "Tags",
+  "ribbonTagsSectionTip": "Filter by ship-locking tags",
 
   "ribbonApplyFiltersLabel": "Terapkan Filter",
 

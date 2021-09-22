@@ -54,6 +54,8 @@
   "ribbonLosRadarsSectionTip": " ",
   "ribbonKeySectionName": "Key",
   "ribbonKeySectionTip": " ",
+  "ribbonTagsSectionName": "Tags",
+  "ribbonTagsSectionTip": "Filter by ship-locking tags",
 
   "ribbonApplyFiltersLabel": "篩選",
 
