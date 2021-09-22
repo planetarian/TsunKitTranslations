@@ -59,7 +59,8 @@
   "ribbonKeySectionName": "凡例",
   "ribbonKeySectionTip": " ",
   "ribbonTagsSectionName": "出撃識別札",
-  "ribbonTagsSectionTip": "数字は札の内部IDのこと。「None」は札がまだ付与されていない段階のことを示します。",
+  "shipLockTagNone": "未付与",
+  "ribbonTagsSectionTip": "数字は札の内部IDのこと。「[[shipLockTagNone]]」は札無しのマップか、イベントマップに出撃開始後札がまだ付与されていない段階のこと。",
 
   "ribbonApplyFiltersLabel": "検索開始",
 
