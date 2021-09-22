@@ -56,7 +56,8 @@
   "ribbonKeySectionName": "Key",
   "ribbonKeySectionTip": " ",
   "ribbonTagsSectionName": "Tags",
-  "ribbonTagsSectionTip":  "Filter by ship-locking tags",
+  "ribbonTagsSectionTip": "Filter by ship-locking tags",
+  "shipLockTagNone": "None",
 
   "ribbonApplyFiltersLabel": "Apply Filters",
 

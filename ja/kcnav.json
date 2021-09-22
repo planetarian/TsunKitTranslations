@@ -60,6 +60,7 @@
   "ribbonKeySectionTip": " ",
   "ribbonTagsSectionName": "Tags",
   "ribbonTagsSectionTip": "Filter by ship-locking tags",
+  "shipLockTagNone": "None",
 
   "ribbonApplyFiltersLabel": "検索開始",
 
