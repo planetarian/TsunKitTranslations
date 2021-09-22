@@ -58,8 +58,8 @@
   "ribbonLosRadarsSectionTip": " ",
   "ribbonKeySectionName": "凡例",
   "ribbonKeySectionTip": " ",
-  "ribbonTagsSectionName": "Tags",
-  "ribbonTagsSectionTip": "Filter by ship-locking tags",
+  "ribbonTagsSectionName": "出撃識別札",
+  "ribbonTagsSectionTip": "数字は札の内部IDのこと。「None」は札がまだ付与されていない段階のことを示します。",
 
   "ribbonApplyFiltersLabel": "検索開始",
 
