@@ -5,5 +5,9 @@
 /* 矢印の対応あるフォントを指定しないと */
 .node-details-entries-controls > * {
   font-family: "Cambria Math", Symbola, Quivira;
-  vertical-align: text-top;
+}
+.node-details-entries-controls > label > input {
+  vertical-align: middle;
+  position: relative;
+  bottom: 1px;
 }
