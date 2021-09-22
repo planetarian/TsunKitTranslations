@@ -58,6 +58,7 @@
   "ribbonKeySectionName": "图例",
   "ribbonKeySectionTip": " ",
   "ribbonTagsSectionName": "锁船贴条",
+  "shipLockTagNone": "未贴条",
   "ribbonTagsSectionTip": "根据出击后贴条情况进行筛选。数字为贴条内部编号。",
 
   "ribbonApplyFiltersLabel": "确认筛选",
