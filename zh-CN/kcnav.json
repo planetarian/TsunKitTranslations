@@ -55,11 +55,11 @@
   "ribbonFleetSectionTip": " ",
   "ribbonLosRadarsSectionName": "索敌/电探设定",
   "ribbonLosRadarsSectionTip": " ",
-  "ribbonKeySectionName": "关键字",
+  "ribbonKeySectionName": "图例",
   "ribbonKeySectionTip": " ",
-  "ribbonTagsSectionName": "Tags",
-  "ribbonTagsSectionTip": "Filter by ship-locking tags",
-  "shipLockTagNone": "None",
+  "ribbonTagsSectionName": "锁船贴条",
+  "ribbonTagsSectionTip": "根据出击后贴条情况进行筛选。数字为贴条内部编号。",
+  "shipLockTagNone": "未贴条",
 
   "ribbonApplyFiltersLabel": "确认筛选",
 
