@@ -103,6 +103,8 @@
   "displayLBASDistanceTip": "Display the LBAS distance value on each node.",
   "displayEdgeIDsLabel": "路徑 ID",
   "displayEdgeIDsTip": "Display the internal IDs of map paths/edges (lines between nodes).",
+  "displayEdgeTagsLabel": "Ship lock tags",
+  "displayEdgeTagsTip": "Display icons for lock tags applied to ships on each route. Can get cluttered on lower difficulties.",
 
   "filterMainFleetLabel": "一隊:",
   "filterMainFleetTip": "一隊的篩選條件。 必須包含所有船隻的艦名(英文)/艦種。 特殊改造船隻必須標記是哪一種型態",
@@ -232,6 +234,8 @@
   "worldName49": "秋活 2020",
   "worldName50": "春活 2021",
   "worldName51": "夏活 2021",
+  "worldName52": "秋活 2021",
+  "worldName53": "冬活 2022",
 
   "nodeType": "{{type}} [[termNode]]",
   "nodeTypeStart": "起始點",

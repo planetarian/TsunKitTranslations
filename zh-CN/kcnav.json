@@ -106,6 +106,8 @@
   "displayLBASDistanceTip": "在每个点显示相应的陆航航程",
   "displayEdgeIDsLabel": "路径编号",
   "displayEdgeIDsTip": "显示每条路径的内部编号",
+  "displayEdgeTagsLabel": "Ship lock tags",
+  "displayEdgeTagsTip": "Display icons for lock tags applied to ships on each route. Can get cluttered on lower difficulties.",
 
   "filterMainFleetLabel": "第一舰队:",
   "filterMainFleetTip": "筛选第一舰队。必须包含所有船的舰名(英文)/舰种，以及特殊改造的形态",
@@ -235,6 +237,8 @@
   "worldName49": "2020 秋/冬活",
   "worldName50": "2021 春活",
   "worldName51": "2021 夏活",
+  "worldName52": "2021 秋活",
+  "worldName53": "2022 冬活",
 
   "nodeType": "{{type}}[[termNode]]",
   "nodeTypeStart": "出发",
