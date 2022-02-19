@@ -58,7 +58,7 @@
   "ribbonKeySectionName": "图例",
   "ribbonKeySectionTip": " ",
   "ribbonTagsSectionName": "锁船贴条",
-  "ribbonTagsSectionTip": "根据出击后贴条情况进行筛选。数字为贴条内部编号。",
+  "ribbonTagsSectionTip": "根据出击后贴条情况进行筛选。数字为贴条内部编号",
   "shipLockTagNone": "未贴条",
 
   "ribbonApplyFiltersLabel": "确认筛选",
@@ -98,7 +98,7 @@
   "fcfUsageYes": "是",
   "filterFCFUsageTip": "包含使用司令部退避的情况",
   "fcfUsageNo": "否",
-  "filterNoFCFUsageTip": "包含未使用司令部退避的情况.",
+  "filterNoFCFUsageTip": "包含未使用司令部退避的情况",
 
   "displayMapBackgroundLabel": "背景",
   "displayMapBackgroundTip": "显示游戏中的海域背景",
@@ -106,8 +106,8 @@
   "displayLBASDistanceTip": "在每个点显示相应的陆航航程",
   "displayEdgeIDsLabel": "路径编号",
   "displayEdgeIDsTip": "显示每条路径的内部编号",
-  "displayEdgeTagsLabel": "Ship lock tags",
-  "displayEdgeTagsTip": "Display icons for lock tags applied to ships on each route. Can get cluttered on lower difficulties.",
+  "displayEdgeTagsLabel": "贴条",
+  "displayEdgeTagsTip": "在每条航路上显示贴条图标。低难度时太多图标可能导致杂乱",
 
   "filterMainFleetLabel": "第一舰队:",
   "filterMainFleetTip": "筛选第一舰队。必须包含所有船的舰名(英文)/舰种，以及特殊改造的形态",
@@ -122,7 +122,7 @@
   "filterEscortSetFSTip": "仅显示与第二舰队筛选处旗舰相同的结果",
 
   "filterBothFleetsLabel": "联合舰队:",
-  "filterBothFleetsTip": "同时筛选第一和第二舰队，可与上边两个一起使用。",
+  "filterBothFleetsTip": "同时筛选第一和第二舰队，可与上边两个一起使用",
   "filterBothFleetsPlaceholder": "e.g. Kamo kai 3CA 2CL 4DD 2XX",
 
   "filterExcludeAllClassesLabel": "清除所有舰种",
