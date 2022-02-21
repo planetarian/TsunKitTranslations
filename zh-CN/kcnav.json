@@ -360,6 +360,7 @@
   "panelDropsFilterHiddenLabel": "隐藏",
   "panelDropsShipHeader": "[[termShip]]",
   "panelDropsRateHeader": "[[termRate]]",
+  "panelDropsDropsHeader": "[[termDrops]]",
   "panelDropsRanksHeader": "战斗评价",
   "panelDropsDupesHeader": "[[termDupes]]",
   "panelDropsNoDrop": "No drop",

@@ -363,6 +363,7 @@
   "panelDropsFilterHiddenLabel": "숨김 표시",
   "panelDropsShipHeader": "[[termShip]]",
   "panelDropsRateHeader": "[[termRate]]",
+  "panelDropsDropsHeader": "[[termDrops]]",
   "panelDropsRanksHeader": "전투 결과",
   "panelDropsDupesHeader": "[[termDupes]]",
   "panelDropsNoDrop": "드롭 없음",

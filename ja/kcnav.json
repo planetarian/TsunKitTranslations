@@ -364,6 +364,7 @@
   "panelDropsFilterHiddenLabel": "非表示",
   "panelDropsShipHeader": "[[termShip]]",
   "panelDropsRateHeader": "[[termDropRate]]",
+  "panelDropsDropsHeader": "[[termDrops]]",
   "panelDropsRanksHeader": "戦闘評価",
   "panelDropsDupesHeader": "[[termDupes]]",
   "panelDropsNoDrop": "[[termDrops]]なし",

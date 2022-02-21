@@ -363,6 +363,7 @@
   "panelDropsFilterHiddenLabel": "Hidden",
   "panelDropsShipHeader": "[[termShip]]",
   "panelDropsRateHeader": "[[termRate]]",
+  "panelDropsDropsHeader": "[[termDrops]]",
   "panelDropsRanksHeader": "Ranking",
   "panelDropsDupesHeader": "[[termDupes]]",
   "panelDropsNoDrop": "No drop",
