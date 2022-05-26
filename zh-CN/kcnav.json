@@ -104,6 +104,10 @@
   "displayMapBackgroundTip": "显示游戏中的海域背景",
   "displayLBASDistanceLabel": "航程",
   "displayLBASDistanceTip": "在每个点显示相应的陆航航程",
+  "displayNodeGimmicksLabel": "Gimmicks",
+  "displayNodeGimmicksTip": "Display tags for nodes that are part of gimmicks/unlock stages.",
+  "displayRunCountsLabel": "Run counts",
+  "displayRunCountsTip": "Display the number of runs that passed through the paths between nodes.",
   "displayEdgeIDsLabel": "路径编号",
   "displayEdgeIDsTip": "显示每条路径的内部编号",
   "displayEdgeTagsLabel": "贴条",
@@ -239,6 +243,7 @@
   "worldName51": "2021 夏活",
   "worldName52": "2021 秋活",
   "worldName53": "2022 冬活",
+  "worldName54": "2022 春活",
 
   "nodeType": "{{type}}[[termNode]]",
   "nodeTypeStart": "出发",

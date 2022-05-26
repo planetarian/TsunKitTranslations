@@ -106,6 +106,10 @@
   "displayMapBackgroundTip": "Menampilkan latar belakang berupa gambar peta di dalam permainan.",
   "displayLBASDistanceLabel": "Jarak LBAS",
   "displayLBASDistanceTip": "Menampilkan besar jarak LBAS untuk setiap node.",
+  "displayNodeGimmicksLabel": "Gimmicks",
+  "displayNodeGimmicksTip": "Display tags for nodes that are part of gimmicks/unlock stages.",
+  "displayRunCountsLabel": "Run counts",
+  "displayRunCountsTip": "Display the number of runs that passed through the paths between nodes.",
   "displayEdgeIDsLabel": "ID [[termEdge]]",
   "displayEdgeIDsTip": "Menampilkan ID internal dari jalur di peta (garis antar node).",
   "displayEdgeTagsLabel": "Ship lock tags",
@@ -241,6 +245,7 @@
   "worldName51": "[[termSummer]] 2021",
   "worldName52": "[[termFall]] 2021",
   "worldName53": "[[termWinter]] 2022",
+  "worldName54": "[[termSpring]] 2022",
 
   "nodeType": "{{type}} [[termNode]]",
   "nodeTypeStart": "Mulai",

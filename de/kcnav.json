@@ -105,6 +105,10 @@
   "displayMapBackgroundTip": "Zeige den im Spiel verwendeten Kartenhintergrund",
   "displayLBASDistanceLabel": "LBAS Distanz",
   "displayLBASDistanceTip": "Zeige die Distanz der Landbasierten Luftunterstützung auf der Karte",
+  "displayNodeGimmicksLabel": "Gimmicks",
+  "displayNodeGimmicksTip": "Display tags for nodes that are part of gimmicks/unlock stages.",
+  "displayRunCountsLabel": "Run counts",
+  "displayRunCountsTip": "Display the number of runs that passed through the paths between nodes.",
   "displayEdgeIDsLabel": "[[termEdge]] IDs",
   "displayEdgeIDsTip": "Zeige die internen IDs der Knotenverbindungen/knoten.",
   "displayEdgeTagsLabel": "Ship lock tags",
@@ -240,6 +244,7 @@
   "worldName51": "[[termSummer]] 2021",
   "worldName52": "[[termFall]] 2021",
   "worldName53": "[[termWinter]] 2022",
+  "worldName54": "[[termSpring]] 2022",
 
   "nodeType": "{{type}} [[termNode]]",
   "nodeTypeStart": "Start",

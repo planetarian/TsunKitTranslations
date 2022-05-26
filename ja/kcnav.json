@@ -109,6 +109,10 @@
   "displayMapBackgroundTip": "ゲーム内で使用される背景画像の表示設定ができます。",
   "displayLBASDistanceLabel": "戦闘行動半径",
   "displayLBASDistanceTip": "各[[termNode]]への戦闘行動半径の表示設定ができます。",
+  "displayNodeGimmicksLabel": "Gimmicks",
+  "displayNodeGimmicksTip": "Display tags for nodes that are part of gimmicks/unlock stages.",
+  "displayRunCountsLabel": "Run counts",
+  "displayRunCountsTip": "Display the number of runs that passed through the paths between nodes.",
   "displayEdgeIDsLabel": "[[termEdge]]ID",
   "displayEdgeIDsTip": "[[termEdge]]IDの表示設定ができます。\n[[termEdge]]IDとは、[[termNode]]と[[termNode]]の間の矢印に振られている内部IDのこと。",
   "displayEdgeTagsLabel": "識別札",
@@ -244,6 +248,7 @@
   "worldName51": "2021[[termSummer]]",
   "worldName52": "2021[[termFall]]",
   "worldName53": "2022[[termWinter]]",
+  "worldName54": "2022[[termSpring]]",
 
   "nodeType": "{{type}}[[termNode]]",
   "nodeTypeStart": "出撃地点",

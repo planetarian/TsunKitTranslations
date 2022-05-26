@@ -107,6 +107,10 @@
   "displayMapBackgroundTip": "Affiche l'image de la map utilisée en jeu en fond.",
   "displayLBASDistanceLabel": "Distance LBAS",
   "displayLBASDistanceTip": "Affiche la distance LBAS sur chaque nœud.",
+  "displayNodeGimmicksLabel": "Gimmicks",
+  "displayNodeGimmicksTip": "Display tags for nodes that are part of gimmicks/unlock stages.",
+  "displayRunCountsLabel": "Run counts",
+  "displayRunCountsTip": "Display the number of runs that passed through the paths between nodes.",
   "displayEdgeIDsLabel": "IDs de routes",
   "displayEdgeIDsTip": "Affiche les IDs internes des routes de la map (ligne entre chaque nœud).",
   "displayEdgeTagsLabel": "Ship lock tags",
@@ -240,6 +244,7 @@
   "worldName51": "[[termSummer]] 2021",
   "worldName52": "[[termFall]] 2021",
   "worldName53": "[[termWinter]] 2022",
+  "worldName54": "[[termSpring]] 2022",
 
   "nodeType": "{{type}} [[termNode]]",
   "nodeTypeStart": "Début",

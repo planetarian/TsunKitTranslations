@@ -106,6 +106,10 @@
   "displayMapBackgroundTip": "Mostrar la imagen de fondo del mapa utilizada en el juego.",
   "displayLBASDistanceLabel": "Distancia de apoyo aéreo",
   "displayLBASDistanceTip": "Mostrar la distancia de apoyo aéreo en cada nodo.",
+  "displayNodeGimmicksLabel": "Gimmicks",
+  "displayNodeGimmicksTip": "Display tags for nodes that are part of gimmicks/unlock stages.",
+  "displayRunCountsLabel": "Run counts",
+  "displayRunCountsTip": "Display the number of runs that passed through the paths between nodes.",
   "displayEdgeIDsLabel": "IDs de [[termEdge]]",
   "displayEdgeIDsTip": "Mostrar los IDs internos de los caminos, bordes del mapa (líneas entrer los nodos).",
   "displayEdgeTagsLabel": "Ship lock tags",
@@ -241,6 +245,7 @@
   "worldName51": "[[termSummer]] 2021",
   "worldName52": "[[termFall]] 2021",
   "worldName53": "[[termWinter]] 2022",
+  "worldName54": "[[termSpring]] 2022",
 
   "nodeType": "{{type}} [[termNode]]",
   "nodeTypeStart": "Inicio",

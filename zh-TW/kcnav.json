@@ -101,6 +101,10 @@
   "displayMapBackgroundTip": "Display the map background image used in-game.",
   "displayLBASDistanceLabel": "陸航距離",
   "displayLBASDistanceTip": "Display the LBAS distance value on each node.",
+  "displayNodeGimmicksLabel": "Gimmicks",
+  "displayNodeGimmicksTip": "Display tags for nodes that are part of gimmicks/unlock stages.",
+  "displayRunCountsLabel": "Run counts",
+  "displayRunCountsTip": "Display the number of runs that passed through the paths between nodes.",
   "displayEdgeIDsLabel": "路徑 ID",
   "displayEdgeIDsTip": "Display the internal IDs of map paths/edges (lines between nodes).",
   "displayEdgeTagsLabel": "Ship lock tags",
@@ -236,6 +240,7 @@
   "worldName51": "夏活 2021",
   "worldName52": "秋活 2021",
   "worldName53": "冬活 2022",
+  "worldName54": "春活 2022",
 
   "nodeType": "{{type}} [[termNode]]",
   "nodeTypeStart": "起始點",
