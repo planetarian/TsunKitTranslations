@@ -279,6 +279,11 @@
   "nodeTypeLBAS": "基地航空隊",
   "nodeTypeUnknown": "[[termUnknown]]",
 
+  "gimmickRankASPlus": "[[termAirASPlus]]",
+  "gimmickRankAS": "[[termAirAS]]",
+  "gimmickRankAP": "[[termAirAP]]",
+  "gimmickRankAD": "[[termAirAD]]",
+
   "pathName": "{{fromNode}}→{{toNode}}",
   "edgeName": "([[termEdge]]ID: {{edgeID}})",
 

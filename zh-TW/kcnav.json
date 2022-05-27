@@ -270,6 +270,11 @@
   "nodeTypeLBAS": "陸航",
   "nodeTypeUnknown": "[[termUnknown]]",
 
+  "gimmickRankASPlus": "[[termAirASPlus]]",
+  "gimmickRankAS": "[[termAirAS]]",
+  "gimmickRankAP": "[[termAirAP]]",
+  "gimmickRankAD": "[[termAirAD]]",
+
   "pathName": "{{fromNode}}→{{toNode}}",
   "edgeName": "([[termEdge]] {{edgeID}})",
 
