@@ -35,6 +35,7 @@
   "ribbonMapTabName": "[[termMap]]",
   "ribbonCompsTabName": "Compos",
   "ribbonFleetTabName": "[[termFleet]]",
+  "ribbonViewTabName": "View",
   "ribbonHelpTabName": "Aide",
 
   "ribbonMapSectionName": "[[termMap]]",
@@ -43,8 +44,11 @@
   "ribbonGaugePhaseSectionTip": " ",
   "ribbonGeneralSectionName": "Général",
   "ribbonGeneralSectionTip": " ",
+
   "ribbonLayersSectionName": "Surcouches",
   "ribbonLayersSectionTip": " ",
+  "ribbonDisplayOptsSectionName": "Display options",
+  "ribbonDisplayOptsSectionTip": "Options pertaining to configuration of display elements.",
 
   "ribbonCompsSectionName": "Compositions",
   "ribbonCompsSectionTip": " ",
@@ -115,6 +119,11 @@
   "displayEdgeIDsTip": "Affiche les IDs internes des routes de la map (ligne entre chaque nœud).",
   "displayEdgeTagsLabel": "Ship lock tags",
   "displayEdgeTagsTip": "Display icons for lock tags applied to ships on each route. Can get cluttered on lower difficulties.",
+
+  "heatmapModeLabel": "Heatmap mode:",
+  "heatmapModeTip": "Sets the type of data being displayed by the path heatmap (colored lines).",
+  "heatmapModeRuns": "Sorties",
+  "heatmapModeGimmicks": "Possible gimmicks",
 
   "filterMainFleetLabel": "[[termMain]]:",
   "filterMainFleetTip": "Filtre pour la flotte 1. Doit apporter assez de critères pour la taille de flotte cherchée. Chaque navire doit être spécifié avec son état de remodelage.",

@@ -33,6 +33,7 @@
   "ribbonMapTabName": "[[termMap]]",
   "ribbonCompsTabName": "舰种组成",
   "ribbonFleetTabName": "舰队详细",
+  "ribbonViewTabName": "View",
   "ribbonHelpTabName": "帮助",
 
   "ribbonMapSectionName": "[[termMap]]",
@@ -41,8 +42,11 @@
   "ribbonGaugePhaseSectionTip": " ",
   "ribbonGeneralSectionName": "通用设定",
   "ribbonGeneralSectionTip": " ",
+
   "ribbonLayersSectionName": "表示设定",
   "ribbonLayersSectionTip": " ",
+  "ribbonDisplayOptsSectionName": "Display options",
+  "ribbonDisplayOptsSectionTip": "Options pertaining to configuration of display elements.",
 
   "ribbonCompsSectionName": "编成设定",
   "ribbonCompsSectionTip": " ",
@@ -112,6 +116,11 @@
   "displayEdgeIDsTip": "显示每条路径的内部编号",
   "displayEdgeTagsLabel": "贴条",
   "displayEdgeTagsTip": "在每条航路上显示贴条图标。低难度时太多图标可能导致杂乱",
+
+  "heatmapModeLabel": "Heatmap mode:",
+  "heatmapModeTip": "Sets the type of data being displayed by the path heatmap (colored lines).",
+  "heatmapModeRuns": "Sorties",
+  "heatmapModeGimmicks": "Possible gimmicks",
 
   "filterMainFleetLabel": "第一舰队:",
   "filterMainFleetTip": "筛选第一舰队。必须包含所有船的舰名(英文)/舰种，以及特殊改造的形态",

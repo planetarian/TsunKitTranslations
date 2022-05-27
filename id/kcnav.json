@@ -35,6 +35,7 @@
   "ribbonMapTabName": "[[termMap]]",
   "ribbonCompsTabName": "Komp",
   "ribbonFleetTabName": "[[termFleet]]",
+  "ribbonViewTabName": "View",
   "ribbonHelpTabName": "Bantuan",
 
   "ribbonMapSectionName": "[[termMap]]",
@@ -43,8 +44,11 @@
   "ribbonGaugePhaseSectionTip": " ",
   "ribbonGeneralSectionName": "Umum",
   "ribbonGeneralSectionTip": " ",
+
   "ribbonLayersSectionName": "Layers",
   "ribbonLayersSectionTip": " ",
+  "ribbonDisplayOptsSectionName": "Display options",
+  "ribbonDisplayOptsSectionTip": "Options pertaining to configuration of display elements.",
 
   "ribbonCompsSectionName": "Konposisi",
   "ribbonCompsSectionTip": " ",
@@ -114,6 +118,11 @@
   "displayEdgeIDsTip": "Menampilkan ID internal dari jalur di peta (garis antar node).",
   "displayEdgeTagsLabel": "Ship lock tags",
   "displayEdgeTagsTip": "Display icons for lock tags applied to ships on each route. Can get cluttered on lower difficulties.",
+
+  "heatmapModeLabel": "Heatmap mode:",
+  "heatmapModeTip": "Sets the type of data being displayed by the path heatmap (colored lines).",
+  "heatmapModeRuns": "Sorties",
+  "heatmapModeGimmicks": "Possible gimmicks",
 
   "filterMainFleetLabel": "[[termMain]]:",
   "filterMainFleetTip": "Filter untuk armada 1. Harus menyertakan kriteria cukup untuk besar armada yang dituju. Kapal spesifik perlu untuk dituliskan pada tingkat remodel/pembaharuan secara tepat.",

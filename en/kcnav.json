@@ -35,6 +35,7 @@
   "ribbonMapTabName": "[[termMap]]",
   "ribbonCompsTabName": "Comps",
   "ribbonFleetTabName": "[[termFleet]]",
+  "ribbonViewTabName": "View",
   "ribbonHelpTabName": "Help",
 
   "ribbonMapSectionName": "[[termMap]]",
@@ -42,9 +43,12 @@
   "ribbonGaugePhaseSectionName": "Gauge/Phase",
   "ribbonGaugePhaseSectionTip": " ",
   "ribbonGeneralSectionName": "General",
-  "ribbonGeneralSectionTip": " ",
+  "ribbonGeneralSectionTip": "Miscellaneous filter options.",
+
   "ribbonLayersSectionName": "Layers",
-  "ribbonLayersSectionTip": " ",
+  "ribbonLayersSectionTip": "Enable/disable display of the available data visualization layers in the map view.",
+  "ribbonDisplayOptsSectionName": "Display options",
+  "ribbonDisplayOptsSectionTip": "Options pertaining to configuration of display elements.",
 
   "ribbonCompsSectionName": "Compositions",
   "ribbonCompsSectionTip": " ",
@@ -114,6 +118,11 @@
   "displayEdgeIDsTip": "Display the internal IDs of map paths/edges (lines between nodes).",
   "displayEdgeTagsLabel": "Ship lock tags",
   "displayEdgeTagsTip": "Display icons for lock tags applied to ships on each route. Can get cluttered on lower difficulties.",
+
+  "heatmapModeLabel": "Heatmap mode:",
+  "heatmapModeTip": "Sets the type of data being displayed by the path heatmap (colored lines).",
+  "heatmapModeRuns": "Sorties",
+  "heatmapModeGimmicks": "Possible gimmicks",
 
   "filterMainFleetLabel": "[[termMain]]:",
   "filterMainFleetTip": "Filter for fleet 1. Must provide enough criteria for the fleet size you're looking for. Specific ships must be specified at their precise remodel level.",

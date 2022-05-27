@@ -34,6 +34,7 @@
   "ribbonMapTabName": "[[termMap]]",
   "ribbonCompsTabName": "Comps",
   "ribbonFleetTabName": "[[termFleet]]",
+  "ribbonViewTabName": "View",
   "ribbonHelpTabName": "Hilfe",
 
   "ribbonMapSectionName": "[[termMap]]",
@@ -42,8 +43,11 @@
   "ribbonGaugePhaseSectionTip": " ",
   "ribbonGeneralSectionName": "General",
   "ribbonGeneralSectionTip": " ",
+
   "ribbonLayersSectionName": "Layer",
   "ribbonLayersSectionTip": " ",
+  "ribbonDisplayOptsSectionName": "Display options",
+  "ribbonDisplayOptsSectionTip": "Options pertaining to configuration of display elements.",
 
   "ribbonCompsSectionName": "Kompositionen",
   "ribbonCompsSectionTip": " ",
@@ -113,6 +117,11 @@
   "displayEdgeIDsTip": "Zeige die internen IDs der Knotenverbindungen/knoten.",
   "displayEdgeTagsLabel": "Ship lock tags",
   "displayEdgeTagsTip": "Display icons for lock tags applied to ships on each route. Can get cluttered on lower difficulties.",
+
+  "heatmapModeLabel": "Heatmap mode:",
+  "heatmapModeTip": "Sets the type of data being displayed by the path heatmap (colored lines).",
+  "heatmapModeRuns": "Sorties",
+  "heatmapModeGimmicks": "Possible gimmicks",
 
   "filterMainFleetLabel": "[[termMain]]:",
   "filterMainFleetTip": "Filter für Flotte 1. Es müssen genug Kriterien für die entsprechende Flottengröße angegeben werden. Schiffe müssen in ihrem spezifischen Remodel angegeben werden",

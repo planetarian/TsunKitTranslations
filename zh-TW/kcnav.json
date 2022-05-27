@@ -31,6 +31,7 @@
   "ribbonMapTabName": "[[termMap]]",
   "ribbonCompsTabName": "艦隊組成",
   "ribbonFleetTabName": "艦隊導航",
+  "ribbonViewTabName": "View",
   "ribbonHelpTabName": "Help",
 
   "ribbonMapSectionName": "[[termMap]]",
@@ -39,8 +40,11 @@
   "ribbonGaugePhaseSectionTip": " ",
   "ribbonGeneralSectionName": "一般",
   "ribbonGeneralSectionTip": " ",
+
   "ribbonLayersSectionName": "地圖資訊",
   "ribbonLayersSectionTip": " ",
+  "ribbonDisplayOptsSectionName": "Display options",
+  "ribbonDisplayOptsSectionTip": "Options pertaining to configuration of display elements.",
 
   "ribbonCompsSectionName": "艦隊組成",
   "ribbonCompsSectionTip": " ",
@@ -109,6 +113,11 @@
   "displayEdgeIDsTip": "Display the internal IDs of map paths/edges (lines between nodes).",
   "displayEdgeTagsLabel": "Ship lock tags",
   "displayEdgeTagsTip": "Display icons for lock tags applied to ships on each route. Can get cluttered on lower difficulties.",
+
+  "heatmapModeLabel": "Heatmap mode:",
+  "heatmapModeTip": "Sets the type of data being displayed by the path heatmap (colored lines).",
+  "heatmapModeRuns": "Sorties",
+  "heatmapModeGimmicks": "Possible gimmicks",
 
   "filterMainFleetLabel": "一隊:",
   "filterMainFleetTip": "一隊的篩選條件。 必須包含所有船隻的艦名(英文)/艦種。 特殊改造船隻必須標記是哪一種型態",

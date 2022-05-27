@@ -35,6 +35,7 @@
   "ribbonMapTabName": "[[termMap]]",
   "ribbonCompsTabName": "Composiciones",
   "ribbonFleetTabName": "[[termFleet]]",
+  "ribbonViewTabName": "View",
   "ribbonHelpTabName": "Ayuda",
 
   "ribbonMapSectionName": "[[termMap]]",
@@ -43,8 +44,11 @@
   "ribbonGaugePhaseSectionTip": " ",
   "ribbonGeneralSectionName": "General",
   "ribbonGeneralSectionTip": " ",
+
   "ribbonLayersSectionName": "Capas",
   "ribbonLayersSectionTip": " ",
+  "ribbonDisplayOptsSectionName": "Display options",
+  "ribbonDisplayOptsSectionTip": "Options pertaining to configuration of display elements.",
 
   "ribbonCompsSectionName": "Composiciones",
   "ribbonCompsSectionTip": " ",
@@ -114,6 +118,11 @@
   "displayEdgeIDsTip": "Mostrar los IDs internos de los caminos, bordes del mapa (líneas entrer los nodos).",
   "displayEdgeTagsLabel": "Ship lock tags",
   "displayEdgeTagsTip": "Display icons for lock tags applied to ships on each route. Can get cluttered on lower difficulties.",
+
+  "heatmapModeLabel": "Heatmap mode:",
+  "heatmapModeTip": "Sets the type of data being displayed by the path heatmap (colored lines).",
+  "heatmapModeRuns": "Sorties",
+  "heatmapModeGimmicks": "Possible gimmicks",
 
   "filterMainFleetLabel": "[[termMain]]:",
   "filterMainFleetTip": "Filtrar por flota 1. Hay que proveer suficientes criterios para el tamaño de la flota que se está buscando. Hay que especificar el modelo específico de los barcos que se desea.",
