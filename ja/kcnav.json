@@ -117,7 +117,7 @@
   "displayNodeGimmicksLabel": "ギミック",
   "displayNodeGimmicksTip": "イベントマップのギミック解除や段階遷移が必要のマスと条件の表示設定ができます。",
   "displayRunCountsLabel": "経由回数",
-  "displayRunCountsTip": "各[[termEdge]]が経由された回数の表示設定ができます。",
+  "displayRunCountsTip": "各[[termEdge]]が経由された[[termRuns]]の表示設定ができます。",
   "displayEdgeIDsLabel": "[[termEdge]]ID",
   "displayEdgeIDsTip": "[[termEdge]]IDの表示設定ができます。\n[[termEdge]]IDとは、[[termNode]]と[[termNode]]の間の矢印に振られている内部IDのこと。",
   "displayEdgeTagsLabel": "識別札",
@@ -279,10 +279,10 @@
   "nodeTypeLBAS": "基地航空隊",
   "nodeTypeUnknown": "[[termUnknown]]",
 
-  "gimmickRankASPlus": "[[termAirASPlus]]",
-  "gimmickRankAS": "[[termAirAS]]",
-  "gimmickRankAP": "[[termAirAP]]",
-  "gimmickRankAD": "[[termAirAD]]",
+  "gimmickRankASPlus": "確",
+  "gimmickRankAS": "優",
+  "gimmickRankAP": "均",
+  "gimmickRankAD": "劣",
 
   "pathName": "{{fromNode}}→{{toNode}}",
   "edgeName": "([[termEdge]]ID: {{edgeID}})",
