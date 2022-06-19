@@ -94,7 +94,7 @@
   "filterEdgesLabel": "[[termEdge]]s:",
   "filterEdgesTip": "Afficher les runs avec un certain nombre de connections entre nœuds.",
   "filterUnlockStageLabel": "Unlock stage:",
-  "filterUnlockStageTip": "Shortcut to set the Edges filter to show a single unlock stage.",
+  "filterUnlockStageTip": "Shortcut to set the Edges filter based on map unlock stage.",
   "filterStartLabel": "Depuis:",
   "filterEndLabel": "Jusque:",
 

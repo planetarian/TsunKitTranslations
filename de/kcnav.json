@@ -93,7 +93,7 @@
   "filterEdgesLabel": "[[termEdge]]s:",
   "filterEdgesTip": "Missionen mit einer bestimmten Zahl von Freischalt-Kriterien zeigen.",
   "filterUnlockStageLabel": "Unlock stage:",
-  "filterUnlockStageTip": "Shortcut to set the Edges filter to show a single unlock stage.",
+  "filterUnlockStageTip": "Shortcut to set the Edges filter based on map unlock stage.",
   "filterStartLabel": "Beginn:",
   "filterEndLabel": "Ende:",
 

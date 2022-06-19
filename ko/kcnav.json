@@ -94,7 +94,7 @@
   "filterEdgesLabel": "[[termEdge]]:",
   "filterEdgesTip": "마스와 마스 사이를 잇는 특정 ID의 경로가 열려 있는 상태의 출격 데이터만을 표시합니다.",
   "filterUnlockStageLabel": "Unlock stage:",
-  "filterUnlockStageTip": "Shortcut to set the Edges filter to show a single unlock stage.",
+  "filterUnlockStageTip": "Shortcut to set the Edges filter based on map unlock stage.",
   "filterStartLabel": "시작일:",
   "filterEndLabel": "종료일:",
 
