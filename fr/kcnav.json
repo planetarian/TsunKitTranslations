@@ -92,8 +92,9 @@
   "filterMapHPLabel": "[[termMapHP]]:",
   "filterMapHPTip": "(Seulement en event) Afficher les runs où la jauge de phase de la map (PV/TP) est comprise entre deux valeurs.",
   "filterEdgesLabel": "[[termEdge]]s:",
-
   "filterEdgesTip": "Afficher les runs avec un certain nombre de connections entre nœuds.",
+  "filterUnlockStageLabel": "Unlock stage:",
+  "filterUnlockStageTip": "Shortcut to set the Edges filter to show a single unlock stage.",
   "filterStartLabel": "Depuis:",
   "filterEndLabel": "Jusque:",
 

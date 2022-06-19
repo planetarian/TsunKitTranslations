@@ -88,6 +88,8 @@
   "filterMapHPTip": "(活動限定) 根據血條/運輸條剩餘量篩選。",
   "filterEdgesLabel": "路線數量:",
   "filterEdgesTip": "已經開啟的路線數量",
+  "filterUnlockStageLabel": "Unlock stage:",
+  "filterUnlockStageTip": "Shortcut to set the Edges filter to show a single unlock stage.",
   "filterStartLabel": "開始日期:",
   "filterEndLabel": "結束日期:",
 

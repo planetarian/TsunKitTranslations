@@ -93,6 +93,8 @@
   "filterMapHPTip": "(Event only) Mostrar salidas para niveles de HP/TP entre ciertos valores.",
   "filterEdgesLabel": "[[termEdge]]s:",
   "filterEdgesTip": "Mostrar salidas con un cierto numero de conexiones nodo a nodo desbloqueadas.",
+  "filterUnlockStageLabel": "Unlock stage:",
+  "filterUnlockStageTip": "Shortcut to set the Edges filter to show a single unlock stage.",
   "filterStartLabel": "Inicio:",
   "filterEndLabel": "Final:",
 

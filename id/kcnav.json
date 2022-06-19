@@ -93,6 +93,8 @@
   "filterMapHPTip": "(Hanya Event) Tampilkan perjalanan dimana gauge HP/TP berada pada tingkatan tertentu.",
   "filterEdgesLabel": "[[termEdge]]s:",
   "filterEdgesTip": "Menampilkan perjalanan dengan jumlah jalur koneksi antar node yang telah terbuka yang telah ditentukan.",
+  "filterUnlockStageLabel": "Unlock stage:",
+  "filterUnlockStageTip": "Shortcut to set the Edges filter to show a single unlock stage.",
   "filterStartLabel": "Awal:",
   "filterEndLabel": "Akhir:",
 

@@ -97,6 +97,8 @@
   "filterMapHPTip": "期間限定海域の場合、指定した戦力/輸送ゲージの残量の範囲でデータをフィルタリングできます。",
   "filterEdgesLabel": "[[termEdge]]ID:",
   "filterEdgesTip": "[[termEdge]]とは、[[termNode]]と[[termNode]]の間の矢印のこと。\n[[termPhase]]フィルタだとゲージ開放ギミックがある場合で次のボス[[termNode]]の有無でルート分岐法則が変わる場合は異なるルート分岐法則の出撃データが混じって検索されます。\nそれを回避する場合は検索したいゲージ段階の最大[[termEdge]]IDに＋1して検索すると良い（例：26~26）。",
+  "filterUnlockStageLabel": "Unlock stage:",
+  "filterUnlockStageTip": "Shortcut to set the Edges filter to show a single unlock stage.",
   "filterStartLabel": "開始日時:",
   "filterEndLabel": "終了日時:",
 
