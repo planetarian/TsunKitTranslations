@@ -94,7 +94,7 @@
   "filterEdgesLabel": "[[termEdge]]s:",
   "filterEdgesTip": "Show runs with a certain number of unlocked node-to-node connections.",
   "filterUnlockStageLabel": "Unlock stage:",
-  "filterUnlockStageTip": "Shortcut to set the Edges filter to show a single unlock stage.",
+  "filterUnlockStageTip": "Shortcut to set the Edges filter based on map unlock stage.",
   "filterStartLabel": "Start:",
   "filterEndLabel": "End:",
 

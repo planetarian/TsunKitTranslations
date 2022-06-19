@@ -94,7 +94,7 @@
   "filterEdgesLabel": "[[termEdge]]s:",
   "filterEdgesTip": "Menampilkan perjalanan dengan jumlah jalur koneksi antar node yang telah terbuka yang telah ditentukan.",
   "filterUnlockStageLabel": "Unlock stage:",
-  "filterUnlockStageTip": "Shortcut to set the Edges filter to show a single unlock stage.",
+  "filterUnlockStageTip": "Shortcut to set the Edges filter based on map unlock stage.",
   "filterStartLabel": "Awal:",
   "filterEndLabel": "Akhir:",
 

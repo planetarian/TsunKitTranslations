@@ -89,7 +89,7 @@
   "filterEdgesLabel": "路線數量:",
   "filterEdgesTip": "已經開啟的路線數量",
   "filterUnlockStageLabel": "Unlock stage:",
-  "filterUnlockStageTip": "Shortcut to set the Edges filter to show a single unlock stage.",
+  "filterUnlockStageTip": "Shortcut to set the Edges filter based on map unlock stage.",
   "filterStartLabel": "開始日期:",
   "filterEndLabel": "結束日期:",
 
