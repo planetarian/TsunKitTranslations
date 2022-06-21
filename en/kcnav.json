@@ -65,6 +65,11 @@
   "ribbonKeySectionTip": " ",
   "ribbonTagsSectionName": "Tags",
   "ribbonTagsSectionTip": "Filter by ship-locking tags",
+  "ribbonHelpLinksSectionName": "Help links",
+  "ribbonHelpLinksSectionTip": "Links to external documentation and guides for KCNav features.",
+
+  "helpLinkCompFilterDocs": "Comp filter reference",
+
   "shipLockTagNone": "None",
 
   "ribbonApplyFiltersLabel": "Apply Filters",

@@ -68,8 +68,13 @@
   "ribbonKeySectionName": "凡例",
   "ribbonKeySectionTip": " ",
   "ribbonTagsSectionName": "出撃識別札",
-  "shipLockTagNone": "未付与",
   "ribbonTagsSectionTip": "数字は札の内部IDのこと。「[[shipLockTagNone]]」は札無しのマップか、イベントマップに出撃開始後札がまだ付与されていない段階のこと。",
+  "ribbonHelpLinksSectionName": "Help links",
+  "ribbonHelpLinksSectionTip": "Links to external documentation and guides for KCNav features.",
+
+  "helpLinkCompFilterDocs": "Comp filter reference",
+
+  "shipLockTagNone": "未付与",
 
   "ribbonApplyFiltersLabel": "検索開始",
 

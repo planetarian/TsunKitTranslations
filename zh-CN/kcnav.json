@@ -63,6 +63,11 @@
   "ribbonKeySectionTip": " ",
   "ribbonTagsSectionName": "锁船贴条",
   "ribbonTagsSectionTip": "根据出击后贴条情况进行筛选。数字为贴条内部编号",
+  "ribbonHelpLinksSectionName": "Help links",
+  "ribbonHelpLinksSectionTip": "Links to external documentation and guides for KCNav features.",
+
+  "helpLinkCompFilterDocs": "Comp filter reference",
+
   "shipLockTagNone": "未贴条",
 
   "ribbonApplyFiltersLabel": "确认筛选",
