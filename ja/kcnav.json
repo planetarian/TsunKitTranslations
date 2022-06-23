@@ -35,7 +35,7 @@
   "termSummer": "夏",
   "termFall": "秋",
   "termWinter": "冬",
-  "termDismiss": "Dismiss",
+  "termDismiss": "了解",
 
   "ribbonMapTabName": "[[termMap]]",
   "ribbonCompsTabName": "[[termComps]]",
@@ -70,10 +70,10 @@
   "ribbonKeySectionTip": " ",
   "ribbonTagsSectionName": "出撃識別札",
   "ribbonTagsSectionTip": "数字は札の内部IDのこと。「[[shipLockTagNone]]」は札無しのマップか、イベントマップに出撃開始後札がまだ付与されていない段階のこと。",
-  "ribbonHelpLinksSectionName": "Help links",
-  "ribbonHelpLinksSectionTip": "Links to external documentation and guides for KCNav features.",
+  "ribbonHelpLinksSectionName": "ヘルプリンク",
+  "ribbonHelpLinksSectionTip": "このサイトの機能に関する外部のサイトやガイドのリンク集です。",
 
-  "helpLinkCompFilterDocs": "Comp filter reference",
+  "helpLinkCompFilterDocs": "編成フィルタのリファレンス",
 
   "shipLockTagNone": "未付与",
 
@@ -311,7 +311,7 @@
   "panelDropsTabName": "[[termDrops]]",
   "panelDupesTabName": "[[termDupes]]",
   "panelFriendFleetsTabName": "友軍艦隊",
-  "panelBattlesTabName": "Battles",
+  "panelBattlesTabName": "戦闘",
 
   "panelStatsMainShipsLabel": "[[termMain]]:",
   "panelStatsEscortShipsLabel": "[[termEscort]]:",
