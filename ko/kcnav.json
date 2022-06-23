@@ -31,6 +31,7 @@
   "termSummer": "년 여름",
   "termFall": "년 겨울",
   "termWinter": "년 겨울",
+  "termDismiss": "Dismiss",
 
   "ribbonMapTabName": "[[termMap]]",
   "ribbonCompsTabName": "편성",
@@ -306,6 +307,7 @@
   "panelDropsTabName": "[[termDrops]]",
   "panelDupesTabName": "[[termDupes]]",
   "panelFriendFleetsTabName": "우군함대",
+  "panelBattlesTabName": "Battles",
 
   "panelStatsMainShipsLabel": "1함대:",
   "panelStatsEscortShipsLabel": "2함대:",
@@ -369,6 +371,7 @@
   "panelBonusesMaxLowModHeader": "최대 배율 (장갑난수 최소)",
   "panelBonusesMaxLowModTip": "장갑난수를 최소로 가정하고 계산했을 때의 최대값",
   "panelBonusesWarning": "주의: 결과값은 장비 보너스나 장갑파쇄 배율에 영향을 받을 수 있습니다.",
+  "panelBonusesWarningDismiss": "[[termDismiss]]",
   "panelBonusesCopyLabel": "데이터를 클립보드에 복사",
   "panelBonusesCopiedLabel": "복사됨!",
 
@@ -413,6 +416,8 @@
 
   "panelFFNoResultsText": "이 마스에 우군함대의 데이터가 없습니다.",
   "panelFFDetailsLabel": "[[termDetails]]",
+  
+  "panelBattlesWarningDismiss": "[[termDismiss]]",
 
   "mapMenuEdgeLabel": "[[termEdge]]: [[pathName]]",
   "mapMenuNodeLabel": "[[termNode]]: {{node}}",

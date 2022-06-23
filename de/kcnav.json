@@ -30,6 +30,7 @@
   "termSummer": "Sommer",
   "termFall": "Herbst",
   "termWinter": "Winter",
+  "termDismiss": "Dismiss",
 
   "ribbonMapTabName": "[[termMap]]",
   "ribbonCompsTabName": "Comps",
@@ -305,6 +306,7 @@
   "panelDropsTabName": "[[termDrops]]",
   "panelDupesTabName": "[[termDupes]]",
   "panelFriendFleetsTabName": "Unterstützungsflotten",
+  "panelBattlesTabName": "Battles",
 
   "panelStatsMainShipsLabel": "Schiffe der Hauptflotte:",
   "panelStatsEscortShipsLabel": "Schiffe der Eskorte:",
@@ -367,6 +369,7 @@
   "panelBonusesMaxLowModHeader": "Max Mod (Niedrig)",
   "panelBonusesMaxLowModTip": "Maximal beobachteter Wert für einen möglichen Schadensmodifikator, unter der Annahme eines niedrigen Panzerungswurfs des Gegeners",
   "panelBonusesWarning": "Beachte: Lass dich nicht von hohen 'Max'-Werten in die Irre führen. Ausrüstungsboni und gegnerische Schwachpunkte könnten die Daten verfälschen.",
+  "panelBonusesWarningDismiss": "[[termDismiss]]",
   "panelBonusesCopyLabel": "Daten in den Zwischenspeicher kopieren",
   "panelBonusesCopiedLabel": "Kopiert!",
 
@@ -411,6 +414,8 @@
 
   "panelFFNoResultsText": "Keine Unterstützungsflotten für diesen Knoten aufgezeichnet.",
   "panelFFDetailsLabel": "[[termDetails]]",
+
+  "panelBattlesWarningDismiss": "[[termDismiss]]",
 
   "mapMenuEdgeLabel": "[[termEdge]]: [[pathName]]",
   "mapMenuNodeLabel": "[[termNode]]: {{node}}",

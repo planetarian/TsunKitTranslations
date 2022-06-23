@@ -35,6 +35,7 @@
   "termSummer": "夏",
   "termFall": "秋",
   "termWinter": "冬",
+  "termDismiss": "Dismiss",
 
   "ribbonMapTabName": "[[termMap]]",
   "ribbonCompsTabName": "[[termComps]]",
@@ -310,6 +311,7 @@
   "panelDropsTabName": "[[termDrops]]",
   "panelDupesTabName": "[[termDupes]]",
   "panelFriendFleetsTabName": "友軍艦隊",
+  "panelBattlesTabName": "Battles",
 
   "panelStatsMainShipsLabel": "[[termMain]]:",
   "panelStatsEscortShipsLabel": "[[termEscort]]:",
@@ -371,6 +373,7 @@
   "panelBonusesMaxLowModHeader": "最大倍率 (最小防御力)",
   "panelBonusesMaxLowModTip": "防御力の計算結果を最小防御力と想定した場合に考えられる最大の特効ボーナス\n防御力は装甲値×0.7 + 整数乱数(0 ～ (装甲値-1))×0.6で計算される。つまり最小防御力とは装甲値×0.7である。",
   "panelBonusesWarning": "注意: 大きな特効ボーナスに惑わされないでください。\n装備特効や装甲破砕ギミックによって誤検出されることがあります。",
+  "panelBonusesWarningDismiss": "[[termDismiss]]",
   "panelBonusesCopyLabel": "データをクリップボードにコピー",
   "panelBonusesCopiedLabel": "コピーされた。",
 
@@ -415,6 +418,8 @@
 
   "panelFFNoResultsText": "この[[termNode]]に友軍艦隊のデータはありません。",
   "panelFFDetailsLabel": "[[termDetails]]",
+  
+  "panelBattlesWarningDismiss": "[[termDismiss]]",
 
   "mapMenuEdgeLabel": "[[termEdge]]: [[pathName]]",
   "mapMenuNodeLabel": "[[termNode]]: {{node}}",

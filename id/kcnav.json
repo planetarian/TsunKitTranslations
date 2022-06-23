@@ -31,6 +31,7 @@
   "termSummer": "Musim Panas",
   "termFall": "Musim Gugur",
   "termWinter": "Musim Dingin",
+  "termDismiss": "Dismiss",
 
   "ribbonMapTabName": "[[termMap]]",
   "ribbonCompsTabName": "Komp",
@@ -306,6 +307,7 @@
   "panelDropsTabName": "[[termDrops]]",
   "panelDupesTabName": "[[termDupes]]",
   "panelFriendFleetsTabName": "Armada Sahabat",
+  "panelBattlesTabName": "Battles",
 
   "panelStatsMainShipsLabel": "Kapal-kapal Utama:",
   "panelStatsEscortShipsLabel": "Kapal-kapal Pengawal:",
@@ -369,6 +371,7 @@
   "panelBonusesMaxLowModHeader": "Pengubah Maks (Rendah)",
   "panelBonusesMaxLowModTip": "Besar nilai yang terobservasi untuk besar pengubah bonus, mengasumsikan roll armor rendah",
   "panelBonusesWarning": "Pengingat:  Jangan terpengaruhi dengan angka 'Maks'. Bonus peralatan dan kelemahan musuh dapat mengakibatkan false positives.",
+  "panelBonusesWarningDismiss": "[[termDismiss]]",
   "panelBonusesCopyLabel": "Data tersalin ke clipboard",
   "panelBonusesCopiedLabel": "Tersalin!",
 
@@ -413,6 +416,8 @@
 
   "panelFFNoResultsText": "Tidak ada Armada Sahabat terekam pada node ini.",
   "panelFFDetailsLabel": "[[termDetails]]",
+  
+  "panelBattlesWarningDismiss": "[[termDismiss]]",
 
   "mapMenuEdgeLabel": "[[termEdge]]: [[pathName]]",
   "mapMenuNodeLabel": "[[termNode]]: {{node}}",

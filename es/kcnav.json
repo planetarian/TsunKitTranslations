@@ -31,6 +31,7 @@
   "termSummer": "Verano",
   "termFall": "Otoño",
   "termWinter": "Invierno",
+  "termDismiss": "Dismiss",
 
   "ribbonMapTabName": "[[termMap]]",
   "ribbonCompsTabName": "Composiciones",
@@ -306,6 +307,7 @@
   "panelDropsTabName": "[[termDrops]]",
   "panelDupesTabName": "[[termDupes]]",
   "panelFriendFleetsTabName": "Flotas amigas",
+  "panelBattlesTabName": "Battles",
 
   "panelStatsMainShipsLabel": "Barcos principales:",
   "panelStatsEscortShipsLabel": "Barcos escolta:",
@@ -368,6 +370,7 @@
   "panelBonusesMaxLowModHeader": "Max Mod (Low)",
   "panelBonusesMaxLowModTip": "Maximum observed value for possible bonus damage modifier, assuming low armor rolls",
   "panelBonusesWarning": "Recuerde: No se deje engañar por numeros 'Max' muy grandes. Bonuses de equipamiento y debilidades de los enemigos pueden causar falsos positivos.",
+  "panelBonusesWarningDismiss": "[[termDismiss]]",
   "panelBonusesCopyLabel": "Copy data to clipboard",
   "panelBonusesCopiedLabel": "Copied!",
 
@@ -412,6 +415,8 @@
 
   "panelFFNoResultsText": "No hay flotas amigas registradas en este nodo.",
   "panelFFDetailsLabel": "[[termDetails]]",
+  
+  "panelBattlesWarningDismiss": "[[termDismiss]]",
 
   "mapMenuEdgeLabel": "[[termEdge]]: [[pathName]]",
   "mapMenuNodeLabel": "[[termNode]]: {{node}}",

@@ -29,6 +29,7 @@
   "termUnknown": "不明",
   "termApply": "确认筛选",
   "termComps": "编成",
+  "termDismiss": "Dismiss",
 
   "ribbonMapTabName": "[[termMap]]",
   "ribbonCompsTabName": "舰种组成",
@@ -304,6 +305,7 @@
   "panelDropsTabName": "[[termDrops]]",
   "panelDupesTabName": "[[termDupes]]",
   "panelFriendFleetsTabName": "友军舰队",
+  "panelBattlesTabName": "Battles",
 
   "panelStatsMainShipsLabel": "第一舰队:",
   "panelStatsEscortShipsLabel": "第二舰队:",
@@ -366,6 +368,7 @@
   "panelBonusesMaxLowModHeader": "最大倍率 (最低装甲)",
   "panelBonusesMaxLowModTip": "基于随机到最低装甲时计算出的倍率最大值",
   "panelBonusesWarning": "注意：不要被过大的倍率所迷惑，装备倍率和削甲可能会导致错误的计算",
+  "panelBonusesWarningDismiss": "[[termDismiss]]",
   "panelBonusesCopyLabel": "复制数据到剪贴板",
   "panelBonusesCopiedLabel": "已复制",
 
@@ -410,6 +413,8 @@
 
   "panelFFNoResultsText": "这个点没有友军舰队数据",
   "panelFFDetailsLabel": "[[termDetails]]",
+  
+  "panelBattlesWarningDismiss": "[[termDismiss]]",
 
   "mapMenuEdgeLabel": "[[termEdge]]: [[pathName]]",
   "mapMenuNodeLabel": "[[termNode]]: {{node}}",

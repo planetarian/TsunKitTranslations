@@ -31,6 +31,7 @@
   "termSummer": "Été",
   "termFall": "Automne",
   "termWinter": "Hiver",
+  "termDismiss": "Dismiss",
 
   "ribbonMapTabName": "[[termMap]]",
   "ribbonCompsTabName": "Compos",
@@ -304,6 +305,7 @@
   "panelDropsTabName": "[[termDrops]]",
   "panelDupesTabName": "[[termDupes]]",
   "panelFriendFleetsTabName": "Friend Fleets",
+  "panelBattlesTabName": "Battles",
 
   "panelStatsMainShipsLabel": "Navires principaux:",
   "panelStatsEscortShipsLabel": "Navires d'escorte:",
@@ -366,6 +368,7 @@
   "panelBonusesMaxLowModHeader": "Max Mod (Bas)",
   "panelBonusesMaxLowModTip": "Valeur maximale observée pour un potentiel modificateur de dommages, en assumant des rolls d'armure faibles",
   "panelBonusesWarning": "À noter: Ne vous laissez pas piéger par de grands nombres 'Max'. Les bonus d'équipement et les faiblesses de l'ennemi peuvent provoquer des faux positifs.",
+  "panelBonusesWarningDismiss": "[[termDismiss]]",
   "panelBonusesCopyLabel": "Copier les données dans le presse-papiers",
   "panelBonusesCopiedLabel": "Copié!",
 
@@ -410,6 +413,8 @@
 
   "panelFFNoResultsText": "Aucune Friend Fleet enregistrée pour ce nœud.",
   "panelFFDetailsLabel": "[[termDetails]]",
+  
+  "panelBattlesWarningDismiss": "[[termDismiss]]",
 
   "mapMenuEdgeLabel": "[[termEdge]]: [[pathName]]",
   "mapMenuNodeLabel": "[[termNode]]: {{node}}",

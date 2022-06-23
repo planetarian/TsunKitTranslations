@@ -27,6 +27,7 @@
   "termAirAS": "優勢",
   "termAirASPlus": "確保",
   "termUnknown": "未知",
+  "termDismiss": "Dismiss",
 
   "ribbonMapTabName": "[[termMap]]",
   "ribbonCompsTabName": "艦隊組成",
@@ -301,6 +302,7 @@
   "panelDropsTabName": "[[termDrops]]",
   "panelDupesTabName": "[[termDupes]]",
   "panelFriendFleetsTabName": "友軍艦隊",
+  "panelBattlesTabName": "Battles",
 
   "panelStatsMainShipsLabel": "一隊:",
   "panelStatsEscortShipsLabel": "二隊:",
@@ -363,6 +365,7 @@
   "panelBonusesMaxLowModHeader": "Max Mod (Low)",
   "panelBonusesMaxLowModTip": "Maximum observed value for possible bonus damage modifier, assuming low armor rolls",
   "panelBonusesWarning": "Remember: Don't get baited by large 'Max' numbers. Equipment bonuses and enemy weaknesses may cause false positives.",
+  "panelBonusesWarningDismiss": "[[termDismiss]]",
   "panelBonusesCopyLabel": "複製至剪貼簿",
   "panelBonusesCopiedLabel": "已複製!",
 
@@ -407,6 +410,8 @@
 
   "panelFFNoResultsText": "該點沒有友軍艦隊的情報",
   "panelFFDetailsLabel": "[[termDetails]]",
+  
+  "panelBattlesWarningDismiss": "[[termDismiss]]",
 
   "mapMenuEdgeLabel": "[[termEdge]]: [[pathName]]",
   "mapMenuNodeLabel": "[[termNode]]: {{node}}",
