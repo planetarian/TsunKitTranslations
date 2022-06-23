@@ -29,7 +29,7 @@
   "termUnknown": "不明",
   "termApply": "确认筛选",
   "termComps": "编成",
-  "termDismiss": "Dismiss",
+  "termDismiss": "隐藏通知",
 
   "ribbonMapTabName": "[[termMap]]",
   "ribbonCompsTabName": "舰种组成",
@@ -64,10 +64,10 @@
   "ribbonKeySectionTip": " ",
   "ribbonTagsSectionName": "锁船贴条",
   "ribbonTagsSectionTip": "根据出击后贴条情况进行筛选。数字为贴条内部编号",
-  "ribbonHelpLinksSectionName": "Help links",
-  "ribbonHelpLinksSectionTip": "Links to external documentation and guides for KCNav features.",
+  "ribbonHelpLinksSectionName": "帮助链接",
+  "ribbonHelpLinksSectionTip": "关于KCNav功能的外部文档、向导链接",
 
-  "helpLinkCompFilterDocs": "Comp filter reference",
+  "helpLinkCompFilterDocs": "编成筛选语法参考文档",
 
   "shipLockTagNone": "未贴条",
 
@@ -305,7 +305,7 @@
   "panelDropsTabName": "[[termDrops]]",
   "panelDupesTabName": "[[termDupes]]",
   "panelFriendFleetsTabName": "友军舰队",
-  "panelBattlesTabName": "Battles",
+  "panelBattlesTabName": "战斗详细",
 
   "panelStatsMainShipsLabel": "第一舰队:",
   "panelStatsEscortShipsLabel": "第二舰队:",
