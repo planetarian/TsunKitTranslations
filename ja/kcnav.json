@@ -71,7 +71,7 @@
   "ribbonTagsSectionName": "出撃識別札",
   "ribbonTagsSectionTip": "数字は札の内部IDのこと。「[[shipLockTagNone]]」は札無しのマップか、イベントマップに出撃開始後札がまだ付与されていない段階のこと。",
   "ribbonHelpLinksSectionName": "ヘルプリンク",
-  "ribbonHelpLinksSectionTip": "このサイトの機能に関する外部のサイトやガイドのリンク集です。",
+  "ribbonHelpLinksSectionTip": " ",
 
   "helpLinkCompFilterDocs": "編成フィルタのリファレンス",
 
@@ -311,7 +311,7 @@
   "panelDropsTabName": "[[termDrops]]",
   "panelDupesTabName": "[[termDupes]]",
   "panelFriendFleetsTabName": "友軍艦隊",
-  "panelBattlesTabName": "戦闘",
+  "panelBattlesTabName": "戦闘情報",
 
   "panelStatsMainShipsLabel": "[[termMain]]:",
   "panelStatsEscortShipsLabel": "[[termEscort]]:",
