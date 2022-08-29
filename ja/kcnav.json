@@ -37,6 +37,8 @@
   "termWinter": "冬",
   "termDismiss": "了解",
 
+  "getStartedMessage": "To get started, select a map above and click \"Apply Filters\"!",
+
   "ribbonMapTabName": "[[termMap]]",
   "ribbonCompsTabName": "[[termComps]]",
   "ribbonFleetTabName": "[[termFleet]]",
@@ -419,7 +421,7 @@
 
   "panelFFNoResultsText": "この[[termNode]]に友軍艦隊のデータはありません。",
   "panelFFDetailsLabel": "[[termDetails]]",
-  
+
   "panelBattlesWarningDismiss": "[[termDismiss]]",
 
   "mapMenuEdgeLabel": "[[termEdge]]: [[pathName]]",

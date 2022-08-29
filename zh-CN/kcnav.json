@@ -31,6 +31,8 @@
   "termComps": "编成",
   "termDismiss": "隐藏通知",
 
+  "getStartedMessage": "To get started, select a map above and click \"Apply Filters\"!",
+
   "ribbonMapTabName": "[[termMap]]",
   "ribbonCompsTabName": "舰种组成",
   "ribbonFleetTabName": "舰队详细",
@@ -414,7 +416,7 @@
 
   "panelFFNoResultsText": "这个点没有友军舰队数据",
   "panelFFDetailsLabel": "[[termDetails]]",
-  
+
   "panelBattlesWarningDismiss": "[[termDismiss]]",
 
   "mapMenuEdgeLabel": "[[termEdge]]: [[pathName]]",

@@ -32,6 +32,8 @@
   "termWinter": "Winter",
   "termDismiss": "Dismiss",
 
+  "getStartedMessage": "To get started, select a map above and click \"Apply Filters\"!",
+
   "ribbonMapTabName": "[[termMap]]",
   "ribbonCompsTabName": "Comps",
   "ribbonFleetTabName": "[[termFleet]]",

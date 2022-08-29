@@ -29,6 +29,8 @@
   "termUnknown": "未知",
   "termDismiss": "Dismiss",
 
+  "getStartedMessage": "To get started, select a map above and click \"Apply Filters\"!",
+
   "ribbonMapTabName": "[[termMap]]",
   "ribbonCompsTabName": "艦隊組成",
   "ribbonFleetTabName": "艦隊導航",
@@ -411,7 +413,7 @@
 
   "panelFFNoResultsText": "該點沒有友軍艦隊的情報",
   "panelFFDetailsLabel": "[[termDetails]]",
-  
+
   "panelBattlesWarningDismiss": "[[termDismiss]]",
 
   "mapMenuEdgeLabel": "[[termEdge]]: [[pathName]]",
