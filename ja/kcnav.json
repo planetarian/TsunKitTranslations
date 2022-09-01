@@ -30,6 +30,7 @@
   "termUnknown": "不明",
   "termNone": "なし",
   "termELOS": "索敵スコア",
+  "termApplyFilters": "検索開始",
   "termApply": "再検索",
   "termSpring": "春",
   "termSummer": "夏",
@@ -37,7 +38,7 @@
   "termWinter": "冬",
   "termDismiss": "了解",
 
-  "getStartedMessage": "To get started, select a map above and click \"Apply Filters\"!",
+  "getStartedMessage": "上にある[[termMap]]を一つ選んでから「[[termApplyFilters]]」ボタンを押してみてください。",
 
   "ribbonMapTabName": "[[termMap]]",
   "ribbonCompsTabName": "[[termComps]]",
@@ -79,7 +80,7 @@
 
   "shipLockTagNone": "未付与",
 
-  "ribbonApplyFiltersLabel": "検索開始",
+  "ribbonApplyFiltersLabel": "[[termApplyFilters]]",
 
   "filterMapLabel": "[[termMap]]:",
 
