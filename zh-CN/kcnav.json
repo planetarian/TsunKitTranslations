@@ -31,7 +31,7 @@
   "termComps": "编成",
   "termDismiss": "隐藏通知",
 
-  "getStartedMessage": "To get started, select a map above and click \"Apply Filters\"!",
+  "getStartedMessage": "从上方选择一个[[termMap]]，然后点击“[[termApply]]”按钮开始你的浏览吧！",
 
   "ribbonMapTabName": "[[termMap]]",
   "ribbonCompsTabName": "舰种组成",
