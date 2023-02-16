@@ -137,6 +137,9 @@
   "themeLabel": "Theme:",
   "themeTip": "Changes KCNav's visual theme.",
 
+  "themeLight": "Light",
+  "themeDark": "Dark",
+
   "filterMainFleetLabel": "[[termMain]]:",
   "filterMainFleetTip": "Filtrar por flota 1. Hay que proveer suficientes criterios para el tamaño de la flota que se está buscando. Hay que especificar el modelo específico de los barcos que se desea.",
   "filterMainFleetPlaceholder": "e.g. Taigei CL 2DD 2XX",

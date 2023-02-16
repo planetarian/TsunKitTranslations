@@ -137,6 +137,9 @@
   "themeLabel": "Theme:",
   "themeTip": "Changes KCNav's visual theme.",
 
+  "themeLight": "Light",
+  "themeDark": "Dark",
+
   "filterMainFleetLabel": "[[termMain]]:",
   "filterMainFleetTip": "Filter for fleet 1. Must provide enough criteria for the fleet size you're looking for. Specific ships must be specified at their precise remodel level.",
   "filterMainFleetPlaceholder": "e.g. Taigei CL 2DD 2XX",

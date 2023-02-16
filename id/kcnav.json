@@ -137,6 +137,9 @@
   "themeLabel": "Theme:",
   "themeTip": "Changes KCNav's visual theme.",
 
+  "themeLight": "Light",
+  "themeDark": "Dark",
+
   "filterMainFleetLabel": "[[termMain]]:",
   "filterMainFleetTip": "Filter untuk armada 1. Harus menyertakan kriteria cukup untuk besar armada yang dituju. Kapal spesifik perlu untuk dituliskan pada tingkat remodel/pembaharuan secara tepat.",
   "filterMainFleetPlaceholder": "Contoh: Taigei CL 2DD 2XX",

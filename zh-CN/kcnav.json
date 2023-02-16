@@ -135,6 +135,9 @@
   "themeLabel": "颜色主题:",
   "themeTip": "light是亮色界面模式；dark是深色界面模式",
 
+  "themeLight": "Light",
+  "themeDark": "Dark",
+
   "filterMainFleetLabel": "第一舰队:",
   "filterMainFleetTip": "筛选第一舰队。必须包含所有船的舰名(英文)/舰种，以及特殊改造的形态",
   "filterMainFleetPlaceholder": "e.g. Taigei CL 2DD 2XX",

@@ -137,6 +137,9 @@
   "themeLabel": "Theme:",
   "themeTip": "Changes KCNav's visual theme.",
 
+  "themeLight": "Light",
+  "themeDark": "Dark",
+
   "filterMainFleetLabel": "[[termMain]]:",
   "filterMainFleetTip": "1함대를 필터링합니다. 함대 규모와 함종, 개장 단계를 정확히 지정해야 합니다. 개별 칸무스를 설정할 수 있습니다.\n함종 표기는 우측 함종 설정의 영어 약자에 마우스를 올려서 확인할 수 있습니다.(XX는 와일드카드) \n개별 칸무스 설정 - 개 = kai, 개2 = kai ni, 갑/을/병/정/무 = a/b/c/d/e, 항 = kou, 특 = toku (예: 카가개2무 = kaga kai ni e)\n관계 연산자(일치/이상/이하/초과/미만), 범위 지정, 특정 함선 제외가 가능합니다.\n(예: 구축함이 정확히 2척, 정규항모가 1척 이상, 아키츠시마개가 포함되지 않은 함대는 =2DD >=1CV 0-6XX !kamo kai)",
   "filterMainFleetPlaceholder": "예: Taigei CL 2DD 2XX",
