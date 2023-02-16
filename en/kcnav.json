@@ -33,7 +33,7 @@
   "termWinter": "Winter",
   "termDismiss": "Dismiss",
 
-  "getStartedMessage":  "To get started, select a map above and click \"Apply Filters\"!",
+  "getStartedMessage": "To get started, select a map above and click \"Apply Filters\"!",
 
   "ribbonMapTabName": "[[termMap]]",
   "ribbonCompsTabName": "Comps",
@@ -133,6 +133,9 @@
   "heatmapModeTip": "Sets the type of data being displayed by the path heatmap (colored lines).",
   "heatmapModeRuns": "Sorties",
   "heatmapModeGimmicks": "Possible gimmicks",
+
+  "themeLabel": "Theme:",
+  "themeTip": "Changes KCNav's visual theme.",
 
   "filterMainFleetLabel": "[[termMain]]:",
   "filterMainFleetTip": "Filter for fleet 1. Must provide enough criteria for the fleet size you're looking for. Specific ships must be specified at their precise remodel level.",

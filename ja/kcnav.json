@@ -140,6 +140,9 @@
   "heatmapModeRuns": "よく経由ルート",
   "heatmapModeGimmicks": "ギミックルート",
 
+  "themeLabel": "Theme:",
+  "themeTip": "Changes KCNav's visual theme.",
+
   "filterMainFleetLabel": "[[termMain]]:",
   "filterMainFleetTip": "第一艦隊のフィルタリング設定ができます。艦の数と改造段階を正確に指定する必要があります。\n英語の艦種表記、艦娘名も使用できます。艦種の英語表記は右記を参照（マウスオーバーで日本語訳表示）。\n改の艦には「kai」、改二の艦娘には「kai ni」\n甲、乙、丙、丁、戊はそれぞれ「A」、「B」、「C」、「D」、「E」\n航は「kou」、特は「toku」\n一部の海外艦は以下の通り（下記にない海外艦はそのまま）\nВерный→Verniy Ташкент→Tashkent Гангут→Gangut Октябрьская революция→Oktyabrskaya Revolyutsiya Гангут два→Gangut Dva\nSamuel B.Roberts→Sammy b. Commandant Teste→Comdt. Teste U-511→U511 UIT-25→UIT25",
   "filterMainFleetPlaceholder": "例: 大鯨 CL 2駆逐 2XX",

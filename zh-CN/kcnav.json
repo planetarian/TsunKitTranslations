@@ -132,6 +132,9 @@
   "heatmapModeRuns": "出击次数多寡路径",
   "heatmapModeGimmicks": "可能去解密的路径",
 
+  "themeLabel": "Theme:",
+  "themeTip": "Changes KCNav's visual theme.",
+
   "filterMainFleetLabel": "第一舰队:",
   "filterMainFleetTip": "筛选第一舰队。必须包含所有船的舰名(英文)/舰种，以及特殊改造的形态",
   "filterMainFleetPlaceholder": "e.g. Taigei CL 2DD 2XX",

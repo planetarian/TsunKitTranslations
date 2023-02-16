@@ -129,6 +129,9 @@
   "heatmapModeRuns": "Sorties",
   "heatmapModeGimmicks": "Possible gimmicks",
 
+  "themeLabel": "Theme:",
+  "themeTip": "Changes KCNav's visual theme.",
+
   "filterMainFleetLabel": "一隊:",
   "filterMainFleetTip": "一隊的篩選條件。 必須包含所有船隻的艦名(英文)/艦種。 特殊改造船隻必須標記是哪一種型態",
   "filterMainFleetPlaceholder": "舉例: Taigei CL 2DD 2XX",

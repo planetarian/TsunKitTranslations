@@ -133,6 +133,9 @@
   "heatmapModeRuns": "Sorties",
   "heatmapModeGimmicks": "Possible gimmicks",
 
+  "themeLabel": "Theme:",
+  "themeTip": "Changes KCNav's visual theme.",
+
   "filterMainFleetLabel": "[[termMain]]:",
   "filterMainFleetTip": "Filter für Flotte 1. Es müssen genug Kriterien für die entsprechende Flottengröße angegeben werden. Schiffe müssen in ihrem spezifischen Remodel angegeben werden",
   "filterMainFleetPlaceholder": "z.B. Taigei CL 2DD 2XX",
