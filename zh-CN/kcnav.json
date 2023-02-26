@@ -50,8 +50,8 @@
   "ribbonLayersSectionTip": " ",
   "ribbonDisplayOptsSectionName": "显示设定",
   "ribbonDisplayOptsSectionTip": " ",
-  "ribbonQueryOptsSectionName": "Query Options",
-  "ribbonQueryOptsSectionTip": "Options which affect the default behaviors for how KCNav runs queries.",
+  "ribbonQueryOptsSectionName": "查询设定",
+  "ribbonQueryOptsSectionTip": " ",
 
   "ribbonCompsSectionName": "编成设定",
   "ribbonCompsSectionTip": " ",
@@ -135,15 +135,15 @@
   "heatmapModeGimmicks": "可能去解密的路径",
 
   "themeLabel": "颜色主题:",
-  "themeTip": "light是亮色界面模式；dark是深色界面模式",
+  "themeTip": "设置界面配色模式",
 
-  "themeLight": "Light",
-  "themeDark": "Dark",
+  "themeLight": "亮色",
+  "themeDark": "深色",
 
-  "defaultForceEnemiesByNodeLabel": "Enemies always by node",
-  "defaultForceEnemiesByNodeTip": "For edge-based queries, this causes the 'Enemies' tab to pull data for the entire node by default, rather than just the edge the query is performed upon. Disable this if you're researching nodes that may have different enemy comps based on approach path.'",
-  "forceEnemiesByNodeLabel": "By node",
-  "forceEnemiesByNodeTip": "For edge-based queries, this pulls enemy data for the entire node, rather than just the edge the query is performed upon. Disable this if you're researching nodes that may have different enemy comps based on approach path.'",
+  "defaultForceEnemiesByNodeLabel": "敌方舰队默认按[[termNode]]归纳",
+  "defaultForceEnemiesByNodeTip": "默认查询结果会将驶向同一个[[termNode]]的所有[[termEdge]]的敌方舰队归纳到一起。如果想要研究来自不同[[termEdge]]时的敌方舰队是否有不同，可以取消该选项",
+  "forceEnemiesByNodeLabel": "按[[termNode]]归纳",
+  "forceEnemiesByNodeTip": "查询结果会将驶向同一个[[termNode]]的所有[[termEdge]]的敌方舰队归纳到一起。如果取消，将会只显示来自该[[termEdge]]的敌方舰队",
 
   "filterMainFleetLabel": "第一舰队:",
   "filterMainFleetTip": "筛选第一舰队。必须包含所有船的舰名(英文)/舰种，以及特殊改造的形态",

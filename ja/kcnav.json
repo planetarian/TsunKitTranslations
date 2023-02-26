@@ -44,7 +44,7 @@
   "ribbonMapTabName": "[[termMap]]",
   "ribbonCompsTabName": "[[termComps]]",
   "ribbonFleetTabName": "[[termFleet]]",
-  "ribbonViewTabName": "[[termView]]",
+  "ribbonViewTabName": "[[termView]]設定",
   "ribbonHelpTabName": "[[termNode]]解説",
 
   "ribbonMapSectionName": "[[termMap]]設定",
@@ -59,8 +59,8 @@
   "ribbonLayersSectionTip": " ",
   "ribbonDisplayOptsSectionName": "画面設定",
   "ribbonDisplayOptsSectionTip": " ",
-  "ribbonQueryOptsSectionName": "Query Options",
-  "ribbonQueryOptsSectionTip": "Options which affect the default behaviors for how KCNav runs queries.",
+  "ribbonQueryOptsSectionName": "検索設定",
+  "ribbonQueryOptsSectionTip": " ",
 
   "ribbonCompsSectionName": "[[termComps]]設定",
   "ribbonCompsSectionTip": " ",
@@ -143,15 +143,15 @@
   "heatmapModeGimmicks": "ギミックルート",
 
   "themeLabel": "テーマ:",
-  "themeTip": "UI配色の明るさです。lightは明るく白いライトテーマ、darkは暗く黒いダークテーマ",
+  "themeTip": "UI配色の明るさです。今は明るく白いライトテーマと暗く黒いダークテーマがあります。",
 
-  "themeLight": "Light",
-  "themeDark": "Dark",
+  "themeLight": "ライト",
+  "themeDark": "ダーク",
 
-  "defaultForceEnemiesByNodeLabel": "Enemies always by node",
-  "defaultForceEnemiesByNodeTip": "For edge-based queries, this causes the 'Enemies' tab to pull data for the entire node by default, rather than just the edge the query is performed upon. Disable this if you're researching nodes that may have different enemy comps based on approach path.'",
-  "forceEnemiesByNodeLabel": "By node",
-  "forceEnemiesByNodeTip": "For edge-based queries, this pulls enemy data for the entire node, rather than just the edge the query is performed upon. Disable this if you're researching nodes that may have different enemy comps based on approach path.'",
+  "defaultForceEnemiesByNodeLabel": "敵[[termComps]]を[[termNode]]によって纏める",
+  "defaultForceEnemiesByNodeTip": "ほどんどマップには同じ[[termNode]]に向かって複数のルートがあっても敵[[termComps]]が同じ数とパターンの設定になってるんですので、デフォルトに全[[termEdge]]の敵[[termComps]]を[[termNode]]によってまとめて検索結果に出します。もし経由の[[termEdge]]による敵[[termComps]]の違いを検証したい場合は、このチェックを外せば、検索結果が各[[termEdge]]によるものになります。 ",
+  "forceEnemiesByNodeLabel": "[[termNode]]による",
+  "forceEnemiesByNodeTip": "もし経由の[[termEdge]]による敵[[termComps]]の違いを検証したい場合は、このチェックを外せば、検索結果が向かう[[termNode]]によってまとめず、選択した[[termEdge]]のみによるものになります。 ",
 
   "filterMainFleetLabel": "[[termMain]]:",
   "filterMainFleetTip": "第一艦隊のフィルタリング設定ができます。艦の数と改造段階を正確に指定する必要があります。\n英語の艦種表記、艦娘名も使用できます。艦種の英語表記は右記を参照（マウスオーバーで日本語訳表示）。\n改の艦には「kai」、改二の艦娘には「kai ni」\n甲、乙、丙、丁、戊はそれぞれ「A」、「B」、「C」、「D」、「E」\n航は「kou」、特は「toku」\n一部の海外艦は以下の通り（下記にない海外艦はそのまま）\nВерный→Verniy Ташкент→Tashkent Гангут→Gangut Октябрьская революция→Oktyabrskaya Revolyutsiya Гангут два→Gangut Dva\nSamuel B.Roberts→Sammy b. Commandant Teste→Comdt. Teste U-511→U511 UIT-25→UIT25",
