@@ -38,7 +38,7 @@
   "ribbonMapTabName": "[[termMap]]",
   "ribbonCompsTabName": "Comps",
   "ribbonFleetTabName": "[[termFleet]]",
-  "ribbonViewTabName": "View",
+  "ribbonViewTabName": "Options",
   "ribbonHelpTabName": "Help",
 
   "ribbonMapSectionName": "[[termMap]]",
@@ -52,6 +52,8 @@
   "ribbonLayersSectionTip": "Enable/disable display of the available data visualization layers in the map view.",
   "ribbonDisplayOptsSectionName": "Display options",
   "ribbonDisplayOptsSectionTip": "Options pertaining to configuration of display elements.",
+  "ribbonQueryOptsSectionName": "Query Options",
+  "ribbonQueryOptsSectionTip": "Options which affect the default behaviors for how KCNav runs queries.",
 
   "ribbonCompsSectionName": "Compositions",
   "ribbonCompsSectionTip": " ",
@@ -139,6 +141,11 @@
 
   "themeLight": "Light",
   "themeDark": "Dark",
+
+  "defaultForceEnemiesByNodeLabel": "Enemies always by node",
+  "defaultForceEnemiesByNodeTip": "For edge-based queries, this causes the 'Enemies' tab to pull data for the entire node by default, rather than just the edge the query is performed upon. Disable this if you're researching nodes that may have different enemy comps based on approach path.'",
+  "forceEnemiesByNodeLabel": "By node",
+  "forceEnemiesByNodeTip": "For edge-based queries, this pulls enemy data for the entire node, rather than just the edge the query is performed upon. Disable this if you're researching nodes that may have different enemy comps based on approach path.'",
 
   "filterMainFleetLabel": "[[termMain]]:",
   "filterMainFleetTip": "Filter for fleet 1. Must provide enough criteria for the fleet size you're looking for. Specific ships must be specified at their precise remodel level.",

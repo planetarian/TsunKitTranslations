@@ -52,6 +52,8 @@
   "ribbonLayersSectionTip": " ",
   "ribbonDisplayOptsSectionName": "Display options",
   "ribbonDisplayOptsSectionTip": "Options pertaining to configuration of display elements.",
+  "ribbonQueryOptsSectionName": "Query Options",
+  "ribbonQueryOptsSectionTip": "Options which affect the default behaviors for how KCNav runs queries.",
 
   "ribbonCompsSectionName": "Compositions",
   "ribbonCompsSectionTip": " ",
@@ -139,6 +141,11 @@
 
   "themeLight": "Light",
   "themeDark": "Dark",
+
+  "defaultForceEnemiesByNodeLabel": "Enemies always by node",
+  "defaultForceEnemiesByNodeTip": "For edge-based queries, this causes the 'Enemies' tab to pull data for the entire node by default, rather than just the edge the query is performed upon. Disable this if you're researching nodes that may have different enemy comps based on approach path.'",
+  "forceEnemiesByNodeLabel": "By node",
+  "forceEnemiesByNodeTip": "For edge-based queries, this pulls enemy data for the entire node, rather than just the edge the query is performed upon. Disable this if you're researching nodes that may have different enemy comps based on approach path.'",
 
   "filterMainFleetLabel": "[[termMain]]:",
   "filterMainFleetTip": "Filtre pour la flotte 1. Doit apporter assez de critères pour la taille de flotte cherchée. Chaque navire doit être spécifié avec son état de remodelage.",

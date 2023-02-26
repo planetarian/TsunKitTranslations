@@ -52,6 +52,8 @@
   "ribbonLayersSectionTip": "맵상에서 확인할 수 있는 데이터를 시각화하거나 감춥니다.",
   "ribbonDisplayOptsSectionName": "표시 옵션",
   "ribbonDisplayOptsSectionTip": "맵에 표시하는 데이터를 선별하는 옵션입니다.",
+  "ribbonQueryOptsSectionName": "Query Options",
+  "ribbonQueryOptsSectionTip": "Options which affect the default behaviors for how KCNav runs queries.",
 
   "ribbonCompsSectionName": "편성 설정",
   "ribbonCompsSectionTip": " ",
@@ -139,6 +141,11 @@
 
   "themeLight": "Light",
   "themeDark": "Dark",
+
+  "defaultForceEnemiesByNodeLabel": "Enemies always by node",
+  "defaultForceEnemiesByNodeTip": "For edge-based queries, this causes the 'Enemies' tab to pull data for the entire node by default, rather than just the edge the query is performed upon. Disable this if you're researching nodes that may have different enemy comps based on approach path.'",
+  "forceEnemiesByNodeLabel": "By node",
+  "forceEnemiesByNodeTip": "For edge-based queries, this pulls enemy data for the entire node, rather than just the edge the query is performed upon. Disable this if you're researching nodes that may have different enemy comps based on approach path.'",
 
   "filterMainFleetLabel": "[[termMain]]:",
   "filterMainFleetTip": "1함대를 필터링합니다. 함대 규모와 함종, 개장 단계를 정확히 지정해야 합니다. 개별 칸무스를 설정할 수 있습니다.\n함종 표기는 우측 함종 설정의 영어 약자에 마우스를 올려서 확인할 수 있습니다.(XX는 와일드카드) \n개별 칸무스 설정 - 개 = kai, 개2 = kai ni, 갑/을/병/정/무 = a/b/c/d/e, 항 = kou, 특 = toku (예: 카가개2무 = kaga kai ni e)\n관계 연산자(일치/이상/이하/초과/미만), 범위 지정, 특정 함선 제외가 가능합니다.\n(예: 구축함이 정확히 2척, 정규항모가 1척 이상, 아키츠시마개가 포함되지 않은 함대는 =2DD >=1CV 0-6XX !kamo kai)",

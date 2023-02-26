@@ -48,6 +48,8 @@
   "ribbonLayersSectionTip": " ",
   "ribbonDisplayOptsSectionName": "Display options",
   "ribbonDisplayOptsSectionTip": "Options pertaining to configuration of display elements.",
+  "ribbonQueryOptsSectionName": "Query Options",
+  "ribbonQueryOptsSectionTip": "Options which affect the default behaviors for how KCNav runs queries.",
 
   "ribbonCompsSectionName": "艦隊組成",
   "ribbonCompsSectionTip": " ",
@@ -134,6 +136,11 @@
 
   "themeLight": "Light",
   "themeDark": "Dark",
+
+  "defaultForceEnemiesByNodeLabel": "Enemies always by node",
+  "defaultForceEnemiesByNodeTip": "For edge-based queries, this causes the 'Enemies' tab to pull data for the entire node by default, rather than just the edge the query is performed upon. Disable this if you're researching nodes that may have different enemy comps based on approach path.'",
+  "forceEnemiesByNodeLabel": "By node",
+  "forceEnemiesByNodeTip": "For edge-based queries, this pulls enemy data for the entire node, rather than just the edge the query is performed upon. Disable this if you're researching nodes that may have different enemy comps based on approach path.'",
 
   "filterMainFleetLabel": "一隊:",
   "filterMainFleetTip": "一隊的篩選條件。 必須包含所有船隻的艦名(英文)/艦種。 特殊改造船隻必須標記是哪一種型態",

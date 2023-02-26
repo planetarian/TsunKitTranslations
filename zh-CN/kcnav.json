@@ -50,6 +50,8 @@
   "ribbonLayersSectionTip": " ",
   "ribbonDisplayOptsSectionName": "显示设定",
   "ribbonDisplayOptsSectionTip": " ",
+  "ribbonQueryOptsSectionName": "Query Options",
+  "ribbonQueryOptsSectionTip": "Options which affect the default behaviors for how KCNav runs queries.",
 
   "ribbonCompsSectionName": "编成设定",
   "ribbonCompsSectionTip": " ",
@@ -137,6 +139,11 @@
 
   "themeLight": "Light",
   "themeDark": "Dark",
+
+  "defaultForceEnemiesByNodeLabel": "Enemies always by node",
+  "defaultForceEnemiesByNodeTip": "For edge-based queries, this causes the 'Enemies' tab to pull data for the entire node by default, rather than just the edge the query is performed upon. Disable this if you're researching nodes that may have different enemy comps based on approach path.'",
+  "forceEnemiesByNodeLabel": "By node",
+  "forceEnemiesByNodeTip": "For edge-based queries, this pulls enemy data for the entire node, rather than just the edge the query is performed upon. Disable this if you're researching nodes that may have different enemy comps based on approach path.'",
 
   "filterMainFleetLabel": "第一舰队:",
   "filterMainFleetTip": "筛选第一舰队。必须包含所有船的舰名(英文)/舰种，以及特殊改造的形态",
