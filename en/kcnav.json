@@ -293,6 +293,7 @@
   "nodeTypeTransport": "Transport",
   "nodeTypeAirRaid": "Air Raid",
   "nodeTypeAirBattle": "Air Battle",
+  "nodeTypeSubStrike": "Sub/Strike",
   "nodeTypeAmbush": "Ambush",
   "nodeTypeNightBattle": "Night Battle",
   "nodeTypeMaelstrom": "Maelstrom",

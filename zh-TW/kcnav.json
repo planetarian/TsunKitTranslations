@@ -287,6 +287,7 @@
   "nodeTypeTransport": "運輸",
   "nodeTypeAirRaid": "空襲(我方遇襲)",
   "nodeTypeAirBattle": "空襲",
+  "nodeTypeSubStrike": "Sub/Strike",
   "nodeTypeAmbush": "埋伏",
   "nodeTypeNightBattle": "夜戰",
   "nodeTypeMaelstrom": "漩渦",

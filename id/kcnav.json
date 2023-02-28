@@ -292,6 +292,7 @@
   "nodeTypeTransport": "Transport",
   "nodeTypeAirRaid": "Serangan Udara",
   "nodeTypeAirBattle": "Pertarungan Udara",
+  "nodeTypeSubStrike": "Sub/Strike",
   "nodeTypeAmbush": "Penyergapan",
   "nodeTypeNightBattle": "Pertarungan Malam",
   "nodeTypeMaelstrom": "Pusaran",

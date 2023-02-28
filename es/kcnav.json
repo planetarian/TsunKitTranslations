@@ -292,6 +292,7 @@
   "nodeTypeTransport": "Transporte",
   "nodeTypeAirRaid": "Ataque aereo",
   "nodeTypeAirBattle": "Batalla aerea",
+  "nodeTypeSubStrike": "Sub/Strike",
   "nodeTypeAmbush": "Emboscada",
   "nodeTypeNightBattle": "Batalla nocturna",
   "nodeTypeMaelstrom": "Remolino",

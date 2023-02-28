@@ -290,6 +290,7 @@
   "nodeTypeTransport": "Transport",
   "nodeTypeAirRaid": "Raid aérien",
   "nodeTypeAirBattle": "Combat aérien",
+  "nodeTypeSubStrike": "Sub/Strike",
   "nodeTypeAmbush": "Embûche",
   "nodeTypeNightBattle": "Combat de nuit",
   "nodeTypeMaelstrom": "Tourbillon",

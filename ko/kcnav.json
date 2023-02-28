@@ -292,6 +292,7 @@
   "nodeTypeTransport": "상륙지점",
   "nodeTypeAirRaid": "공습전",
   "nodeTypeAirBattle": "항공전",
+  "nodeTypeSubStrike": "Sub/Strike",
   "nodeTypeAmbush": "레이더 사격",
   "nodeTypeNightBattle": "야전",
   "nodeTypeMaelstrom": "소용돌이",

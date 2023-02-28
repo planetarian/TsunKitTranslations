@@ -290,6 +290,7 @@
   "nodeTypeTransport": "运输",
   "nodeTypeAirRaid": "空袭",
   "nodeTypeAirBattle": "航空战",
+  "nodeTypeSubStrike": "Sub/Strike",
   "nodeTypeAmbush": "雷达伏击",
   "nodeTypeNightBattle": "夜战",
   "nodeTypeMaelstrom": "旋涡",

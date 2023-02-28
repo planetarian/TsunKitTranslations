@@ -139,7 +139,7 @@
   "themeTip": "Changes KCNav's visual theme.",
 
   "themeLight": "Light",
-  "themeDark":  "Dark",
+  "themeDark": "Dark",
 
   "defaultForceEnemiesByNodeLabel": "Enemies always by node",
   "defaultForceEnemiesByNodeTip": "For edge-based queries, this causes the 'Enemies' tab to pull data for the entire node by default, rather than just the edge the query is performed upon. Disable this if you're researching nodes that may have different enemy comps based on approach path.'",
@@ -291,6 +291,7 @@
   "nodeTypeTransport": "Transport",
   "nodeTypeAirRaid": "Luftangriff",
   "nodeTypeAirBattle": "Luftkampf",
+  "nodeTypeSubStrike": "Sub/Strike",
   "nodeTypeAmbush": "Hinterhalt",
   "nodeTypeNightBattle": "Nachtkampf",
   "nodeTypeMaelstrom": "Sturm",
