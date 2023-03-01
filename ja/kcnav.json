@@ -285,6 +285,7 @@
   "worldName53": "2022[[termWinter]]",
   "worldName54": "2022[[termSpring]]",
   "worldName55": "2022[[termSummer]]",
+  "worldName56": "2023[[termSpring]]",
 
   "nodeType": "{{type}}[[termNode]]",
   "nodeTypeStart": "出撃地点",
@@ -298,7 +299,7 @@
   "nodeTypeTransport": "揚陸地点",
   "nodeTypeAirRaid": "空襲戦",
   "nodeTypeAirBattle": "航空戦",
-  "nodeTypeSubStrike": "Sub/Strike",
+  "nodeTypeSubStrike": "対潜空襲",
   "nodeTypeAmbush": "レーダー射撃",
   "nodeTypeNightBattle": "夜戦",
   "nodeTypeMaelstrom": "うずしお",
