@@ -277,6 +277,7 @@
   "worldName53": "2022 冬活",
   "worldName54": "2022 春活",
   "worldName55": "2022 夏活",
+  "worldName56": "2023 早春活",
 
   "nodeType": "{{type}}[[termNode]]",
   "nodeTypeStart": "出发",
@@ -290,7 +291,7 @@
   "nodeTypeTransport": "运输",
   "nodeTypeAirRaid": "空袭",
   "nodeTypeAirBattle": "航空战",
-  "nodeTypeSubStrike": "Sub/Strike",
+  "nodeTypeSubStrike": "对潜空袭",
   "nodeTypeAmbush": "雷达伏击",
   "nodeTypeNightBattle": "夜战",
   "nodeTypeMaelstrom": "旋涡",
