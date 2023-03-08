@@ -371,7 +371,8 @@
   "panelFleetsEntryFleetEscortText": "[[termEscort]]:",
   "panelFleetsEntryLevelClassText": "Lv.{{level}} {{class}}",
   "panelFleetsEntryUnknownEquipText": "[[termUnknown]]",
-
+  "panelFleetsOpenBattleRecordsText":  "Find battle records",
+  
   "panelTopShipsMainFleetLabel": "Main Fleet",
   "panelTopShipsEscortFleetLabel": "Escort Fleet",
   "panelTopShipsShipHeader": "[[termShip]]",
