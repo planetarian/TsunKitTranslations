@@ -34,6 +34,8 @@
   "termDismiss": "Dismiss",
 
   "getStartedMessage": "To get started, select a map above and click \"Apply Filters\"!",
+  
+  "experimentalFeatureWarning": "This feature experimental. It may display incorrect or incomplete data, and in some cases may not work at all.",
 
   "ribbonMapTabName": "[[termMap]]",
   "ribbonCompsTabName": "Comps",
@@ -319,6 +321,8 @@
   "panelStatsTabName": "Statistics",
   "panelCompositionsTabName": "Comps",
   "panelFleetsTabName": "Fleets",
+  "panelBattlesTabName": "Battles",
+  "panelSortieTabName": "Sortie",
   "panelTopShipsTabName": "Top Ships",
   "panelLOSTabName": "LoS",
   "panelBonusesTabName": "Bonuses",
@@ -326,7 +330,6 @@
   "panelDropsTabName": "[[termDrops]]",
   "panelDupesTabName": "[[termDupes]]",
   "panelFriendFleetsTabName": "Friend Fleets",
-  "panelBattlesTabName": "Battles",
 
   "panelStatsMainShipsLabel": "Main ships:",
   "panelStatsEscortShipsLabel": "Escort ships:",
@@ -371,8 +374,18 @@
   "panelFleetsEntryFleetEscortText": "[[termEscort]]:",
   "panelFleetsEntryLevelClassText": "Lv.{{level}} {{class}}",
   "panelFleetsEntryUnknownEquipText": "[[termUnknown]]",
-  "panelFleetsOpenBattleRecordsText":  "Find battle records",
+  "panelFleetsOpenSortieText":  "Find sortie records",
+
+  "panelBattlesWarning": "This feature is experimental. It may display invalid battle results in some cases. Please report any invalid data encountered via Twitter or Discord.",
+  "panelBattlesWarningDismiss": "[[termDismiss]]",
+  "panelBattlesMainFleetLabel": "[[termMain]]",
+  "panelBattlesEscortFleetLabel": "[[termEscort]]",
   
+  "panelSortieWarning": "This feature is experimental. It may display incomplete or incorrect sorties, invalid battle results, or may not work at all in some cases.",
+  "panelSortieWarningDismiss": "[[termDismiss]]",
+  "panelSortieMainFleetLabel": "[[termMain]]",
+  "panelSortieEscortFleetLabel": "[[termEscort]]",
+
   "panelTopShipsMainFleetLabel": "Main Fleet",
   "panelTopShipsEscortFleetLabel": "Escort Fleet",
   "panelTopShipsShipHeader": "[[termShip]]",
@@ -436,8 +449,6 @@
 
   "panelFFNoResultsText": "No friend fleets recorded for this node.",
   "panelFFDetailsLabel": "[[termDetails]]",
-
-  "panelBattlesWarningDismiss": "[[termDismiss]]",
 
   "mapMenuEdgeLabel": "[[termEdge]]: [[pathName]]",
   "mapMenuNodeLabel": "[[termNode]]: {{node}}",
