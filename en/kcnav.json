@@ -22,6 +22,7 @@
   "termDetails": "Details",
   "termEdge": "Edge",
   "termNode": "Node",
+  "termAirAI": "AI",
   "termAirAD": "AD",
   "termAirAP": "AP",
   "termAirAS": "AS",
@@ -211,6 +212,12 @@
   "classXBBTip": "Superdreadnought Battleship",
   "classAP": "AP",
   "classAPTip": "Transport Ship",
+
+  "airStateAI": "[[termAirAI]]",
+  "airStateAD": "[[termAirAD]]",
+  "airStateAP": "[[termAirAP]]",
+  "airStateAS": "[[termAirAS]]",
+  "airStateASPlus": "[[termAirASPlus]]",
 
   "filterHQLevelLabel": "HQ Level:",
   "filterHQLevelTip": "Show runs from admirals within the specified HQ Level range.",
