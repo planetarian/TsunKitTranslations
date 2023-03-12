@@ -33,9 +33,11 @@
   "termFall": "Fall",
   "termWinter": "Winter",
   "termDismiss": "Dismiss",
+  "termYes": "Yes",
+  "termNo":  "No",
 
   "getStartedMessage": "To get started, select a map above and click \"Apply Filters\"!",
-  
+
   "experimentalFeatureWarning": "This feature experimental. It may display incorrect or incomplete data, and in some cases may not work at all.",
 
   "ribbonMapTabName": "[[termMap]]",
@@ -116,9 +118,9 @@
   "filterFCFUsageSectionLabel": "Fled:",
   "filterFCFUsageSectionTip": "Allows you to filter based on whether or not a Fleet Command Facility was used. FCF activation causes ships to be retreated from the sortie, and may affect routing in unexpected ways.",
   "fcfUsageAny": "[[termAny]]",
-  "fcfUsageYes": "Yes",
+  "fcfUsageYes": "[[termYes]]",
   "filterFCFUsageTip": "Show runs where ships left the fleet due to FCF activation.",
-  "fcfUsageNo": "No",
+  "fcfUsageNo": "[[termNo]]",
   "filterNoFCFUsageTip": "Show runs where FCF was not activated (yet).",
 
   "displayMapBackgroundLabel": "Map background",
@@ -381,17 +383,26 @@
   "panelFleetsEntryFleetEscortText": "[[termEscort]]:",
   "panelFleetsEntryLevelClassText": "Lv.{{level}} {{class}}",
   "panelFleetsEntryUnknownEquipText": "[[termUnknown]]",
-  "panelFleetsOpenSortieText":  "Find sortie records",
+  "panelFleetsOpenSortieText": "Sortie",
+  "panelFleetsOpenReplayText": "Replay",
+  "panelFleetsBattleUnavailableText": "Battle data unavailable",
 
   "panelBattlesWarning": "This feature is experimental. It may display invalid battle results in some cases. Please report any invalid data encountered via Twitter or Discord.",
   "panelBattlesWarningDismiss": "[[termDismiss]]",
   "panelBattlesMainFleetLabel": "[[termMain]]",
   "panelBattlesEscortFleetLabel": "[[termEscort]]",
-  
+  "panelBattlesDebuffedLabel": "Debuffed",
+  "debuffedAny": "[[termAny]]",
+  "debuffedYes": "[[termYes]]",
+  "debuffedNo": "[[termNo]]",
+
   "panelSortieWarning": "This feature is experimental. It may display incomplete or incorrect sorties, invalid battle results, or may not work at all in some cases.",
   "panelSortieWarningDismiss": "[[termDismiss]]",
-  "panelSortieMainFleetLabel": "[[termMain]]",
-  "panelSortieEscortFleetLabel": "[[termEscort]]",
+
+  "battleMainFleetLabel": "[[termMain]]",
+  "battleEscortFleetLabel": "[[termEscort]]",
+  "battleDayTip": "Day battle",
+  "battleNightTip":  "Night battle",
 
   "panelTopShipsMainFleetLabel": "Main Fleet",
   "panelTopShipsEscortFleetLabel": "Escort Fleet",
