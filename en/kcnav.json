@@ -34,7 +34,8 @@
   "termWinter": "Winter",
   "termDismiss": "Dismiss",
   "termYes": "Yes",
-  "termNo":  "No",
+  "termNo": "No",
+  "termDebuffed": "Debuffed",
 
   "getStartedMessage": "To get started, select a map above and click \"Apply Filters\"!",
 
@@ -215,11 +216,39 @@
   "classAP": "AP",
   "classAPTip": "Transport Ship",
 
+  "sidePlayer": "Player",
+  "sideEnemy": "Enemy",
+
   "airStateAI": "[[termAirAI]]",
   "airStateAD": "[[termAirAD]]",
   "airStateAP": "[[termAirAP]]",
   "airStateAS": "[[termAirAS]]",
   "airStateASPlus": "[[termAirASPlus]]",
+
+  "formationLineAhead": "Line Ahead",
+  "formationDoubleLine": "Double Line",
+  "formationDiamond": "Diamond",
+  "formationEchelon": "Echelon",
+  "formationLineAbreast": "Line Abreast",
+  "formationVanguard": "Vanguard",
+  "formationCf1": "Cruising Formation 1 (ASW Alert)",
+  "formationCf2": "Cruising Formation 2 (Forward Alert)",
+  "formationCf3": "Cruising Formation 3 (Ring Formation)",
+  "formationCf4": "Cruising Formation 4 (Battle Formation)",
+
+  "engagementParallel": "Parallel",
+  "engagementHeadOn": "Head-on",
+  "engagementGreenT": "Green T",
+  "engagementRedT": "Red T",
+
+  "contactFormatted": "Contact: {{state}}",
+  "contactSuccess": "Success",
+  "contactSuccessWithLosses": "Success*",
+  "contactAllLost": "All lost",
+  "contactFailed": "Failed",
+  "contactFound": "Found",
+  "contactNotFound": "Not found",
+  "contactNoData": "No data",
 
   "filterHQLevelLabel": "HQ Level:",
   "filterHQLevelTip": "Show runs from admirals within the specified HQ Level range.",
@@ -231,6 +260,12 @@
   "fleetTypeCTF": "CTF",
   "fleetTypeSTF": "STF",
   "fleetTypeTCF": "TCF",
+
+  "supportNone": "[[termNone]]",
+  "supportAir": "Air",
+  "supportShelling": "Shelling",
+  "supportTorpedo": "Torpedo",
+  "supportASW": "ASW",
 
   "filterMinSpeedLabel": "Min Speed:",
   "filterMaxSpeedLabel": "Max Speed:",
@@ -391,10 +426,13 @@
   "panelBattlesWarningDismiss": "[[termDismiss]]",
   "panelBattlesMainFleetLabel": "[[termMain]]",
   "panelBattlesEscortFleetLabel": "[[termEscort]]",
-  "panelBattlesDebuffedLabel": "Debuffed",
+  "panelBattlesDebuffedLabel": "[[termDebuffed]]",
   "debuffedAny": "[[termAny]]",
   "debuffedYes": "[[termYes]]",
   "debuffedNo": "[[termNo]]",
+  "panelBattlesDebuffed": "[[termDebuffed]]",
+  "panelBattlesSupport": "Support: {{type}}",
+  "panelBattlesTouchRound": "Touch: Rd.{{round}}",
 
   "panelSortieWarning": "This feature is experimental. It may display incomplete or incorrect sorties, invalid battle results, or may not work at all in some cases.",
   "panelSortieWarningDismiss": "[[termDismiss]]",
@@ -402,7 +440,7 @@
   "battleMainFleetLabel": "[[termMain]]",
   "battleEscortFleetLabel": "[[termEscort]]",
   "battleDayTip": "Day battle",
-  "battleNightTip":  "Night battle",
+  "battleNightTip": "Night battle",
 
   "panelTopShipsMainFleetLabel": "Main Fleet",
   "panelTopShipsEscortFleetLabel": "Escort Fleet",
