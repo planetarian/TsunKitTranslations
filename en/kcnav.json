@@ -425,7 +425,7 @@
   "panelFleetsOpenReplayText": "[[termReplay]]",
   "panelFleetsBattleUnavailableText": "Battle data unavailable",
 
-  "panelBattlesWarning": "This feature is experimental. It may display invalid battle results in some cases. Please report any invalid data encountered via Twitter or Discord.",
+  "panelBattlesWarning": "This feature is experimental, and only functional for event maps and a small selection of late-game regular maps. It may display invalid battle results in some cases. Please report any invalid data encountered via Twitter or Discord.",
   "panelBattlesWarningDismiss": "[[termDismiss]]",
   "panelBattlesToggleCollapseAll": "Toggle All Collapsed",
   "panelBattlesMainFleetLabel": "[[termMain]]",
