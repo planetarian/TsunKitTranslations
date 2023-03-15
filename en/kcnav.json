@@ -427,7 +427,8 @@
 
   "panelBattlesWarning": "This feature is experimental, and only functional for event maps and a small selection of late-game regular maps. It may display invalid battle results in some cases. Please report any invalid data encountered via Twitter or Discord.",
   "panelBattlesWarningDismiss": "[[termDismiss]]",
-  "panelBattlesToggleCollapseAll": "Toggle All Collapsed",
+  "panelBattlesToggleCollapseAll": "Collapse/expand all",
+  "panelBattlesToggleCollapseAllLbas": "Collapse/expand all LBAS",
   "panelBattlesMainFleetLabel": "[[termMain]]",
   "panelBattlesEscortFleetLabel": "[[termEscort]]",
   "panelBattlesYasen": "Night battle",
