@@ -264,7 +264,7 @@
   "fleetTypeSTF": "STF",
   "fleetTypeTCF": "TCF",
 
-  "supportNone": "[[termNone]]",
+  "supportNone": "None",
   "supportAir": "Air",
   "supportShelling": "Shelling",
   "supportTorpedo": "Torpedo",
@@ -451,7 +451,13 @@
   "panelBattlesOpenReplayText": "[[termReplay]]",
   "panelBattlesDebuffed": "[[termDebuffed]]",
   "panelBattlesSupport": "Support: {{type}}",
+  "panelBattlesSupportDamage": "{{type}} support did {{damage}} damage",
   "panelBattlesTouchRound": "Touch: Rd.{{round}}",
+
+  "supportAttackHeading": "{{type}} support from Fleet {{fleetNum}} triggered. Inflicted {{totalDamage}} damage",
+  "lbasAttackHeading": "LBAS {{base}}: {{planeCount}} aircraft arrived under {{airState}}",
+  "lbasAttackAction": "Shot down {{enemyShotDown}} / {{enemyPlaneCount}} enemy aircraft and inflicted {{totalDamage}} surface damage",
+  "lbasAttackPlanesLost": "{{shotDown}} friendly aircraft lost",
 
   "panelSortieWarning": "This feature is experimental. It may display incomplete or incorrect sorties, invalid battle results, or may not work at all in some cases.",
   "panelSortieWarningDismiss": "[[termDismiss]]",
