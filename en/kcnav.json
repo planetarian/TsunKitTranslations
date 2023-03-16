@@ -416,7 +416,7 @@
   "panelFleetsRetreatsWarning": "WARNING: Only the final fleet state is displayed while 'Include retreats' is disabled.",
   "panelFleetsEntryEventDataText": "{{difficulty}} [[termPhase]] {{phase}}, {{curHP}}/{{maxHP}}",
   "panelFleetsEntryLOSDataText": "LoS: {{los}} ({{radars}} radars ({{type}}) on {{ships}} ships)",
-  "panelFleetsEntryFleetInfoText": "{{speed}} {{type}}, ",
+  "panelFleetsEntryFleetInfoText": "{{speed}} {{type}}",
   "panelFleetsEntryFleetMainText": "[[termMain]]:",
   "panelFleetsEntryFleetEscortText": "[[termEscort]]:",
   "panelFleetsEntryLevelClassText": "Lv.{{level}} {{class}}",
