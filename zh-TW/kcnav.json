@@ -259,6 +259,8 @@
   "fleetTypeSTF": "水上打擊",
   "fleetTypeTCF": "運輸聯合",
 
+  "shipFled": "FLED",
+
   "supportNone": "None",
   "supportAir": "Air",
   "supportShelling": "Shelling",

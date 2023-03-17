@@ -264,6 +264,8 @@
   "fleetTypeSTF": "STF (surface)",
   "fleetTypeTCF": "TCF (transport)",
 
+  "shipFled": "FLED",
+
   "supportNone": "None",
   "supportAir": "Air",
   "supportShelling": "Shelling",
