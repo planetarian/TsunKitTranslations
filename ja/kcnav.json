@@ -272,6 +272,8 @@
   "fleetTypeSTF": "水上打撃",
   "fleetTypeTCF": "輸送護衛",
 
+  "shipFled": "FLED",
+
   "supportNone": "支援なし",
   "supportAir": "航空支援",
   "supportShelling": "砲撃支援",

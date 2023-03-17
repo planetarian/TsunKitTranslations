@@ -264,6 +264,8 @@
   "fleetTypeSTF": "FTS",
   "fleetTypeTCF": "FCT",
 
+  "shipFled": "FLED",
+
   "supportNone": "None",
   "supportAir": "Air",
   "supportShelling": "Shelling",

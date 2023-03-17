@@ -264,6 +264,8 @@
   "fleetTypeSTF": "수상타격",
   "fleetTypeTCF": "수송호위",
 
+  "shipFled": "FLED",
+
   "supportNone": "None",
   "supportAir": "Air",
   "supportShelling": "Shelling",

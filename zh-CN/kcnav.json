@@ -262,6 +262,8 @@
   "fleetTypeSTF": "水上打击部队",
   "fleetTypeTCF": "输送护卫部队",
 
+  "shipFled": "FLED",
+
   "supportNone": "无",
   "supportAir": "航空",
   "supportShelling": "炮击",
