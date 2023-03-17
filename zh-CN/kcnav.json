@@ -116,14 +116,14 @@
   "filterEndLabel": "终止日期:",
 
   "filterRetreatsLabel": "包含撤退",
-  "filterRetreatsTip": "包含中途撤退的情况",
-  "filterFCFUsageSectionLabel": "司令部退避:",
-  "filterFCFUsageSectionTip": "允许你根据是否使用司令部退避进行筛选",
+  "filterRetreatsTip": "包含中途撤离的情况",
+  "filterFCFUsageSectionLabel": "司令部撤离:",
+  "filterFCFUsageSectionTip": "允许你根据是否使用司令部撤离进行筛选",
   "fcfUsageAny": "[[termAny]]",
   "fcfUsageYes": "是",
-  "filterFCFUsageTip": "包含使用司令部退避的情况",
+  "filterFCFUsageTip": "包含使用司令部撤离的情况",
   "fcfUsageNo": "否",
-  "filterNoFCFUsageTip": "包含未使用司令部退避的情况",
+  "filterNoFCFUsageTip": "包含未使用司令部撤离的情况",
 
   "displayMapBackgroundLabel": "背景",
   "displayMapBackgroundTip": "显示游戏中的海域背景",
@@ -262,7 +262,7 @@
   "fleetTypeSTF": "水上打击部队",
   "fleetTypeTCF": "输送护卫部队",
 
-  "shipFled": "FLED",
+  "shipFled": "撤离",
 
   "supportNone": "无",
   "supportAir": "航空",
