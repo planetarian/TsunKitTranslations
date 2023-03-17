@@ -408,6 +408,7 @@
   "panelFleetsRetreatsWarning": "WARNING: Only the final fleet state is displayed while 'Include retreats' is disabled.",
   "panelFleetsEntryEventDataText": "{{difficulty}} [[termPhase]] {{phase}}, {{curHP}}/{{maxHP}}",
   "panelFleetsEntryLOSDataText": "LoS: {{los}} ({{radars}} {{type}} radar(s) on {{ships}} ships)",
+  "panelFleetsEntryHqLevel": "HQ{{level}}",
   "panelFleetsEntryFleetInfoText": "{{speed}} {{type}}, ",
   "panelFleetsEntryFleetMainText": "[[termMain]]:",
   "panelFleetsEntryFleetEscortText": "[[termEscort]]:",
@@ -443,7 +444,6 @@
   "panelBattlesOpenReplayText": "[[termReplay]]",
   "panelBattlesDebuffed": "[[termDebuffed]]",
   "panelBattlesSupport": "Support: {{type}}",
-  "panelBattlesSupportDamage": "{{type}} support did {{damage}} damage",
   "panelBattlesTouchRound": "Touch: Rd.{{round}}",
 
   "supportAttackHeading": "{{type}} support inflicted {{totalDamage}} damage",

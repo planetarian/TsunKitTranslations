@@ -412,6 +412,7 @@
   "panelFleetsRetreatsWarning": "注意：当“[[filterRetreatsLabel]]”禁用时仅显示了舰队的最终状态",
   "panelFleetsEntryEventDataText": "难度: {{difficulty}} [[termPhase]] {{phase}}, {{curHP}}/{{maxHP}}",
   "panelFleetsEntryLOSDataText": "索敌: {{los}} (共{{radars}}个{{type}}电探装备于{{ships}}位舰娘)",
+  "panelFleetsEntryHqLevel": "HQ{{level}}",
   "panelFleetsEntryFleetInfoText": "速力: {{speed}}，类型: {{type}}, ",
   "panelFleetsEntryFleetMainText": "[[termMain]]:",
   "panelFleetsEntryFleetEscortText": "[[termEscort]]:",
@@ -447,7 +448,6 @@
   "panelBattlesOpenReplayText": "[[termReplay]]",
   "panelBattlesDebuffed": "[[termDebuffed]]",
   "panelBattlesSupport": "远征支援: {{type}}",
-  "panelBattlesSupportDamage": "{{type}}支援造成了{{damage}}伤害",
   "panelBattlesTouchRound": "特殊攻击: 第{{round}}轮",
 
   "supportAttackHeading": "{{type}}支援共造成了{{totalDamage}}伤害",

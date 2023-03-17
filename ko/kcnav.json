@@ -414,6 +414,7 @@
   "panelFleetsRetreatsWarning": "경고: '회항 포함' 옵션이 꺼져 있는 경우 최종 함대 상태만 표시됩니다.",
   "panelFleetsEntryEventDataText": "{{difficulty}}, [[termPhase]]: {{phase}}, [[termMapHP]]: {{curHP}}/{{maxHP}}",
   "panelFleetsEntryLOSDataText": "색적치: {{los}} (함대의 {{type}}이 {{radars}}개, {{ships}}척의 함에 장비됨)",
+  "panelFleetsEntryHqLevel": "HQ{{level}}",
   "panelFleetsEntryFleetInfoText": "{{speed}} {{type}}, ",
   "panelFleetsEntryFleetMainText": "[[termMain]]:",
   "panelFleetsEntryFleetEscortText": "[[termEscort]]:",
@@ -449,7 +450,6 @@
   "panelBattlesOpenReplayText": "[[termReplay]]",
   "panelBattlesDebuffed": "[[termDebuffed]]",
   "panelBattlesSupport": "Support: {{type}}",
-  "panelBattlesSupportDamage": "{{type}} support did {{damage}} damage",
   "panelBattlesTouchRound": "Touch: Rd.{{round}}",
 
   "supportAttackHeading": "{{type}} support inflicted {{totalDamage}} damage",

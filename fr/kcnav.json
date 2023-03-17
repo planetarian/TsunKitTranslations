@@ -411,6 +411,7 @@
   "panelFleetsRetreatsWarning": "AVERTISSEMENT: Uniquement l'état final de la flotte est affiché lorsque 'Inclure les retraites.' est activé.",
   "panelFleetsEntryEventDataText": "{{difficulty}} [[termPhase]] {{phase}}, {{curHP}}/{{maxHP}}",
   "panelFleetsEntryLOSDataText": "LoS: {{los}} ({{radars}} radar(s) {{type}} sur {{ships}} navires)",
+  "panelFleetsEntryHqLevel": "HQ{{level}}",
   "panelFleetsEntryFleetInfoText": "{{type}} {{speed}} , ",
   "panelFleetsEntryFleetMainText": "[[termMain]]:",
   "panelFleetsEntryFleetEscortText": "[[termEscort]]:",
@@ -446,7 +447,6 @@
   "panelBattlesOpenReplayText": "[[termReplay]]",
   "panelBattlesDebuffed": "[[termDebuffed]]",
   "panelBattlesSupport": "Support: {{type}}",
-  "panelBattlesSupportDamage": "{{type}} support did {{damage}} damage",
   "panelBattlesTouchRound": "Touch: Rd.{{round}}",
 
   "supportAttackHeading": "{{type}} support inflicted {{totalDamage}} damage",

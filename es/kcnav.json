@@ -413,6 +413,7 @@
   "panelFleetsRetreatsWarning": "ATENCIÓN: Solo la flota final se muestra mientras 'Incluir retiradas' esté desactivado.",
   "panelFleetsEntryEventDataText": "{{difficulty}} [[termPhase]] {{phase}}, {{curHP}}/{{maxHP}}",
   "panelFleetsEntryLOSDataText": "LdV: {{los}} ({{radars}} {{type}} radar(es) en barcos {{ships}})",
+  "panelFleetsEntryHqLevel": "HQ{{level}}",
   "panelFleetsEntryFleetInfoText": "{{speed}} {{type}}, ",
   "panelFleetsEntryFleetMainText": "[[termMain]]:",
   "panelFleetsEntryFleetEscortText": "[[termEscort]]:",
@@ -448,7 +449,6 @@
   "panelBattlesOpenReplayText": "[[termReplay]]",
   "panelBattlesDebuffed": "[[termDebuffed]]",
   "panelBattlesSupport": "Support: {{type}}",
-  "panelBattlesSupportDamage": "{{type}} support did {{damage}} damage",
   "panelBattlesTouchRound": "Touch: Rd.{{round}}",
 
   "supportAttackHeading": "{{type}} support inflicted {{totalDamage}} damage",
