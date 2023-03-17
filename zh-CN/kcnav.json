@@ -412,7 +412,7 @@
   "panelFleetsRetreatsWarning": "注意：当“[[filterRetreatsLabel]]”禁用时仅显示了舰队的最终状态",
   "panelFleetsEntryEventDataText": "难度: {{difficulty}} [[termPhase]] {{phase}}, {{curHP}}/{{maxHP}}",
   "panelFleetsEntryLOSDataText": "索敌: {{los}} (共{{radars}}个{{type}}电探装备于{{ships}}位舰娘)",
-  "panelFleetsEntryHqLevel": "HQ{{level}}",
+  "panelFleetsEntryHqLevel": "提督Lv{{level}}",
   "panelFleetsEntryFleetInfoText": "速力: {{speed}}，类型: {{type}}, ",
   "panelFleetsEntryFleetMainText": "[[termMain]]:",
   "panelFleetsEntryFleetEscortText": "[[termEscort]]:",
