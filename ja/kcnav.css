@@ -3,11 +3,15 @@
   margin: 1px;
 }
 /* 矢印の対応あるフォントを指定しないと */
-.node-details-entries-controls > * {
+.node-details-entries-controls > *,
+.node-details-battles-controls > div:nth-child(1) > * {
   font-family: "Cambria Math", Symbola, Quivira;
 }
 .node-details-entries-controls > label > input {
   vertical-align: middle;
   position: relative;
   bottom: 1px;
+}
+.node-details-battles-controls > div:nth-child(2) > label {
+  vertical-align: middle;
 }
