@@ -1,8 +1,8 @@
-/* 小さめなfooter */
-#footer span {
-  margin: 1px;
+/* WinだけじゃなくほかのOSにも対応できるように */
+html, body {
+  font-family: "Segoe UI","Hiragino Kaku Gothic Pro","ヒラギノ角ゴ Pro W3","Meiryo UI","メイリオ","Noto Sans CJK JP","Helvetica Neue",Helvetica,Arial,"Hiragino Sans","MS Gothic",sans-serif;
 }
-/* 矢印の対応あるフォントを指定しないと */
+/* Segoe UIかArialでもいいけど、より矢印対応のいいフォントを指定 */
 .node-details-entries-controls > *,
 .node-details-battles-controls > div:nth-child(1) > * {
   font-family: "Cambria Math", Symbola, Quivira;
