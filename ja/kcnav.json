@@ -357,7 +357,7 @@
   "nodeTypeAmbush": "レーダー射撃",
   "nodeTypeNightBattle": "夜戦",
   "nodeTypeMaelstrom": "うずしお",
-  "nodeTypeFinishLine": "ゴール地点",
+  "nodeTypeFinishLine": "入港資源",
   "nodeTypeLBAS": "基地航空隊",
   "nodeTypeUnknown": "[[termUnknown]]",
 

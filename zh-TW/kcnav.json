@@ -340,11 +340,11 @@
   "nodeTypeTransport": "運輸",
   "nodeTypeAirRaid": "空襲(我方遇襲)",
   "nodeTypeAirBattle": "空襲",
-  "nodeTypeSubStrike": "Sub/Strike",
+  "nodeTypeSubStrike": "反潛(遇空襲)",
   "nodeTypeAmbush": "埋伏",
   "nodeTypeNightBattle": "夜戰",
   "nodeTypeMaelstrom": "漩渦",
-  "nodeTypeFinishLine": "運輸目標",
+  "nodeTypeFinishLine": "進港目標",
   "nodeTypeLBAS": "陸航",
   "nodeTypeUnknown": "[[termUnknown]]",
 
