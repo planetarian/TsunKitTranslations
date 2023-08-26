@@ -263,6 +263,10 @@
   "fleetTypeSTF": "STF",
   "fleetTypeTCF": "TCF",
 
+  "filterFleetNumLabel": "Fleet Number:",
+  "filterFleetNumTip": "Show runs where the user sortied with a specific fleet (of the four available).",
+  "fleetNumAny": "[[termAny]]",
+
   "shipFled": "GEFLOHEN",
 
   "supportNone": "Kein",
@@ -271,6 +275,7 @@
   "supportTorpedo": "Torpedo",
   "supportASW": "ASW",
 
+  "filterSpeedLabel": "Geschwindigkeit:",
   "filterMinSpeedLabel": "Min Geschwindigkeit:",
   "filterMaxSpeedLabel": "Max SGeschwindigkeit:",
   "filterSpeedTip": "Zeigt Missionen mit Flotten in der spezifizierten Geschwindigkeitsspanne.",
@@ -423,6 +428,7 @@
   "panelFleetsEntryFleetEscortText": "[[termEscort]]:",
   "panelFleetsEntryLevelClassText": "Lv.{{level}} {{class}}",
   "panelFleetsEntryUnknownEquipText": "[[termUnknown]]",
+  "panelFleetsEntryFleetNum": "[[termFleet]] {{fleetNum}}",
   "panelFleetsOpenSortieText": "[[termSortie]]",
   "panelFleetsOpenReplayText": "[[termReplay]]",
   "panelFleetsBattleUnavailableText": "Battle data unavailable",

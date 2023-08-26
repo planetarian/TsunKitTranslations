@@ -272,6 +272,10 @@
   "fleetTypeSTF": "水上打撃",
   "fleetTypeTCF": "輸送護衛",
 
+  "filterFleetNumLabel": "Fleet Number:",
+  "filterFleetNumTip": "Show runs where the user sortied with a specific fleet (of the four available).",
+  "fleetNumAny": "[[termAny]]",
+
   "shipFled": "退避",
 
   "supportNone": "支援なし",
@@ -280,6 +284,7 @@
   "supportTorpedo": "雷撃支援",
   "supportASW": "対潜支援",
 
+  "filterSpeedLabel": "速力:",
   "filterMinSpeedLabel": "下限速力:",
   "filterMaxSpeedLabel": "上限速力:",
   "filterSpeedTip": "指定した艦隊の速力の範囲でデータをフィルタリングできます。",
@@ -430,6 +435,7 @@
   "panelFleetsEntryFleetEscortText": "[[termEscort]]:",
   "panelFleetsEntryLevelClassText": "Lv.{{level}} {{class}}",
   "panelFleetsEntryUnknownEquipText": "[[termUnknown]]",
+  "panelFleetsEntryFleetNum": "[[termFleet]] {{fleetNum}}",
   "panelFleetsOpenSortieText": "[[termSortie]]",
   "panelFleetsOpenReplayText": "[[termReplay]]",
   "panelFleetsBattleUnavailableText": "[[termBattles]]なし",

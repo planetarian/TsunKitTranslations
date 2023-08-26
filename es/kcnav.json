@@ -264,6 +264,10 @@
   "fleetTypeSTF": "FTS",
   "fleetTypeTCF": "FCT",
 
+  "filterFleetNumLabel": "Fleet Number:",
+  "filterFleetNumTip": "Show runs where the user sortied with a specific fleet (of the four available).",
+  "fleetNumAny": "[[termAny]]",
+
   "shipFled": "FLED",
 
   "supportNone": "None",
@@ -272,6 +276,7 @@
   "supportTorpedo": "Torpedo",
   "supportASW": "ASW",
 
+  "filterSpeedLabel": "Velocidad:",
   "filterMinSpeedLabel": "Velocidad min:",
   "filterMaxSpeedLabel": "Velocidad max:",
   "filterSpeedTip": "Mostrar salidas utilizando flotas del rango específico.",
@@ -423,6 +428,7 @@
   "panelFleetsEntryFleetEscortText": "[[termEscort]]:",
   "panelFleetsEntryLevelClassText": "Nv.{{level}} {{class}}",
   "panelFleetsEntryUnknownEquipText": "[[termUnknown]]",
+  "panelFleetsEntryFleetNum": "[[termFleet]] {{fleetNum}}",
   "panelFleetsOpenSortieText": "[[termSortie]]",
   "panelFleetsOpenReplayText": "[[termReplay]]",
   "panelFleetsBattleUnavailableText": "Battle data unavailable",

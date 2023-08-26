@@ -264,6 +264,10 @@
   "fleetTypeSTF": "수상타격",
   "fleetTypeTCF": "수송호위",
 
+  "filterFleetNumLabel": "Fleet Number:",
+  "filterFleetNumTip": "Show runs where the user sortied with a specific fleet (of the four available).",
+  "fleetNumAny": "[[termAny]]",
+
   "shipFled": "FLED",
 
   "supportNone": "None",
@@ -272,6 +276,7 @@
   "supportTorpedo": "Torpedo",
   "supportASW": "ASW",
 
+  "filterSpeedLabel": "속력:",
   "filterMinSpeedLabel": "최저 속력:",
   "filterMaxSpeedLabel": "최대 속력:",
   "filterSpeedTip": "특정 함대 속력 범위 내의 데이터만 표시합니다.",
@@ -424,6 +429,7 @@
   "panelFleetsEntryFleetEscortText": "[[termEscort]]:",
   "panelFleetsEntryLevelClassText": "Lv.{{level}} {{class}}",
   "panelFleetsEntryUnknownEquipText": "[[termUnknown]]",
+  "panelFleetsEntryFleetNum": "[[termFleet]] {{fleetNum}}",
   "panelFleetsOpenSortieText": "[[termSortie]]",
   "panelFleetsOpenReplayText": "[[termReplay]]",
   "panelFleetsBattleUnavailableText": "Battle data unavailable",

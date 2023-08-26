@@ -259,6 +259,10 @@
   "fleetTypeSTF": "水上打擊",
   "fleetTypeTCF": "運輸聯合",
 
+  "filterFleetNumLabel": "Fleet Number:",
+  "filterFleetNumTip": "Show runs where the user sortied with a specific fleet (of the four available).",
+  "fleetNumAny": "[[termAny]]",
+
   "shipFled": "FLED",
 
   "supportNone": "None",
@@ -267,6 +271,7 @@
   "supportTorpedo": "Torpedo",
   "supportASW": "ASW",
 
+  "filterSpeedLabel": "速度:",
   "filterMinSpeedLabel": "最低速度:",
   "filterMaxSpeedLabel": "最高速度:",
   "filterSpeedTip": "顯示速度在指定範圍內的艦隊",
@@ -418,6 +423,7 @@
   "panelFleetsEntryFleetEscortText": "[[termEscort]]:",
   "panelFleetsEntryLevelClassText": "Lv.{{level}} {{class}}",
   "panelFleetsEntryUnknownEquipText": "[[termUnknown]]",
+  "panelFleetsEntryFleetNum": "[[termFleet]] {{fleetNum}}",
   "panelFleetsOpenSortieText": "[[termSortie]]",
   "panelFleetsOpenReplayText": "[[termReplay]]",
   "panelFleetsBattleUnavailableText": "Battle data unavailable",

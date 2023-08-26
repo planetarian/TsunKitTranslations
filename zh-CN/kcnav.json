@@ -262,6 +262,10 @@
   "fleetTypeSTF": "水上打击部队",
   "fleetTypeTCF": "输送护卫部队",
 
+  "filterFleetNumLabel": "Fleet Number:",
+  "filterFleetNumTip": "Show runs where the user sortied with a specific fleet (of the four available).",
+  "fleetNumAny": "[[termAny]]",
+
   "shipFled": "撤离",
 
   "supportNone": "无",
@@ -270,6 +274,7 @@
   "supportTorpedo": "雷击",
   "supportASW": "对潜",
 
+  "filterSpeedLabel": "速力:",
   "filterMinSpeedLabel": "最低速力:",
   "filterMaxSpeedLabel": "最高速力:",
   "filterSpeedTip": "显示使用特定速力范围的结果",
@@ -421,6 +426,7 @@
   "panelFleetsEntryFleetEscortText": "[[termEscort]]:",
   "panelFleetsEntryLevelClassText": "Lv.{{level}} {{class}}",
   "panelFleetsEntryUnknownEquipText": "[[termUnknown]]",
+  "panelFleetsEntryFleetNum": "[[termFleet]] {{fleetNum}}",
   "panelFleetsOpenSortieText": "[[termSortie]]",
   "panelFleetsOpenReplayText": "[[termReplay]]",
   "panelFleetsBattleUnavailableText": "未提交战斗数据",

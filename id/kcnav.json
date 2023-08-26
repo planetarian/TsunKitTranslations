@@ -264,6 +264,10 @@
   "fleetTypeSTF": "STF",
   "fleetTypeTCF": "TCF",
 
+  "filterFleetNumLabel": "Fleet Number:",
+  "filterFleetNumTip": "Show runs where the user sortied with a specific fleet (of the four available).",
+  "fleetNumAny": "[[termAny]]",
+
   "shipFled": "FLED",
 
   "supportNone": "None",
@@ -272,6 +276,7 @@
   "supportTorpedo": "Torpedo",
   "supportASW": "ASW",
 
+  "filterSpeedLabel": "Kecepatan:",
   "filterMinSpeedLabel": "Kecepatan Min:",
   "filterMaxSpeedLabel": "Kecepatan Maks:",
   "filterSpeedTip": "Menampilkan perjalan menggunakan armada dengan kisaran kecepatan yang ditentukan.",
@@ -424,6 +429,7 @@
   "panelFleetsEntryFleetEscortText": "[[termEscort]]:",
   "panelFleetsEntryLevelClassText": "Lv.{{level}} {{class}}",
   "panelFleetsEntryUnknownEquipText": "[[termUnknown]]",
+  "panelFleetsEntryFleetNum": "[[termFleet]] {{fleetNum}}",
   "panelFleetsOpenSortieText": "[[termSortie]]",
   "panelFleetsOpenReplayText": "[[termReplay]]",
   "panelFleetsBattleUnavailableText": "Battle data unavailable",
