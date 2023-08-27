@@ -272,8 +272,8 @@
   "fleetTypeSTF": "水上打撃",
   "fleetTypeTCF": "輸送護衛",
 
-  "filterFleetNumLabel": "Fleet Number:",
-  "filterFleetNumTip": "Show runs where the user sortied with a specific fleet (of the four available).",
+  "filterFleetNumLabel": "出撃艦隊:",
+  "filterFleetNumTip": "指定した番号の出撃艦隊（第1から第4、通常か遊撃の場合のみ。連合艦隊は1固定）をフィルタリングできます。",
   "fleetNumAny": "[[termAny]]",
 
   "shipFled": "退避",
@@ -435,7 +435,7 @@
   "panelFleetsEntryFleetEscortText": "[[termEscort]]:",
   "panelFleetsEntryLevelClassText": "Lv.{{level}} {{class}}",
   "panelFleetsEntryUnknownEquipText": "[[termUnknown]]",
-  "panelFleetsEntryFleetNum": "[[termFleet]] {{fleetNum}}",
+  "panelFleetsEntryFleetNum": "(第{{fleetNum}}[[termFleet]])",
   "panelFleetsOpenSortieText": "[[termSortie]]",
   "panelFleetsOpenReplayText": "[[termReplay]]",
   "panelFleetsBattleUnavailableText": "[[termBattles]]なし",

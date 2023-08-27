@@ -254,7 +254,7 @@
   "filterHQLevelLabel": "提督等级:",
   "filterHQLevelTip": "显示特定提督等级范围的结果",
 
-  "filterFleetTypeLabel": "舰队:",
+  "filterFleetTypeLabel": "舰队类型:",
   "filterFleetTypeTip": "显示使用特定编队形式的结果",
   "fleetTypeAny": "[[termAny]]",
   "fleetTypeSingle": "单舰队",
@@ -262,8 +262,8 @@
   "fleetTypeSTF": "水上打击部队",
   "fleetTypeTCF": "输送护卫部队",
 
-  "filterFleetNumLabel": "Fleet Number:",
-  "filterFleetNumTip": "Show runs where the user sortied with a specific fleet (of the four available).",
+  "filterFleetNumLabel": "舰队序号:",
+  "filterFleetNumTip": "显示使用特定序号（从第1到第4）舰队出击的结果。联合舰队类型时需要指定第1舰队",
   "fleetNumAny": "[[termAny]]",
 
   "shipFled": "撤离",
@@ -426,7 +426,7 @@
   "panelFleetsEntryFleetEscortText": "[[termEscort]]:",
   "panelFleetsEntryLevelClassText": "Lv.{{level}} {{class}}",
   "panelFleetsEntryUnknownEquipText": "[[termUnknown]]",
-  "panelFleetsEntryFleetNum": "[[termFleet]] {{fleetNum}}",
+  "panelFleetsEntryFleetNum": "(第{{fleetNum}}[[termFleet]])",
   "panelFleetsOpenSortieText": "[[termSortie]]",
   "panelFleetsOpenReplayText": "[[termReplay]]",
   "panelFleetsBattleUnavailableText": "未提交战斗数据",
