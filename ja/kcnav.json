@@ -272,8 +272,8 @@
   "fleetTypeSTF": "水上打撃",
   "fleetTypeTCF": "輸送護衛",
 
-  "filterFleetNumLabel": "出撃艦隊:",
-  "filterFleetNumTip": "指定した番号の出撃艦隊（第1から第4、通常か遊撃の場合のみ。連合艦隊は1固定）をフィルタリングできます。",
+  "filterFleetNumLabel": "編成枠番号:",
+  "filterFleetNumTip": "指定した番号の編成枠で出撃する艦隊をフィルタリングできます。第2から第4艦隊は通常か遊撃艦隊の場合のみです。連合艦隊は枠1固定ですので指定なら1で。",
   "fleetNumAny": "[[termAny]]",
 
   "shipFled": "退避",
