@@ -142,6 +142,9 @@
   "heatmapModeTip": "设置显示航路热图(彩色线条)时参考的数据类型",
   "heatmapModeRuns": "出击次数多寡路径",
   "heatmapModeGimmicks": "可能去解密的路径",
+  "heatmapModeLbasUsed": "LBAS used",
+  "heatmapModeLbasPasses": "LBAS waves",
+  "heatmapModeSmokeUsed": "Smoke used",
 
   "themeLabel": "颜色主题:",
   "themeTip": "设置界面配色模式",

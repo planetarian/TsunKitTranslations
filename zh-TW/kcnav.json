@@ -139,6 +139,9 @@
   "heatmapModeTip": "Sets the type of data being displayed by the path heatmap (colored lines).",
   "heatmapModeRuns": "Sorties",
   "heatmapModeGimmicks": "Possible gimmicks",
+  "heatmapModeLbasUsed": "LBAS used",
+  "heatmapModeLbasPasses": "LBAS waves",
+  "heatmapModeSmokeUsed": "Smoke used",
 
   "themeLabel": "Theme:",
   "themeTip": "Changes KCNav's visual theme.",

@@ -143,6 +143,9 @@
   "heatmapModeTip": "Faerbt die Kanten nach Aktivitaet",
   "heatmapModeRuns": "Missionen",
   "heatmapModeGimmicks": "Moegliche Gimmicks",
+  "heatmapModeLbasUsed": "LBAS used",
+  "heatmapModeLbasPasses": "LBAS waves",
+  "heatmapModeSmokeUsed": "Smoke used",
 
   "themeLabel": "Theme:",
   "themeTip": "Aendert KCNavs Theme",

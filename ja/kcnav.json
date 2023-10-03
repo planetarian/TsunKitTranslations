@@ -152,6 +152,9 @@
   "heatmapModeTip": "マップの[[termEdge]]ヒートマップ(色違い線)のデータ参照元の設定ができます。",
   "heatmapModeRuns": "よく経由ルート",
   "heatmapModeGimmicks": "ギミックルート",
+  "heatmapModeLbasUsed": "LBAS used",
+  "heatmapModeLbasPasses": "LBAS waves",
+  "heatmapModeSmokeUsed": "Smoke used",
 
   "themeLabel": "テーマ:",
   "themeTip": "UI配色の明るさです。今は明るく白いライトテーマと暗く黒いダークテーマがあります。",

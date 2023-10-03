@@ -144,6 +144,9 @@
   "heatmapModeTip": "맵에 표시되는 히트맵(색선) 데이터의 종류를 설정합니다.",
   "heatmapModeRuns": "모든 데이터",
   "heatmapModeGimmicks": "기믹 관련 데이터",
+  "heatmapModeLbasUsed": "LBAS used",
+  "heatmapModeLbasPasses": "LBAS waves",
+  "heatmapModeSmokeUsed": "Smoke used",
 
   "themeLabel": "Theme:",
   "themeTip": "Changes KCNav's visual theme.",
