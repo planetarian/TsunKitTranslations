@@ -132,6 +132,8 @@
   "displayLBASDistanceTip": "Zeige die Reichweite der Landbasierten Luftunterstuetzung auf der Karte",
   "displayNodeGimmicksLabel": "Gimmicks",
   "displayNodeGimmicksTip": "Zeige Knoten, die fuer Gimmicks/Unlocks benoetigt werden.",
+  "displayNodeSeasonalLabel": "Seasonal",
+  "displayNodeSeasonalTip": "Display tags for nodes which are involved in seasonal gimmicks such as Saury Festival.",
   "displayRunCountsLabel": "Missionszahl",
   "displayRunCountsTip": "Zeige die Anzahl der Missionen zwischen zwei Knoten",
   "displayEdgeIDsLabel": "[[termEdge]] IDs",

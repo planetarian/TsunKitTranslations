@@ -133,6 +133,8 @@
   "displayLBASDistanceTip": "Display the LBAS distance value on each node.",
   "displayNodeGimmicksLabel": "Gimmicks",
   "displayNodeGimmicksTip": "Display tags for nodes that are part of gimmicks/unlock stages.",
+  "displayNodeSeasonalLabel": "Seasonal",
+  "displayNodeSeasonalTip": "Display tags for nodes which are involved in seasonal gimmicks such as Saury Festival.",
   "displayRunCountsLabel": "Run counts",
   "displayRunCountsTip": "Display the number of runs that passed through the paths between nodes.",
   "displayEdgeIDsLabel": "[[termEdge]] IDs",

@@ -131,6 +131,8 @@
   "displayLBASDistanceTip": "在每个点显示相应的陆航航程",
   "displayNodeGimmicksLabel": "解密",
   "displayNodeGimmicksTip": "在相关的点显示解密需要的条件",
+  "displayNodeSeasonalLabel": "Seasonal",
+  "displayNodeSeasonalTip": "Display tags for nodes which are involved in seasonal gimmicks such as Saury Festival.",
   "displayRunCountsLabel": "次数",
   "displayRunCountsTip": "在每条航路上显示被经过的次数",
   "displayEdgeIDsLabel": "路径编号",

@@ -133,6 +133,8 @@
   "displayLBASDistanceTip": "각 마스의 전투행동반경(기지항공대 사거리)을 표시합니다.",
   "displayNodeGimmicksLabel": "기믹",
   "displayNodeGimmicksTip": "이벤트 해역의 기믹 해제나 단계별 맵 개방의 조건에 해당하는 마스를 표시합니다.",
+  "displayNodeSeasonalLabel": "Seasonal",
+  "displayNodeSeasonalTip": "Display tags for nodes which are involved in seasonal gimmicks such as Saury Festival.",
   "displayRunCountsLabel": "통과 횟수",
   "displayRunCountsTip": "해당 [[termEdge]]를 통과해 간 수를 표시합니다.",
   "displayEdgeIDsLabel": "[[termEdge]] ID",
