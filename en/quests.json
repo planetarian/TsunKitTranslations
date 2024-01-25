@@ -29,6 +29,11 @@
   "termRemove": "Remove",
 
 
+  "battleRatingOther": "Other",
+  "battleRatingNone": "[[termNone]]",
+  "battleRatingClear": "Clear",
+
+
   "questFrequencyNone": "[[termNone]]",
   "questFrequencyOnetime": "Onetime",
   "questFrequencyDaily": "Daily",
@@ -211,6 +216,13 @@
   "panelRequirementFleetFamilies": "Families:",
   "panelRequirementFleetCompGroup": "Ship group {{index}}",
   "panelRequirementFleetCompGroupAdd": "Add ship group",
+
+  "panelRequirementSortieDetailsHeader": "Sortie Details",
+  "panelRequirementSortieMapsLabel": "Maps:",
+  "panelRequirementSortieTimesLabel": "Times:",
+  "panelRequirementSortieAllMapsLabel": "All maps required:",
+  "panelRequirementSortieKillBossLabel": "Must kill boss:",
+  "panelRequirementSortieResultLabel": "Battle result:",
 
   "panelRequirementOtherShips": "(other ships)",
   "panelRequirementFlagship": "(flagship)",
