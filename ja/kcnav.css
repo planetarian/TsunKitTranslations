@@ -3,15 +3,15 @@ html, body {
   font-family: "Segoe UI","Hiragino Kaku Gothic Pro","ヒラギノ角ゴ Pro W3","Meiryo UI","メイリオ","Noto Sans CJK JP","Helvetica Neue",Helvetica,Arial,"Hiragino Sans","MS Gothic",sans-serif;
 }
 /* Segoe UIかArialでもいいけど、より矢印対応のいいフォントを指定 */
-.node-details-entries-controls > *,
-.node-details-battles-controls > div:nth-child(1) > * {
+.panel-details-entries-controls > *,
+.panel-details-battles-controls > div:nth-child(1) > * {
   font-family: "Cambria Math", Symbola, Quivira;
 }
-.node-details-entries-controls > label > input {
+.panel-details-entries-controls > label > input {
   vertical-align: middle;
   position: relative;
   bottom: 1px;
 }
-.node-details-battles-controls > div:nth-child(2) > label {
+.panel-details-battles-controls > div:nth-child(2) > label {
   vertical-align: middle;
 }
