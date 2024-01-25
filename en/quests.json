@@ -16,6 +16,7 @@
   "termNo": "No",
   "termAll": "All",
   "termAny": "Any",
+  "termNone": "None",
   "termFilter": "Filter",
   "termDismiss": "Dismiss",
   "termDetails": "Details",
@@ -25,12 +26,76 @@
   "termShip": "Ship",
   "termClass": "Class",
   "termCount": "Count",
+  "termRemove": "Remove",
+
+
+  "questFrequencyNone": "[[termNone]]",
+  "questFrequencyOnetime": "Onetime",
+  "questFrequencyDaily": "Daily",
+  "questFrequencyWeekly": "Weekly",
+  "questFrequencySpecial1": "Special1",
+  "questFrequencySpecial2": "Special2",
+  "questFrequencyMonthly": "Monthly",
+  "questFrequencyQuarterly": "Quarterly",
+  "questFrequencyAnnual": "Annual",
+  "questFrequencySeasonal": "Seasonal",
+  "questFrequencyEvent": "Event",
+
+  "requirementTypeNone": "[[termNone]]",
+  "requirementTypeSimple": "Simple",
+  "requirementTypeFleet": "Fleet Composition",
+  "requirementTypeSortie": "Sortie",
+  "requirementTypeSink": "Sink Enemies",
+  "requirementTypeAGou": "A-Gou",
+  "requirementTypeExercise": "Exercise",
+  "requirementTypeExpedition": "Expedition",
+  "requirementTypeConversion": "Equipment Exchange/Conversion",
+  "requirementTypeModernization": "Modernization",
+  "requirementTypeScrapEquipment": "Scrap Equipment",
+  "requirementTypeEquipExchange": "Equipment Exchange",
+  "requirementTypeMultiAnd": "And",
+  "requirementTypeMultiOr": "Or",
+  "requirementTypeMultiThen": "Then",
+
+  "requirementSubTypeBattle": "Battle",
+  "requirementSubTypeResupply": "Resupply",
+  "requirementSubTypeRepair": "Repair",
+  "requirementSubTypeShip": "Construct Ship",
+  "requirementSubTypeEquipment": "Equipment",
+  "requirementSubTypeScrapEquipment": "Scrap Equipment",
+  "requirementSubTypeScrapShip": "Scrap Ship",
+  "requirementSubTypeImprovement": "Improvement",
+  "requirementSubTypeModernization": "Modernization",
+
+  "fleetNumberNone": "[[termNone]]",
+
+
+  "questChainLabel": "Quest chain:",
+  "questChainTip": "Choose from a selection of notable quest chains to display.",
+  "questChainAll": "All quests",
+  "questChainZ1": "Z1",
+  "questChainSlot6": "6th quest slot",
+  "questChainCatapult1": "Catapult 1",
+  "questChainCatapult2": "Catapult 2",
+  "questChainCatapult3": "Catapults 3-4",
+  "questChainProtoSext": "Prototype Sext",
+  "questChainIwaiIwamoto601": "Iwai/Iwamoto/601",
+  "questChainConstructionCorps": "Construction Corps",
+  "questChainJets": "Jets",
+  "questChainF6F5N": "F6F-5N",
+  "questChainKyoufuuKai": "Kyoufuu Kai",
+  "questChainT1M22A": "Type1 M22A LBAS",
+  "questChainWeeklies": "Weeklies",
+  "questChainMonthlies": "Monthlies",
+  "questChainWeekliesMonthlies": "Weeklies + Monthlies",
+
+  "disallowedShipTypeOther": "Other/Unknown",
+  "disallowedShipTypeNone": "None",
+  "disallowedShipTypeOtherShips": "Other Ships",
+  "disallowedShipTypeCarriers": "Carriers",
+  "disallowedShipTypeAviation": "Aviation Ships",
 
   "getStartedMessage": "",
-
-  "themeLight": "Light",
-  "themeDark": "Dark",
-
 
   "footerTsunDBCreditText": "Powered by {{tsundb}}",
   "footerContactText": "Any issues? Contact Chami on {{twitter}} or the {{kcdiscord}}",
@@ -44,14 +109,123 @@
   "ribbonApplyFiltersLabel": "Apply Filters",
 
   "ribbonQuestsTabName": "Quests",
+  "ribbonViewTabName": "View",
 
   "ribbonQuestsSectionName": "Basic",
   "ribbonQuestsSectionTip": "Basic info",
 
-  "panelDetailsTabName": "Details",
-  "panelRequirementsTabName": "Requirements",
-  "panelRewardsTabName": "Rewards",
-  "panelActionsTabName": "Actions"
+  "ribbonDisplayOptsSectionName": "Display options",
+  "ribbonGraphOptsSectionName": "Graph options",
 
+  "displayCompletedLabel": "Show completed",
+  "displayCompletedTip": "Displays quests that have been marked as completed.",
+  "displayCurrentLabel": "Show current",
+  "displayCurrentTip": "Displays quests that have been unlocked by currently-completed quests.",
+  "displayLockedLabel": "Show locked",
+  "displayLockedTip": "Displays quests that have yet to be unlocked by currently-completed quests.",
+  "displayVerifiedLabel": "Show verified",
+
+  "displayVerifiedTip": "Displays quests whose details have been verified.",
+  "displayUnverifiedLabel": "Show unverified",
+  "displayUnverifiedTip": "Displays quests whose details have yet to be verified.",
+  "displayUnimportedLabel": "Show unimported",
+  "displayUnimportedTip": "Displays quests that have yet to be added to the tracker.",
+
+  "displayAvailableLabel": "Show available",
+  "displayAvailableTip": "Displays quests that are currently in-game.",
+  "displayUnavailableLabel": "Show unavailable",
+  "displayUnavailableTip": "Displays limited quests that have ended.",
+
+
+
+  "themeLabel": "Theme:",
+  "themeTip": "Changes the site theme.",
+  "themeLight": "Light",
+  "themeDark": "Dark",
+
+  "listDisplayModeLabel": "List display mode:",
+  "listDisplayModeTip": "Changes how much information is visible in the quest list.",
+  "graphLayoutModeLabel": "Graph layout mode (unused):",
+  "graphLayoutModeTip": "Selects the layout mode for the graph system (not currently used)",
+
+
+
+  "listPanelHeaderText": "Quests",
+  "listPanelDisplayModeLabel": "View:",
+  "listPanelFooterText": "{{count}} quests",
+
+
+
+  "panelQuestCompleteTip": "Quest completion",
+  "panelReuseLabel": "Reuse panel",
+
+  "panelDetailsTabName": "Details",
+  "panelProgressTabName": "Progress",
+  "panelEditTabName": "Edit",
+  "panelReviewTabName": "Review",
+
+  "panelQuestDetailsHeader": "Details",
+  "panelQuestPrereqsLabel": "Prereqs:",
+  "panelQuestUnlocksLabel": "Unlocks:",
+  "panelQuestDetailsCompLabel": "Composition:",
+
+  "panelQuestRequirementsHeader": "Requirements",
+
+  "panelQuestRewardsHeader": "Rewards",
+  "panelQuestRewardsChooseText": "Choose:",
+
+  "panelEntityFeatureLabel": "Feature:",
+  "panelEntityFurnitureLabel": "Furniture:",
+
+
+
+  "panelEditAddPrerequisiteLabel": "Add:",
+  "panelEditAddRequirementLabel": "Add new requirement:",
+
+  "panelRequirementSecretaryLabel": "Secretary:",
+  "panelRequirementSubTypeLabel": "Sub-type:",
+  "panelRequirementTimes": "Times:",
+  "panelRequirementTimesShort": "x{{times}}",
+  "panelRequirementSinkLabel": "Sink:",
+  "panelRequirementRankLabel": "Rank:",
+  "panelRequirementExpeditionsLabel": "Expeditions:",
+  "panelRequirementFleetLabel": "Fleet:",
+  "panelRequirementFleetNumberLabel": "Fleet:",
+  "panelRequirementSortieLabel": "Sortie:",
+  "panelRequirementExercisesLabel": "PVP:",
+  "panelRequirementDisallowedLabel": "Disallowed:",
+  "panelRequirementResourcesLabel": "Resources (consumed):",
+  "panelRequirementPossessLabel": "Have (not consumed):",
+  "panelRequirementConsumeLabel": "Have (consumed):",
+  "panelRequirementScrapLabel": "Scrap:",
+  "panelRequirementModernizeLabel": "Modernize:",
+  "panelRequirementModernizeUsingLabel": "Using:",
+  "panelRequirementShipsAmountLabel": "Amount:",
+  "panelRequirementShipsLevelLabel": "Level:",
+  "panelRequirementShipsPositionLabel": "Position:",
+  "panelRequirementShipsFlagshipLabel": "Flagship:",
+
+  "panelRequirementFleetShips": "Ships:",
+  "panelRequirementFleetClasses": "Classes:",
+  "panelRequirementFleetGroups": "Groups:",
+  "panelRequirementFleetFamilies": "Families:",
+  "panelRequirementFleetCompGroup": "Ship group {{index}}",
+  "panelRequirementFleetCompGroupAdd": "Add ship group",
+
+  "panelRequirementOtherShips": "(other ships)",
+  "panelRequirementFlagship": "(flagship)",
+  "panelRequirementListAny": "(any)",
+  "panelRequirementListAll": "(all)",
+  "panelRequirementListEach": "(each)",
+
+  "panelRequirementSingleDayNote": "Must be completed within a single day.",
+
+  "panelRequirementVictory": "Victory",
+
+  "panelRequirementRemoveButton": "[[termRemove]]",
+
+  "entityPickerSearchResultsCount": "{{count}} results",
+  "entityPickerSearchResultsNone": "No results",
+  "entityPickerSearchQueryTooShort": "Query too short"
 
 }
