@@ -27,6 +27,8 @@
   "termClass": "Class",
   "termCount": "Count",
   "termRemove": "Remove",
+  "termTimes": "Times",
+  "termAmount": "Amount",
 
 
   "battleRatingOther": "Other",
@@ -71,6 +73,11 @@
   "requirementSubTypeScrapShip": "Scrap Ship",
   "requirementSubTypeImprovement": "Improvement",
   "requirementSubTypeModernization": "Modernization",
+
+  "sinkTargetAny": "[[termAny]]",
+  "sinkTargetCarriers": "Carriers",
+  "sinkTargetSubmarines": "Submarines",
+  "sinkTargetTransports": "Transports",
 
   "fleetNumberNone": "[[termNone]]",
 
@@ -181,6 +188,7 @@
 
   "panelEntityFeatureLabel": "Feature:",
   "panelEntityFurnitureLabel": "Furniture:",
+  "panelEntityEquipGroupLabel": "Equip group:",
 
 
 
@@ -189,7 +197,7 @@
 
   "panelRequirementSecretaryLabel": "Secretary:",
   "panelRequirementSubTypeLabel": "Sub-type:",
-  "panelRequirementTimes": "Times:",
+  "panelRequirementTimesLabel": "[[termTimes]]:",
   "panelRequirementTimesShort": "x{{times}}",
   "panelRequirementSinkLabel": "Sink:",
   "panelRequirementRankLabel": "Rank:",
@@ -205,10 +213,12 @@
   "panelRequirementScrapLabel": "Scrap:",
   "panelRequirementModernizeLabel": "Modernize:",
   "panelRequirementModernizeUsingLabel": "Using:",
-  "panelRequirementShipsAmountLabel": "Amount:",
+  "panelRequirementShipsAmountLabel": "[[termAmount]]:",
   "panelRequirementShipsLevelLabel": "Level:",
   "panelRequirementShipsPositionLabel": "Position:",
   "panelRequirementShipsFlagshipLabel": "Flagship:",
+  "panelRequirementShipsOtherLabel": "Other ships OK:",
+
 
   "panelRequirementFleetShips": "Ships:",
   "panelRequirementFleetClasses": "Classes:",
@@ -219,10 +229,30 @@
 
   "panelRequirementSortieDetailsHeader": "Sortie Details",
   "panelRequirementSortieMapsLabel": "Maps:",
-  "panelRequirementSortieTimesLabel": "Times:",
+  "panelRequirementSortieTimesLabel": "[[termTimes]]:",
   "panelRequirementSortieAllMapsLabel": "All maps required:",
   "panelRequirementSortieKillBossLabel": "Must kill boss:",
   "panelRequirementSortieResultLabel": "Battle result:",
+
+  "panelRequirementSinkTimesLabel": "[[termAmount]]:",
+
+  "panelRequirementExerciseTimesLabel": "[[termTimes]]:",
+  "panelRequirementExerciseVictoryLabel": "Victory:",
+  "panelRequirementExerciseDailyLabel": "Single day:",
+
+  "panelRequirementExpeditionTimesLabel": "[[termTimes]]:",
+  "panelRequirementExpeditionGroupAdd": "Add expedition group",
+
+  "panelRequirementItemAmountLabel": "[[termAmount]]:",
+  "panelRequirementItemSlot": "(slot {{slot}})",
+  "panelRequirementItemSlotLabel": "Slot:",
+
+  "panelRequirementAddSlotItemLabel": "Add slot item:",
+  "panelRequirementAddPossessItemLabel": "Add possessed:",
+  "panelRequirementAddConsumeItemLabel": "Add consumed:",
+  "panelRequirementAddScrapItemLabel": "Add scrapped:",
+
+  "panelRequirementModernizationTimesLabel": "[[termTimes]]:",
 
   "panelRequirementOtherShips": "(other ships)",
   "panelRequirementFlagship": "(flagship)",
@@ -236,6 +266,10 @@
 
   "panelRequirementRemoveButton": "[[termRemove]]",
 
+  "panelRewardAddRewardLabel": "Add reward:",
+  "panelRewardAddChoiceButtonLabel": "Add choice",
+
+  "entityPickerSearching": "Searching...",
   "entityPickerSearchResultsCount": "{{count}} results",
   "entityPickerSearchResultsNone": "No results",
   "entityPickerSearchQueryTooShort": "Query too short"
