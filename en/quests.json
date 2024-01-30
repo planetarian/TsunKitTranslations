@@ -109,13 +109,6 @@
 
   "getStartedMessage": "",
 
-  "footerTsunDBCreditText": "Powered by {{tsundb}}",
-  "footerContactText": "Any issues? Contact Chami on {{twitter}} or the {{kcdiscord}}",
-  "footerTwitterLinkText": "Twitter",
-  "footerDiscordLinkText": "English KC Discord",
-  "footerSupportText": "Support KCNav on {{link}}",
-  "footerSupportLinkText": "Ko-Fi",
-
   "experimentalFeatureWarning": "This feature is experimental. It may display incorrect or incomplete data, and in some cases may not work at all.",
 
   "ribbonApplyFiltersLabel": "Apply Filters",
@@ -168,7 +161,7 @@
 
 
 
-  "panelQuestCompleteTip": "Quest completion",
+  "questCompleteTip": "Quest completion",
   "panelReuseLabel": "Reuse panel",
 
   "panelDetailsTabName": "Details",
@@ -176,15 +169,16 @@
   "panelEditTabName": "Edit",
   "panelReviewTabName": "Review",
 
-  "panelQuestDetailsHeader": "Details",
-  "panelQuestPrereqsLabel": "Prereqs:",
-  "panelQuestUnlocksLabel": "Unlocks:",
-  "panelQuestDetailsCompLabel": "Composition:",
+  "questDetailsHeader": "Details",
+  "questPrereqsLabel": "Prereqs:",
+  "questUnlocksLabel": "Unlocks:",
+  "questDetailsCompLabel": "Composition:",
+  "questDetailsCompDisallowedLabel": "Banned:",
 
-  "panelQuestRequirementsHeader": "Requirements",
+  "questRequirementsHeader": "Requirements",
 
-  "panelQuestRewardsHeader": "Rewards",
-  "panelQuestRewardsChooseText": "Choose:",
+  "questRewardsHeader": "Rewards",
+  "questRewardsChooseText": "Choose:",
 
   "panelEntityFeatureLabel": "Feature:",
   "panelEntityFurnitureLabel": "Furniture:",
@@ -192,86 +186,117 @@
 
 
 
-  "panelEditAddPrerequisiteLabel": "Add:",
-  "panelEditAddRequirementLabel": "Add new requirement:",
+  "editAddPrerequisiteLabel": "Add:",
+  "editAddRequirementLabel": "Add new requirement:",
 
-  "panelRequirementSecretaryLabel": "Secretary:",
-  "panelRequirementSubTypeLabel": "Sub-type:",
-  "panelRequirementTimesLabel": "[[termTimes]]:",
-  "panelRequirementTimesShort": "x{{times}}",
-  "panelRequirementSinkLabel": "Sink:",
-  "panelRequirementRankLabel": "Rank:",
-  "panelRequirementExpeditionsLabel": "Expeditions:",
-  "panelRequirementFleetLabel": "Fleet:",
-  "panelRequirementFleetNumberLabel": "Fleet:",
-  "panelRequirementSortieLabel": "Sortie:",
-  "panelRequirementExercisesLabel": "PVP:",
-  "panelRequirementDisallowedLabel": "Disallowed:",
-  "panelRequirementResourcesLabel": "Resources (consumed):",
-  "panelRequirementPossessLabel": "Have (not consumed):",
-  "panelRequirementConsumeLabel": "Have (consumed):",
-  "panelRequirementScrapLabel": "Scrap:",
-  "panelRequirementModernizeLabel": "Modernize:",
-  "panelRequirementModernizeUsingLabel": "Using:",
-  "panelRequirementShipsAmountLabel": "[[termAmount]]:",
-  "panelRequirementShipsLevelLabel": "Level:",
-  "panelRequirementShipsPositionLabel": "Position:",
-  "panelRequirementShipsFlagshipLabel": "Flagship:",
-  "panelRequirementShipsOtherLabel": "Other ships OK:",
+  "reqHeaderLabel": "{{category}}",
+  "reqSecretaryLabel": "Secretary:",
+  "reqSlotsLabel": "Slots:",
+  "reqSubTypeLabel": "Sub-type:",
+  "reqTimesLabel": "[[termTimes]]:",
+  "reqTimesShort": "x{{times}}",
+  "reqSinkLabel": "Sink:",
+  "reqRankLabel": "Rank:",
+  "reqExpeditionsLabel": "Expeditions:",
+  "reqFleetLabel": "Fleet:",
+  "reqFleetNumberLabel": "Fleet:",
+  "reqSortieLabel": "Sortie:",
+  "reqExercisesLabel": "PVP:",
+  "reqDisallowedLabel": "Banned:",
+  "reqResourcesLabel": "Resources (consumed):",
+  "reqPossessLabel": "Have (not consumed):",
+  "reqConsumeLabel": "Have (consumed):",
+  "reqScrapLabel": "Scrap:",
+  "reqModernizeLabel": "Modernize:",
+  "reqModernizeUsingLabel": "Using:",
+  "reqShipsAmountLabel": "[[termAmount]]:",
+  "reqShipsLevelLabel": "Level:",
+  "reqShipsPositionLabel": "Position:",
+  "reqShipsFlagshipLabel": "Flagship:",
+  "reqShipsOtherLabel": "Other ships OK:",
 
 
-  "panelRequirementFleetShips": "Ships:",
-  "panelRequirementFleetClasses": "Classes:",
-  "panelRequirementFleetGroups": "Groups:",
-  "panelRequirementFleetFamilies": "Families:",
-  "panelRequirementFleetCompGroup": "Ship group {{index}}",
-  "panelRequirementFleetCompGroupAdd": "Add ship group",
+  "reqFleetShips": "Ships:",
+  "reqFleetClasses": "Classes:",
+  "reqFleetGroups": "Groups:",
+  "reqFleetFamilies": "Families:",
+  "reqFleetCompGroup": "Ship group {{index}}",
+  "reqFleetCompGroupAdd": "Add ship group",
+  "reqFleetCompBannedGroup": "Banned ship group {{index}}",
+  "reqFleetCompBannedGroupAdd": "Add banned group",
 
-  "panelRequirementSortieDetailsHeader": "Sortie Details",
-  "panelRequirementSortieMapsLabel": "Maps:",
-  "panelRequirementSortieTimesLabel": "[[termTimes]]:",
-  "panelRequirementSortieAllMapsLabel": "All maps required:",
-  "panelRequirementSortieKillBossLabel": "Must kill boss:",
-  "panelRequirementSortieResultLabel": "Battle result:",
+  "reqSortieDetailsHeader": "Sortie Details",
+  "reqSortieMapsLabel": "Maps:",
+  "reqSortieTimesLabel": "[[termTimes]]:",
+  "reqSortieAllMapsLabel": "All maps required:",
+  "reqSortieBossLabel": "Boss node:",
+  "reqSortieResultLabel": "Battle result:",
 
-  "panelRequirementSinkTimesLabel": "[[termAmount]]:",
+  "reqSortieBoss": "(boss node)",
+  "reqSinkTimesLabel": "[[termAmount]]:",
 
-  "panelRequirementExerciseTimesLabel": "[[termTimes]]:",
-  "panelRequirementExerciseVictoryLabel": "Victory:",
-  "panelRequirementExerciseDailyLabel": "Single day:",
+  "reqExerciseTimesLabel": "[[termTimes]]:",
+  "reqExerciseVictoryLabel": "Victory:",
+  "reqExerciseDailyLabel": "Single day:",
 
-  "panelRequirementExpeditionTimesLabel": "[[termTimes]]:",
-  "panelRequirementExpeditionGroupAdd": "Add expedition group",
+  "reqExpeditionTimesLabel": "[[termTimes]]:",
+  "reqExpeditionGroupAdd": "Add expedition group",
 
-  "panelRequirementItemAmountLabel": "[[termAmount]]:",
-  "panelRequirementItemSlot": "(slot {{slot}})",
-  "panelRequirementItemSlotLabel": "Slot:",
+  "reqItemAmountLabel": "[[termAmount]]:",
+  "reqItemSlot": "(slot {{slot}})",
+  "reqItemSlotLabel": "Slot:",
 
-  "panelRequirementAddSlotItemLabel": "Add slot item:",
-  "panelRequirementAddPossessItemLabel": "Add possessed:",
-  "panelRequirementAddConsumeItemLabel": "Add consumed:",
-  "panelRequirementAddScrapItemLabel": "Add scrapped:",
+  "reqAddRequiredShip": "Add ship group",
 
-  "panelRequirementModernizationTimesLabel": "[[termTimes]]:",
+  "reqAddSlotItemLabel": "Add slot item:",
+  "reqAddPossessItemLabel": "Add possessed:",
+  "reqAddConsumeItemLabel": "Add consumed:",
+  "reqAddScrapItemLabel": "Add scrapped:",
 
-  "panelRequirementOtherShips": "(other ships)",
-  "panelRequirementFlagship": "(flagship)",
-  "panelRequirementListAny": "(any)",
-  "panelRequirementListAll": "(all)",
-  "panelRequirementListEach": "(each)",
+  "reqModernizationTimesLabel": "[[termTimes]]:",
 
-  "panelRequirementSingleDayNote": "Must be completed within a single day.",
+  "reqOtherShips": "(other ships)",
+  "reqFlagship": "(flagship)",
+  "reqListAny": "(any)",
+  "reqListAll": "(all)",
+  "reqListEach": "(each)",
 
-  "panelRequirementVictory": "Victory",
+  "reqItemStars": "Improvement",
+  "reqItemMaxStars": "Improved +max",
+  "reqItemNumStars": "Improved +{{stars}}",
 
-  "panelRequirementRemoveButton": "[[termRemove]]",
+  "reqScrapBatchLabel": "Can batch scrap:",
+  "reqScrapBatchNote": "Can scrap multiple at once.",
+  "reqScrapNoBatchNote": "Must scrap one at a time.",
 
-  "panelRewardAddRewardLabel": "Add reward:",
-  "panelRewardAddChoiceButtonLabel": "Add choice",
+  "reqSingleDayNote": "Must be completed within a single day.",
+
+  "reqVictory": "Victory",
+
+  "reqRemoveButton": "[[termRemove]]",
+
+  "rewardAddRewardLabel": "Add reward:",
+  "rewardAddChoiceLabel": "Add choice:",
+  "rewardAddChoiceButtonLabel": "Add choice set",
+
+  "panelSubmitQuestButtonLabel": "Submit quest",
 
   "entityPickerSearching": "Searching...",
   "entityPickerSearchResultsCount": "{{count}} results",
   "entityPickerSearchResultsNone": "No results",
-  "entityPickerSearchQueryTooShort": "Query too short"
+  "entityPickerSearchQueryTooShort": "Query too short",
+
+  "loadingMessageText": "Running query, please wait...",
+  "loadingMessageTip": "Now loading...",
+  "noticeMessageTip": "Notice!",
+  "noticeCloseLabel": "OK",
+  "badRenderMessageText": "If you're seeing this, you probably have an old version of KCNav cached. Press Ctrl+F5!",
+
+  "footerTsunDBCreditText": "Powered by {{tsundb}}",
+  "footerContactText": "Any issues? Contact Chami on {{twitter}} or the {{kcdiscord}}",
+  "footerTwitterLinkText": "Twitter",
+  "footerDiscordLinkText": "English KC Discord",
+  "footerSupportText": "Support KCNav on {{link}}",
+  "footerSupportLinkText": "Ko-Fi"
 
 }
