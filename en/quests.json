@@ -173,7 +173,9 @@
   "questPrereqsLabel": "Prereqs:",
   "questUnlocksLabel": "Unlocks:",
   "questDetailsCompLabel": "Composition:",
-  "questDetailsCompDisallowedLabel": "Banned:",
+  "questDetailsCriteriaLabel": "Criteria:",
+  "questDetailsCompDisallowedLabel": "Cannot use:",
+  "questDetailsSecretaryDisallowedLabel": "Cannot use:",
 
   "questRequirementsHeader": "Requirements",
 
@@ -196,7 +198,7 @@
   "reqTimesLabel": "[[termTimes]]:",
   "reqTimesShort": "x{{times}}",
   "reqSinkLabel": "Sink:",
-  "reqRankLabel": "Rank:",
+  "reqResultLabel": "Result:",
   "reqExpeditionsLabel": "Expeditions:",
   "reqFleetLabel": "Fleet:",
   "reqFleetNumberLabel": "Fleet:",
@@ -226,12 +228,16 @@
   "reqFleetCompBannedGroupAdd": "Add banned group",
 
   "reqSortieDetailsHeader": "Sortie Details",
+  "reqSortieGroupHeader": "Sortie group {{index}}",
   "reqSortieMapsLabel": "Maps:",
   "reqSortieTimesLabel": "[[termTimes]]:",
   "reqSortieAllMapsLabel": "All maps required:",
   "reqSortieBossLabel": "Boss node:",
   "reqSortieResultLabel": "Battle result:",
+  "reqSortieGroupAdd": "Add sortie group",
 
+  "reqSortieNodeLabel": "Node:",
+  "reqSortieNode": "(node {{node}})",
   "reqSortieBoss": "(boss node)",
   "reqSinkTimesLabel": "[[termAmount]]:",
 
@@ -279,6 +285,7 @@
   "rewardAddChoiceLabel": "Add choice:",
   "rewardAddChoiceButtonLabel": "Add choice set",
 
+  "panelQuestUnavailableLabel": "Unavailable:",
   "panelSubmitQuestButtonLabel": "Submit quest",
 
   "entityPickerSearching": "Searching...",
