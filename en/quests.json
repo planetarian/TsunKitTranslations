@@ -36,6 +36,15 @@
   "battleRatingClear": "Clear",
 
 
+  "questTypeOtherUnknown": "Other/unknown",
+  "questTypeComposition": "Composition",
+  "questTypeSortie": "Sortie",
+  "questTypeExercise": "Exercise",
+  "questTypeExpedition": "Expedition",
+  "questTypeSupply": "Supply",
+  "questTypeFactory": "Factory",
+  "questTypeModernization": "Modernization",
+
   "questFrequencyNone": "[[termNone]]",
   "questFrequencyOnetime": "Onetime",
   "questFrequencyDaily": "Daily",
@@ -81,6 +90,29 @@
 
   "fleetNumberNone": "[[termNone]]",
 
+  "ribbonSearchTabName": "Search",
+  "ribbonFiltersTabName": "Filters",
+  "ribbonViewTabName": "View",
+  "ribbonQuestSearchSectionName": "Search quests",
+  "ribbonQuestSearchSectionTip": "Filter the results to just specific desired quests (max 5)",
+  "ribbonQuestContentSearchSectionName": "Search quest contents",
+  "ribbonQuestContentSearchSectionTip": "Filter the results based on requirements and rewards (max 5 each)",
+  "ribbonQuestFilterSectionName": "Filter quest criteria",
+  "ribbonQuestFilterSectionTip": "Filter the results based on quest types and frequencies",
+  "ribbonQuestStatusSectionName": "Filter quest status",
+  "ribbonQuestStatusSectionTip": "Filter the results based on whether quests have been imported and verified",
+  "ribbonDisplayOptsSectionName": "Display options",
+  "ribbonDisplayOptsSectionTip": "",
+  "ribbonGraphOptsSectionName": "Graph settings (deprecated)",
+  "ribbonGraphOptsSectionTip": "",
+
+  "ribbonSearchQuestsLabel": "Quests:",
+  "ribbonSearchRequirementsLabel": "Requirements:",
+  "ribbonSearchRewardsLabel": "Rewards",
+
+
+  "ribbonFilterQuestTypesLabel": "Quest type:",
+  "ribbonFilterQuestFreqsLabel": "Frequency:",
 
   "questChainLabel": "Quest chain:",
   "questChainTip": "Choose from a selection of notable quest chains to display.",
