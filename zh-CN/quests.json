@@ -144,14 +144,8 @@
 
   "ribbonApplyFiltersLabel": "Apply Filters",
 
-  "ribbonQuestsTabName": "Quests",
-  "ribbonViewTabName": "View",
-
   "ribbonQuestsSectionName": "Basic",
   "ribbonQuestsSectionTip": "Basic info",
-
-  "ribbonDisplayOptsSectionName": "Display options",
-  "ribbonGraphOptsSectionName": "Graph options",
 
   "displayCompletedLabel": "Show completed",
   "displayCompletedTip": "Displays quests that have been marked as completed.",
@@ -219,6 +213,8 @@
 
 
 
+  "questGameIdLabel": "Game ID:",
+  "questWikiIdLabel": "Wiki ID:",
   "editAddPrerequisiteLabel": "Add:",
   "editAddRequirementLabel": "Add new requirement:",
 
@@ -316,8 +312,9 @@
   "rewardAddChoiceLabel": "Add choice:",
   "rewardAddChoiceButtonLabel": "Add choice set",
 
-  "panelQuestUnavailableLabel": "Unavailable:",
-  "panelSubmitQuestButtonLabel": "Submit quest",
+  "questUnverifiedWarning": "Warning: Details for this quest have not yet been verified and may be outdated/incorrect.",
+  "questUnavailableLabel": "Unavailable:",
+  "questSubmitButtonLabel": "Submit quest",
 
   "entityPickerSearching": "Searching...",
   "entityPickerSearchResultsCount": "{{count}} results",

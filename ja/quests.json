@@ -140,14 +140,8 @@
 
   "ribbonApplyFiltersLabel": "フィルタ適用",
 
-  "ribbonQuestsTabName": "任務一覧",
-  "ribbonViewTabName": "表示情報",
-
   "ribbonQuestsSectionName": "Basic",
   "ribbonQuestsSectionTip": "Basic info",
-
-  "ribbonDisplayOptsSectionName": "Display options",
-  "ribbonGraphOptsSectionName": "Graph options",
 
   "displayCompletedLabel": "達成済み",
   "displayCompletedTip": "達成にしたクエストを表示します",
@@ -214,7 +208,8 @@
   "panelEntityEquipGroupLabel": "Equip group:",
 
 
-
+  "questGameIdLabel": "Game ID:",
+  "questWikiIdLabel": "Wiki ID:",
   "editAddPrerequisiteLabel": "Add:",
   "editAddRequirementLabel": "Add new requirement:",
 
@@ -312,8 +307,9 @@
   "rewardAddChoiceLabel": "Add choice:",
   "rewardAddChoiceButtonLabel": "Add choice set",
 
-  "panelQuestUnavailableLabel": "Unavailable:",
-  "panelSubmitQuestButtonLabel": "Submit quest",
+  "questUnverifiedWarning": "Warning: Details for this quest have not yet been verified and may be outdated/incorrect.",
+  "questUnavailableLabel": "Unavailable:",
+  "questSubmitButtonLabel": "Submit quest",
 
   "entityPickerSearching": "Searching...",
   "entityPickerSearchResultsCount": "{{count}} results",
