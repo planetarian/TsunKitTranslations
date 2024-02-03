@@ -595,7 +595,7 @@
 
   "footerTsunDBCreditText": "Powered by {{tsundb}}",
   "footerContactText": "何かあったら{{twitter}}か{{kcdiscord}}までChamiにご連絡してください",
-  "footerTwitterLinkText": "Twitter",
+  "footerTwitterLinkText": "X/Twitter",
   "footerDiscordLinkText": "英語圏KC Discord",
   "footerSupportText": "{{link}}で開発者に寄付ができます(要PayPal)",
   "footerSupportLinkText": "Ko-Fi"
