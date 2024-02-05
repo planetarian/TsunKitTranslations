@@ -87,6 +87,10 @@
 
   "fleetNumberNone": "[[termNone]]",
 
+  "conversionModeNone": "[[termNone]]",
+  "conversionModeStarsLost": "Improvements lost",
+  "conversionModeStarsKept": "Improvements kept",
+
   "ribbonSearchTabName": "Search",
   "ribbonFiltersTabName": "Filters",
   "ribbonViewTabName": "View",

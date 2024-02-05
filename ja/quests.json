@@ -83,6 +83,10 @@
 
   "fleetNumberNone": "[[termNone]]",
 
+  "conversionModeNone": "Not converted",
+  "conversionModeStarsLost": "Improvements lost",
+  "conversionModeStarsKept": "Improvements kept",
+
   "ribbonSearchTabName": "検索条件",
   "ribbonFiltersTabName": "フィルタ",
   "ribbonViewTabName": "表示設定",
