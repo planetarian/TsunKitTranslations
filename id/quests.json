@@ -88,6 +88,7 @@
   "fleetNumberNone": "[[termNone]]",
 
   "conversionModeLabel": "Conversion:",
+  "conversionModeNote": "(conversion: {{result}})",
   "conversionModeNone": "[[termNone]]",
   "conversionModeStarsLost": "Improvements lost",
   "conversionModeStarsKept": "Improvements kept",
