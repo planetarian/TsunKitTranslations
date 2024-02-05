@@ -244,6 +244,7 @@
   "reqShipsFlagshipLabel": "旗艦:",
   "reqShipsOtherLabel": "ほかの艦でも可:",
 
+  "reqShipsPosition": "Position {{position}}",
 
   "reqFleetShips": "艦娘:",
   "reqFleetClasses": "艦型:",

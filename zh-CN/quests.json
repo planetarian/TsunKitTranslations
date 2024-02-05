@@ -249,6 +249,7 @@
   "reqShipsFlagshipLabel": "Flagship:",
   "reqShipsOtherLabel": "Other ships OK:",
 
+  "reqShipsPosition": "Position {{position}}",
 
   "reqFleetShips": "Ships:",
   "reqFleetClasses": "Classes:",
