@@ -203,6 +203,8 @@
   "panelReviewTabName": "Review",
 
   "questDetailsHeader": "Details",
+  "questTypeLabel": "Type:",
+  "questFrequencyLabel": "Freq:",
   "questPrereqsLabel": "Prereqs:",
   "questUnlocksLabel": "Unlocks:",
   "questDetailsCompLabel": "Composition:",

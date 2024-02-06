@@ -197,6 +197,8 @@
   "panelReviewTabName": "検閲",
 
   "questDetailsHeader": "詳細",
+  "questTypeLabel": "Type:",
+  "questFrequencyLabel": "Freq:",
   "questPrereqsLabel": "前提任務:",
   "questUnlocksLabel": "開放任務:",
   "questDetailsCompLabel": "編成条件:",
