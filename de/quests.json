@@ -230,6 +230,7 @@
   "reqSlotsLabel": "Slots:",
   "reqSubTypeLabel": "Sub-type:",
   "reqTimesLabel": "[[termTimes]]:",
+  "reqTimesLong": "{{times}} time(s)",
   "reqTimesShort": "x{{times}}",
   "reqSinkLabel": "Sink:",
   "reqResultLabel": "Result:",

@@ -224,6 +224,7 @@
   "reqSlotsLabel": "装備:",
   "reqSubTypeLabel": "種類:",
   "reqTimesLabel": "[[termTimes]]:",
+  "reqTimesLong": "{{times}} time(s)",
   "reqTimesShort": "x{{times}}",
   "reqSinkLabel": "撃沈:",
   "reqResultLabel": "評価:",
