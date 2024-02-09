@@ -199,6 +199,8 @@
   "questDetailsHeader": "詳細",
   "questTypeLabel": "Type:",
   "questFrequencyLabel": "Freq:",
+  "questReleasedLabel": "Released:",
+  "questEndedLabel": "Ended:",
   "questPrereqsLabel": "前提任務:",
   "questUnlocksLabel": "開放任務:",
   "questDetailsCompLabel": "編成条件:",

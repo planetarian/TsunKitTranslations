@@ -204,6 +204,8 @@
   "questDetailsHeader": "Details",
   "questTypeLabel": "Type:",
   "questFrequencyLabel": "Freq:",
+  "questReleasedLabel": "Released:",
+  "questEndedLabel": "Ended:",
   "questPrereqsLabel": "Prereqs:",
   "questUnlocksLabel": "Unlocks:",
   "questDetailsCompLabel": "Composition:",
