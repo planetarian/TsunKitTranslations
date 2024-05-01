@@ -218,6 +218,9 @@
   "panelEntityEquipGroupLabel": "装備:",
 
 
+  "editVersionOption": "Edit version:",
+  "editCurrent": "Current",
+  "editDraft": "Draft",
   "questGameIdLabel": "ゲーム内部ID:",
   "questWikiIdLabel": "Wiki任務ID:",
   "editAddPrerequisiteLabel": "追加:",

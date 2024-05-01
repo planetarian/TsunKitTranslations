@@ -223,6 +223,9 @@
 
 
 
+  "editVersionOption": "Edit version:",
+  "editCurrent": "Current",
+  "editDraft": "Draft",
   "questGameIdLabel": "Game ID:",
   "questWikiIdLabel": "Wiki ID:",
   "editAddPrerequisiteLabel": "Add:",
