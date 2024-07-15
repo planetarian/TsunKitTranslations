@@ -117,6 +117,8 @@
 
   "questChainLabel": "関連任務:",
   "questChainTip": "チェインになってる特筆出来る関連クエスト群のみを表示する",
+  "questChainBannerText": "Now viewing quest chain for:",
+  "questChainViewAllLabel": "View all",
   "questChainAll": "全てのクエスト",
   "questChainZ1": "Z1関連",
   "questChainSlot6": "最大同時受諾開放",
@@ -209,6 +211,9 @@
   "questDetailsSecretaryDisallowedLabel": "不可秘書:",
 
   "questRequirementsHeader": "達成条件",
+
+  "questActionsHeader": "Actions",
+  "questViewChainLabel": "View chain",
 
   "questRewardsHeader": "獲得報酬",
   "questRewardsChooseText": "選択:",

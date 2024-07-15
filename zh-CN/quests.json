@@ -121,6 +121,8 @@
 
   "questChainLabel": "Quest chain:",
   "questChainTip": "Choose from a selection of notable quest chains to display.",
+  "questChainBannerText": "Now viewing quest chain for:",
+  "questChainViewAllLabel": "View all",
   "questChainAll": "All quests",
   "questChainZ1": "Z1",
   "questChainSlot6": "6th quest slot",
@@ -213,6 +215,9 @@
   "questDetailsSecretaryDisallowedLabel": "Cannot use:",
 
   "questRequirementsHeader": "Requirements",
+
+  "questActionsHeader": "Actions",
+  "questViewChainLabel": "View chain",
 
   "questRewardsHeader": "Rewards",
   "questRewardsChooseText": "Choose:",
