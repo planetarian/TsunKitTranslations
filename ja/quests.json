@@ -116,9 +116,9 @@
   "ribbonFilterQuestFreqsLabel": "発生間隔:",
 
   "questChainLabel": "関連任務:",
-  "questChainTip": "チェインになってる特筆出来る関連クエスト群のみを表示する",
-  "questChainBannerText": "Now viewing quest chain for:",
-  "questChainViewAllLabel": "View all",
+  "questChainTip": "チェインツリーになってる特筆出来る関連クエスト群のみを表示する",
+  "questChainBannerText": "表示中ツリーは以下の関連任務群:",
+  "questChainViewAllLabel": "全表示に戻る",
   "questChainAll": "全てのクエスト",
   "questChainZ1": "Z1関連",
   "questChainSlot6": "最大同時受諾開放",
@@ -212,8 +212,8 @@
 
   "questRequirementsHeader": "達成条件",
 
-  "questActionsHeader": "Actions",
-  "questViewChainLabel": "View chain",
+  "questActionsHeader": "操作",
+  "questViewChainLabel": "前提ツリーを表示",
 
   "questRewardsHeader": "獲得報酬",
   "questRewardsChooseText": "選択:",
@@ -223,9 +223,9 @@
   "panelEntityEquipGroupLabel": "装備:",
 
 
-  "editVersionOption": "Edit version:",
-  "editCurrent": "Current",
-  "editDraft": "Draft",
+  "editVersionOption": "編集バージョン:",
+  "editCurrent": "現行版",
+  "editDraft": "下書き",
   "questGameIdLabel": "ゲーム内部ID:",
   "questWikiIdLabel": "Wiki任務ID:",
   "editAddPrerequisiteLabel": "追加:",
