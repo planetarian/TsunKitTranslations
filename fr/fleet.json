@@ -1,0 +1,20 @@
+{
+    "_commentTerms": "Vous pouvez définir des 'termes' arbitraires, puis les réutiliser par la suite avec des [[doubles crochets]], et ils seront automatiquement remplacés lors du rendu.",
+    "_commentTokens": "Tous les identifiants à l'intérieur d'{{accolades}} sont des jetons prédéfinis par KCNav qui seront remplacés par une valeur ou un élément lors du rendu.",
+    "_commentSpace": "Pour retirer tout le texte d'un élément, utilisez un espace. Laisser la zone complètement vide le remplacerait par la valeur par défaut à la place.",
+  
+
+    "loadingMessageText": "Requête en cours d'exécution, veuillez patienter...",
+    "loadingMessageTip": "Chargement...",
+    "noticeMessageTip": "Remarque!",
+    "noticeCloseLabel": "OK",
+    "badRenderMessageText": "Si vous voyez cela, vous avez probablement une ancienne version de KCNav en cache. Appuyez sur Ctrl+F5!",
+  
+    "footerTsunDBCreditText": "Alimenté par {{tsundb}}",
+    "footerContactText": "Des problèmes? Contactez Chami sur {{twitter}} ou sur le {{kcdiscord}}",
+    "footerTwitterLinkText": "Twitter",
+    "footerDiscordLinkText": "KC Discord Anglais",
+    "footerSupportText": "Soutenir KCNav sur {{link}}",
+    "footerSupportLinkText": "Ko-Fi"
+  
+}

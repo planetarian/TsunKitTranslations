@@ -1,0 +1,19 @@
+{
+    "_commentTerms": "再利用可能な任意の「term」を設定し、後で [[]]（二重角括弧）で参照すると、レンダリング時に自動的に置き換えられます。",
+    "_commentTokens": " {{}}（二重波括弧）内の識別子は、KCNavがレンダリング時に値や要素に置き換える定義済みのトークンです。",
+    "_commentSpace": "特定の翻訳文からすべてのテキストを削除するには、スペースを使用します。フィールドを完全に空にすると、代わりにデフォルト値がレンダリングされます。",
+  
+  
+    "loadingMessageText": "検索中、しばらくお待ちください…",
+    "loadingMessageTip": "Now loading...",
+    "noticeMessageTip": "注意!",
+    "noticeCloseLabel": "OK",
+    "badRenderMessageText": "古いバージョンのKCNavが表示されているようです。Ctrl+F5を押してリロードしてください！",
+  
+    "footerTsunDBCreditText": "Powered by {{tsundb}}",
+    "footerContactText": "何かあったら{{twitter}}か{{kcdiscord}}までChamiにご連絡してください",
+    "footerTwitterLinkText": "X/Twitter",
+    "footerDiscordLinkText": "英語圏KC Discord",
+    "footerSupportText": "{{link}}で開発者に寄付ができます(要PayPal)",
+    "footerSupportLinkText": "Ko-Fi"
+}

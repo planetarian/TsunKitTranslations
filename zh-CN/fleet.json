@@ -1,0 +1,19 @@
+{
+    "_commentTerms": "You can set arbitrary reusable 'terms', then reference them later with [[double brackets]] and they will automatically be replaced during rendering.",
+    "_commentTokens": "Any identifiers within {{curly braces}} are predefined tokens which KCNav will replace with a value or element during render.",
+    "_commentSpace": "To remove all text from a particular translation, use a space. Leaving the field completely empty will cause it to render the default value instead.",
+  
+  
+    "loadingMessageText": "检索中，请等待......",
+    "loadingMessageTip": "Now loading...",
+    "noticeMessageTip": "注意!",
+    "noticeCloseLabel": "OK",
+    "badRenderMessageText": "如果您看到这条信息，说明您可能缓存了旧版的KCNav，请使用Ctrl+F5刷新！",
+  
+    "footerTsunDBCreditText": "Powered by {{tsundb}}",
+    "footerContactText": "遇到问题？请通过{{twitter}}或者{{kcdiscord}}联系Chami",
+    "footerTwitterLinkText": "Twitter",
+    "footerDiscordLinkText": "English KC Discord",
+    "footerSupportText": "通过{{link}}赞助KCNav",
+    "footerSupportLinkText": "Ko-Fi"
+}

@@ -1,0 +1,19 @@
+{
+    "_commentTerms": "You can set arbitrary reusable 'terms', then reference them later with [[double brackets]] and they will automatically be replaced during rendering.",
+    "_commentTokens": "Any identifiers within {{curly braces}} are predefined tokens which KCNav will replace with a value or element during render.",
+    "_commentSpace": "To remove all text from a particular translation, use a space. Leaving the field completely empty will cause it to render the default value instead.",
+  
+  
+    "loadingMessageText": "실행 중, 잠시만 기다려 주세요...",
+    "loadingMessageTip": "로딩 중...",
+    "noticeMessageTip": "주의!",
+    "noticeCloseLabel": "OK",
+    "badRenderMessageText": "구버전 KCNav 캐시가 실행 중입니다. Ctrl+F5를 누르세요!",
+  
+    "footerTsunDBCreditText": "Powered by {{tsundb}}",
+    "footerContactText": "문제를 발견하셨나요? {{twitter}} 혹은 {{kcdiscord}}의 Chami에게 연락 바랍니다.",
+    "footerTwitterLinkText": "Twitter",
+    "footerDiscordLinkText": "KC Discord(영어)",
+    "footerSupportText": "{{link}}에서 KCNav를 위해 기부하실 수 있습니다.",
+    "footerSupportLinkText": "Ko-Fi"
+}

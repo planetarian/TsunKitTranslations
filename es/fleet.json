@@ -1,0 +1,20 @@
+{
+    "_commentTerms": "You can set arbitrary reusable 'terms', then reference them later with [[double brackets]] and they will automatically be replaced during rendering.",
+    "_commentTokens": "Any identifiers within {{curly braces}} are predefined tokens which KCNav will replace with a value or element during render.",
+    "_commentSpace": "To remove all text from a particular translation, use a space. Leaving the field completely empty will cause it to render the default value instead.",
+  
+
+    "loadingMessageText": "Ejecutando query, por favor espere...",
+    "loadingMessageTip": "Cargando...",
+    "noticeMessageTip": "¡Noticia!",
+    "noticeCloseLabel": "OK",
+    "badRenderMessageText": "Si ves esto, probablemente estés usando una versión antigua de KCNav en caché. ¡Pulsa Ctrl+F5!",
+  
+    "footerTsunDBCreditText": "Impulsado por {{tsundb}}",
+    "footerContactText": "¿Algún problema? Contacta con Chami en {{twitter}} o el {{kcdiscord}}",
+    "footerTwitterLinkText": "Twitter",
+    "footerDiscordLinkText": "Discord de KC en inglés",
+    "footerSupportText": "Apoya KCNav en {{link}}",
+    "footerSupportLinkText": "Ko-Fi"
+  
+}
