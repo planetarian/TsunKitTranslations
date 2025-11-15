@@ -127,6 +127,8 @@
   "fcfUsageNo": "미사용",
   "filterNoFCFUsageTip": "퇴피 커맨드를 사용하지 않은(사용하기 전의) 데이터를 표시합니다.",
 
+  "displayNodeIconsLabel": "Node icons",
+  "displayNodeIconsTip": "Display nodes using in-game icons. Uses simple vector icons if disabled.",
   "displayMapBackgroundLabel": "배경에 맵 표시",
   "displayMapBackgroundTip": "인게임 맵을 배경에 표시합니다.",
   "displayLBASDistanceLabel": "전투행동반경",

@@ -126,6 +126,8 @@
   "fcfUsageNo": "Nein",
   "filterNoFCFUsageTip": "Zeige Missionen, in denen FCF (noch) nicht aktiv war",
 
+  "displayNodeIconsLabel": "Node icons",
+  "displayNodeIconsTip": "Display nodes using in-game icons. Uses simple vector icons if disabled.",
   "displayMapBackgroundLabel": "Kartenhintergrund",
   "displayMapBackgroundTip": "Zeige den im Spiel verwendeten Kartenhintergrund",
   "displayLBASDistanceLabel": "LBAS-Reichweite",

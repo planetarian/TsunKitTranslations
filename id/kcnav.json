@@ -127,6 +127,8 @@
   "fcfUsageNo": "[[termNo]]",
   "filterNoFCFUsageTip": "Menampilkan perjalanan dimana FCF tidak (atau belum) diaktifkan.",
 
+  "displayNodeIconsLabel": "Node icons",
+  "displayNodeIconsTip": "Display nodes using in-game icons. Uses simple vector icons if disabled.",
   "displayMapBackgroundLabel": "Latar belakang peta",
   "displayMapBackgroundTip": "Menampilkan latar belakang berupa gambar peta di dalam permainan.",
   "displayLBASDistanceLabel": "Jarak LBAS",

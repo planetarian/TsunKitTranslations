@@ -122,6 +122,8 @@
   "fcfUsageNo": "No",
   "filterNoFCFUsageTip": "包含未使用司令部退避的資料.",
 
+  "displayNodeIconsLabel": "Node icons",
+  "displayNodeIconsTip": "Display nodes using in-game icons. Uses simple vector icons if disabled.",
   "displayMapBackgroundLabel": "背景",
   "displayMapBackgroundTip": "Display the map background image used in-game.",
   "displayLBASDistanceLabel": "陸航距離",

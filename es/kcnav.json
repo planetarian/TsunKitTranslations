@@ -127,6 +127,8 @@
   "fcfUsageNo": "[[termNo]]",
   "filterNoFCFUsageTip": "Mostrar salidas en las que la instalación de mando de la flota no se ha activado (aún).",
 
+  "displayNodeIconsLabel": "Node icons",
+  "displayNodeIconsTip": "Display nodes using in-game icons. Uses simple vector icons if disabled.",
   "displayMapBackgroundLabel": "Fondo del mapa",
   "displayMapBackgroundTip": "Mostrar la imagen de fondo del mapa utilizada en el juego.",
   "displayLBASDistanceLabel": "Distancia de apoyo aéreo",

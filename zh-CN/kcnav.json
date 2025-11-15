@@ -125,6 +125,8 @@
   "fcfUsageNo": "否",
   "filterNoFCFUsageTip": "包含未使用司令部撤离的情况",
 
+  "displayNodeIconsLabel": "Node icons",
+  "displayNodeIconsTip": "Display nodes using in-game icons. Uses simple vector icons if disabled.",
   "displayMapBackgroundLabel": "背景",
   "displayMapBackgroundTip": "显示游戏中的海域背景",
   "displayLBASDistanceLabel": "航程",

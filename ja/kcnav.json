@@ -135,6 +135,8 @@
   "fcfUsageNo": "[[termNo]]",
   "filterNoFCFUsageTip": "艦隊司令部施設を装備or使用していない（=退避艦を含まない）データでフィルタリングできます。",
 
+  "displayNodeIconsLabel": "Node icons",
+  "displayNodeIconsTip": "Display nodes using in-game icons. Uses simple vector icons if disabled.",
   "displayMapBackgroundLabel": "背景画像",
   "displayMapBackgroundTip": "ゲーム内で使用される背景画像の表示設定ができます。",
   "displayLBASDistanceLabel": "戦闘行動半径",
