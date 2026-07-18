@@ -141,7 +141,7 @@
   "displayMapBackgroundTip": "ゲーム内で使用される背景画像の表示設定ができます。",
   "displayLBASDistanceLabel": "戦闘行動半径",
   "displayLBASDistanceTip": "基地航空隊が各[[termNode]]への戦闘行動半径の表示設定ができます。",
-  "displayNodeGimmicksLabel": "ギミック",
+  "displayNode]sLabel": "ギミック",
   "displayNodeGimmicksTip": "イベントマップのギミック解除や段階遷移が必要のマスと条件の表示設定ができます。",
   "displayNodeSeasonalLabel": "期間限定",
   "displayNodeSeasonalTip": "期間限定ミニイベント(秋刀魚祭りなど)のドロップやギミックの表示設定ができます。",
@@ -382,6 +382,7 @@
   "gimmickRankAS": "優",
   "gimmickRankAP": "均",
   "gimmickRankAD": "劣",
+  "gimmickRankAI": "喪",
 
   "pathName": "{{fromNode}}→{{toNode}}",
   "edgeName": "([[termEdge]]ID: {{edgeID}})",
