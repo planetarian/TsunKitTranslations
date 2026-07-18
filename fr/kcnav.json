@@ -372,6 +372,7 @@
   "gimmickRankAS": "[[termAirAS]]",
   "gimmickRankAP": "[[termAirAP]]",
   "gimmickRankAD": "[[termAirAD]]",
+  "gimmickRankAI": "[[termAirAI]]",
 
   "pathName": "{{fromNode}}→{{toNode}}",
   "edgeName": "([[termEdge]] {{edgeID}})",

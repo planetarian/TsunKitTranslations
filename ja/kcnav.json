@@ -382,6 +382,7 @@
   "gimmickRankAS": "優",
   "gimmickRankAP": "均",
   "gimmickRankAD": "劣",
+  "gimmickRankAI": "AI",
 
   "pathName": "{{fromNode}}→{{toNode}}",
   "edgeName": "([[termEdge]]ID: {{edgeID}})",
